@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Windows CPI-C Considerations
 The following Common Programming Interface for Communications (CPI-C) calls and Windows extensions are of particular importance. You should review them before using Host Integration Server.  

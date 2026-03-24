@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # System
 Use these menu commands to configure and run your Enterprise Single Sign-On system.  

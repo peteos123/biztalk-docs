@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Back up the Existing Security Data
 For safety purposes, you should back up your existing security data before you migrate to Enterprise Single Sign-On.  

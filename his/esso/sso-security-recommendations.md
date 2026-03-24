@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # SSO Security Recommendations
 This section contains recommendations for how to help secure your Enterprise Single Sign-On (SSO) system.

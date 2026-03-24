@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # TI Component Properties
 In the Visual Studio environment, Transaction Integrator (TI) component properties appear and are edited in the **Properties** pane. When you select an entity in the Visual Studio tree view or list view, its properties appear in categories in the **Properties** pane. When you select multiple items, the intersection of their properties appear to allow for bulk edit.  

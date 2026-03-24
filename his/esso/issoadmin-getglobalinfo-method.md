@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOAdmin.GetGlobalInfo Method
 The **GetGlobalInfo** method gets the global Enterprise Single Sign-On (SSO) configuration information from the Enterprise Single Sign-On server database.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Secure Deployment of Enterprise Single Sign-On
 This section outlines a typical scenario for secure deployment of Enterprise Single Sign-On (SSO). For detailed procedures on the actions to take in SQL Server, see your SQL Server documentation.  

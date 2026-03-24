@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Verb Control Block
 The only parameter passed to the **APPC** function is the address of a verb control block (VCB). The VCB is a structure made up of variables that:  

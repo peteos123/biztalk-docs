@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # TRMIN
 Use the **TRMIN** keyword to override the default transaction request message (TRM) containing the transaction program ID, user ID, password, and other administrative data sent to the host. The COMTIContext context name is **TRMIN**. The TRM must be defined as a user-defined type (UDT), and the name of that UDT must begin with the characters TRMIN.  

@@ -2,7 +2,7 @@
 title: Update center
 description: See all the available cumulative updates and service packs available for HIS and OLE DB Provider for DB2.
 ms.service: host-integration-server
-ms.topic: concept-article
+ms.topic: release-notes
 ms.date: 12/13/2023
 ---
 

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOPSWrapper Interface (COM)
 The ISSOPSWrapper interface allows developers to create password sync adapters in either managed or native code.  

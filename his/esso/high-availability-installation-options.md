@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # High-Availability Installation Options
 Topics in this section describe installation focused on high availability of Enterprise Single Sign-On, such as multicomputer deployment.  

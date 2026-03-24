@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Single Sign-On Applications
 From a programming perspective, you can write two different kinds of applications using Single Sign-On: a traditional Single Sign-On application that uses the Single Sign-On interface to interact with remote applications, and a password sync adapter that uses the Password Sync (PS) Helper interface to synchronize passwords across your enterprise.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SExternalAccount Fields
 The fields of the **SExternalAccount** interface are listed in the following table. For a complete list of **SExternal** interface members, see [SExternalAccount Members](../esso/sexternalaccount-members.md).  

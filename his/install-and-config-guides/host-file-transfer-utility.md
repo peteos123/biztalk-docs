@@ -6,7 +6,7 @@ ms.date: 10/24/2016
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Host File Transfer Utility
 As in any standard Microsoft Windows application, you can use keyboard shortcuts in Host File Transfer Utility to access commands that are otherwise available by using menus. The following table describes the available keyboard shortcuts.  

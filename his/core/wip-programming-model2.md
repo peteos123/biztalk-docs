@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # WIP Programming Model
 The programming models provide a synchronous bridge between the component object model (COM) or the .NET Framework and the mainframe transaction-programming model. Consequently, Transaction Integrator (TI) has no APIs that a developer must use.  

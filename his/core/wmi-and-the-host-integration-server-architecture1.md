@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # WMI and the Host Integration Server Architecture
 The architecture of the Windows Management Instrumentation (WMI) technology includes management applications, managed objects, providers, and the management infrastructure.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: system-utilities
 ---
 # Windows Utilities
 Microsoft Windows has several built-in utilities that can assist you in tracking system usage, problems, and performance. These utilities can provide the administrator with valuable information about any computer on the network.  

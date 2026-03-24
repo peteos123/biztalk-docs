@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Single Sign-On Interface
 The following table describes the COM and .NET Framework interfaces that make up the Single Sign-On interface.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # WINCSV.H File
 Use the **#include** command to include the WINCSV.H file in any application that issues CSVs.  

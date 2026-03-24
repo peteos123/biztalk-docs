@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Configuration Requirements for Host Initiated SSO
 Although Enterprise Single Sign-On (SSO) and host-initiated SSO have certain aspects in common, certain platform and Active Directory requirements are unique to host-initiated SSO. This topic discusses those requirements, and lists the steps to check or create them on your system.

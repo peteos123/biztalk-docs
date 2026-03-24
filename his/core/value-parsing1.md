@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Value Parsing
 The following describes the syntax for value parsing for the Managed Provider for Host Files and provides an example.  

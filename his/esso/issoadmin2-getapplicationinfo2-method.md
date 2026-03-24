@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOAdmin2.GetApplicationInfo2 Method
 The **GetApplicationInfo2** method gets the application information from the Enterprise Single Sign-On (SSO) server database.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # TN3270 Configuration
 This section describes the management and configuration of certificates necessary for running TN3270 on [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)].  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Accessibility
 Microsoft is committed to making its products and services easier for everyone to use. Microsoft OLE DB Provider for DB2 contains features that make them more accessible for people with disabilities. The topics in this section describe these features.  

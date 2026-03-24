@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # UPDATE Statement
 The following describes the `UPDATE` statement for the Managed Provider for Host Files and provides a sample `UPDATE` statement.  

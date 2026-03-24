@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Enterprise Single Sign-On Tasks
 You can use either the Microsoft Management Console (MMC) Snap-in or the command-line management utility (ssomanage) to manage the Single Sign-On (SSO) system. This includes activities such as updating the SSO database, adding, deleting, and managing applications, and administering user mappings.  

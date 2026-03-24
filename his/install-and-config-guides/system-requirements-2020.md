@@ -6,7 +6,7 @@ ms.date: "5/5/2020"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 
 # System Requirements

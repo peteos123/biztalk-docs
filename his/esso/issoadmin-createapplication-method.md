@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOAdmin.CreateApplication Method
 The **CreateApplication** method creates an application in the Enterprise Single Sign-On (SSO) server database.  

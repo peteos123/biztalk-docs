@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Transaction Programs that Run for a Long Time
 Several special considerations apply when a transaction program (TP) runs for a long time. The topics in this section address these considerations.  

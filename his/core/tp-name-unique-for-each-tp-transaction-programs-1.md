@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # TP Name Unique for Each TP (Transaction Programs)
 If you want to specify the system on which the invokable transaction program (TP) will run, you can use a unique TP name for each invokable TP. In this arrangement, the invoking TP identifies the invokable TP (and system) by naming the TP. This makes it unnecessary for an invokable TP to specify any LU alias in registry or environment variables.  

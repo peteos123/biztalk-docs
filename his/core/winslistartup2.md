@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # WinSLIStartup
 The **WinSLIStartup** function allows an application using the Session Level Interface (SLI) verbs to specify the version of Microsoft Windows logical unit application (LUA) required and to retrieve details of the specific Windows LUA implementation. This function must be called by an application to register itself with a Windows LUA implementation before issuing any further Windows LUA calls.  

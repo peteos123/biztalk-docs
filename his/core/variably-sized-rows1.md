@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Variably Sized Rows
 When the last column in a record is a string, the row can be variably sized. Its size can vary between zero and the maximum size specified in the picture clause. When you have variably sized rows, your application must explicitly specify the size of each row before the row is sent.  

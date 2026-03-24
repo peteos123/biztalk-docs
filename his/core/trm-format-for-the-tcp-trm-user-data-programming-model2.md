@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # TRM Format for the TCP TRM User Data Programming Model
 This section describes the format and content of the transaction request message (TRM) used by the TCP TRM User Data programming model.  

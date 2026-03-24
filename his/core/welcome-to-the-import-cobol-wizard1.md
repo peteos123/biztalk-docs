@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Welcome to the Import COBOL Wizard
 The Import Host Definition Wizard supports both COBOL and RPG. You can use the Import wizard to help you select a COBOL copy book or RPG data declaration and use it for designing the component in the designer. To start this wizard, select **Import Host Definition** on the **Library** top-level menu.  

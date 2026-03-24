@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Windows-Initiated Processing
 Windows-initiated processing (WIP) enables Windows-based client applications to invoke mainframe based transaction programs (TPs). Transaction Integrator (TI) along with the Windows operating system includes everything you need to build, deploy, and manage TI components that enable mainframe transaction programs (TPs) to interoperate with Windows-based COM and .NET applications.  

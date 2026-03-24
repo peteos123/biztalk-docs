@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Table of Parameters for IBM i Communication
 The following table summarizes details about configuring [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] for the IBM i environment.  

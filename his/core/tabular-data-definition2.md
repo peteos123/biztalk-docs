@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Tabular Data Definition
 In many cases, the input or output data that Transaction Integrator (TI) handles might be in tabular or array format. TI allows you to define this type of data as one of the following formats:  

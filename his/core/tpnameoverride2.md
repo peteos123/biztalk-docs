@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # TPNameOverride
 Use the **TPNameOverride** keyword to override the transaction ID assigned within the type library and to specify the new transaction ID to be sent to the host. The COMTIContext context name is **TPNameOverride**; the value must be a string that contains a valid mainframe transaction ID.  

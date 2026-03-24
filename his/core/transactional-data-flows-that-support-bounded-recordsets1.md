@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Transactional Data Flows That Support Bounded Recordsets
 This data flow model does not support unbounded recordsets. (An unbounded recordset has no set number of rows.)  

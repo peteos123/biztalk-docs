@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Transaction Integrator Conversion Tool
 The TIConversionTool command-line utility makes it quick and easy to migrate to Host Integration Server from HIS 2010, HIS 2009, HIS 2008, HIS 2006 and HIS 2004. You can use it to convert Window Initiated (WIP) or Host Initiated (HIP) TLBs and .NET assemblies created in earlier versions of HIS to Host Integration Server .NET assemblies. You can use it to convert a single TLB or assembly, or multiple TLBs or assemblies.  

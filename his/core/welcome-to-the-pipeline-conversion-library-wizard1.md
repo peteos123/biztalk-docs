@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 f1_keywords: 
   - "his_ui_help_CTEB"
 ---

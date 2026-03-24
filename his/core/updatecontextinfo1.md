@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # UpdateContextInfo
 Use the **UpdateContextInfo** method to update the client **COMTIContext** array with the current state of the connection.  

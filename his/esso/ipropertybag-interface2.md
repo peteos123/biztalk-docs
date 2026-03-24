@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # IPropertyBag Interface2
 The IPropertyBag interface acts as a parameter for ISSOConfigStore, and also allows you to change the behavior of specific interfaces in the Enterprise Single Sign-On (SSO) object model.  

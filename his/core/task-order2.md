@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Task Order
 Just as with the SNA Manager, configuration tasks must be carried out in a certain order with the command-line interface. For example, before configuring an LU, you must configure the connection that the LU will use. You can vary the interface you use for each configuration task, as long as you carry out the tasks in order, and as long as you have already installed [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] with the [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] Setup and then run the SNA Manager. For example, you can carry out tasks using the SNA Manager, then the command-line interface, then the SNA Manager again, as long as the tasks are done in the correct order.  

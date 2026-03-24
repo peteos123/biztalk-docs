@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Use the /print Option
 The **/print** option can make it easier to carry out repetitive configuration actions, if you have a detailed understanding of [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] configurations and of the **snacfg** command. Here are some ways of using the **/print** option:  

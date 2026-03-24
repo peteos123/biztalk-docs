@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Enterprise Single Sign-On
 Enterprise Single Sign-On (SSO) provides services to enable single sign-on for end users in enterprise application integration (EAI) solutions. The SSO system maps Microsoft Windows accounts to back-end credentials. SSO simplifies the management of user IDs and passwords, both for users and administrators. It enables users to access back-end systems and applications by logging on only one time to the Windows network.  

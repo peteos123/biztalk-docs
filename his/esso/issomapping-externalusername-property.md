@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOMapping.ExternalUserName Property
 The **ExternalUserName** property specifies the external (non-Microsoft Windows) user name.  

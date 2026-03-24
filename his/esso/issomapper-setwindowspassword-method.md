@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOMapper.SetWindowsPassword Method
 The **SetWindowsPassword** method sets the Microsoft Windows password. This method is not currently implemented.  

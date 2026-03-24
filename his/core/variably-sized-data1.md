@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Variably Sized Data
 A string or array parameter that is the last parameter in its direction (last of the inputs and in/outs or last of the outputs and in/outs) can be smaller than the maximum size specified, even without an associated actual size. The variable string or array must be a parameter or return value and cannot be contained in a recordset.  

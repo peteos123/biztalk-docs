@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Security and Protection
 The following sections provide help for securing and protecting deployments of Data Provider.  

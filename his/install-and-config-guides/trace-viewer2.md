@@ -6,7 +6,7 @@ ms.date: 10/24/2016
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Trace Viewer
 As in any standard Microsoft Windows application, you can use keyboard shortcuts in Trace Viewer to access commands that are otherwise available by using menus. The following table describes the available keyboard shortcuts.  

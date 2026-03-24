@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Transaction Programs
 The part of an application that initiates or responds to APPC communications is called a transaction program (TP). TPs use APPC to exchange data with other TPs on a peer-to-peer basis.  

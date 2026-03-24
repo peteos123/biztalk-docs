@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Data Access Tool
 The Data Access Tool enables administrators and developers to be more efficient when they define and test connections to remote IBM DB2 database servers. The Data Access Tool displays configured data sources in a scope and results pane, similar to Windows Explorer. The Data Access Tool offers an intuitive Data Source Wizard, which guides you through the process of defining, test-verifying, and storing connection information. The Data Access Tool simplifies configuring network, security and database information and helps you create packages on the DB2 system. You can use it to test connections, run sample queries and convert data sources.  

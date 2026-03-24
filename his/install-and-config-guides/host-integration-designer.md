@@ -6,7 +6,7 @@ ms.date: "10/24/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Host Integration Designer
 As in any standard Microsoft Windows application, you can navigate through the design surface by using your keyboard instead of your mouse. The following table describes the available keyboard shortcuts.  

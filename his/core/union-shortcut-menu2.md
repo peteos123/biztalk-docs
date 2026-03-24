@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Union Shortcut Menu
 When you select a union from the **Union** node in the **Library** tree, the following shortcut menu commands are available:  

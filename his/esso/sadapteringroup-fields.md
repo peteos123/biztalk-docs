@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SAdapterInGroup Fields
 The fields of the **SAdapterInGroup** interface are listed in the following table. For a complete list of **SExternal** interface members, see [SAdapterInGroup Members](../esso/sadapteringroup-members.md).  

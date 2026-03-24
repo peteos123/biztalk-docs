@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # COM Mapper Programmer's Reference
 Component Object Model (COM) objects are used for accessing the Enterprise Single Sign-On (SSO) technology for Microsoft Host Integration Server.  

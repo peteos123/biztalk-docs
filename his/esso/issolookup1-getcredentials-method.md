@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: concept-article
+ms.topic: reference
 ---
 # ISSOLookup1.GetCredentials Method
 The **GetCredentials** method retrieves the user credentials for an application.  

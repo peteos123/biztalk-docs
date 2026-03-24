@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOAdmin.DeleteApplication Method
 The **DeleteApplication** method deletes an application from the Enterprise Single Sign-On (SSO) server database.  

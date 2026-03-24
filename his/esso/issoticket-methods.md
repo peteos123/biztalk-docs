@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOTicket Methods
 The methods of the **ISSOTicket** interface are listed in the following table. For a complete list of **ISSOTicket** interface members, see [ISSOTicket Members](../esso/issoticket-members.md).  

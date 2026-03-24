@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Windows Transactions vs. Mainframe Transactions
 In the [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] Help, a transaction in the Microsoft Windows .NET Framework environment does not mean the same thing as a transaction in the mainframe environment.  

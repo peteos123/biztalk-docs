@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # IPropertyBag Methods1
 The method of the IPropertyBag interface is described in the following table. For a complete list of IPropertyBaginterface members, see [IPropertyBag Members](../esso/ipropertybag-members.md).  

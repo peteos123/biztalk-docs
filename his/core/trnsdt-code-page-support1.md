@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # TrnsDT Code Page Support
 The TrnsDT API is used to perform all DBCS EBCDIC-to- ASCII conversions throughout Host Integration Server. To a degree, TrnsDT has been and continues to be a uniform translation method and cross-component resource. TrnsDT also handles mixed DBCS and SBCS, plus SBCS for Japan.  

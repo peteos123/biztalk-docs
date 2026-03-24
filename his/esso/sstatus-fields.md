@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SStatus Fields
 The fields of the **SStatus** interface are listed in the following table. For a complete list of **SExternal** interface members, see [SStatus Members](../esso/sstatus-members.md).  

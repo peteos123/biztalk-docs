@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # WMI with Host Integration Server Programming Considerations
 The following section discusses various issues that you need to know about when programming Windows Management Instrumentation (WMI) with Host Integration Server.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSONotification.SendNotification Method
 Sends a notification, such as a password change, from the adapter to the ENTSSO system.  

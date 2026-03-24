@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # TCPIP Network Client Errors
 The following table lists TCPIP Network Client error constants, values, SqlState, SqlCode and a description of the error.  

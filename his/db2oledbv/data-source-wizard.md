@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Data Source Wizard
 You can use the Data Source Wizard to guide you through the steps to configure and save data source information that is required to connect the Data Provider for DB2 (Data Provider) to remote IBM DB2 database servers. Data Source Wizard helps to simplify configuring and testing network connections, working with packages, defining character string code page conversions, working with security and encryption, and validating and saving the configuration. The following sections describe the Data Access Wizard dialogs and the actions that you can perform on each dialog.

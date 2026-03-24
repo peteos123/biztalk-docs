@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOMapping.WindowsUserName Property
 The **WindowsUserName** property specifies the Microsoft Windows user name.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # WHERE Clause Parsing
 The following describes the parsing rules for a `WHERE` clause for the Managed Provider for Host Files and provides sample parsing statements.  

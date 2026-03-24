@@ -6,7 +6,7 @@ ms.date: "12/12/2023"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Enterprise Single Sign-On Flags
 The following flags are used with the Microsoft® Host Integration Server Enterprise Single Sign-On (SSO) methods.  

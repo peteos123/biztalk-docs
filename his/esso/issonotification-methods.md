@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSONotification Methods
 The method of the **ISSONotification** interface is listed in the following table. For a complete list of **ISSONotification** interface members, see [ISSONotification Members](../esso/issonotification-members.md).  

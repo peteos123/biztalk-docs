@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOLookup2 Methods
 The methods of the **ISSOLookup2** interface are listed in the following table. For a complete list of **ISSOLookup2** interface members, see [ISSOLookup2 Members](../esso/issolookup2-members.md).  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Web-to-Host Load Balancing
 Internet Information Services (IIS) can use Windows Network Load Balancing (NLB) to provide load balancing and fail-over support for incoming HTTP requests. NLB is a TCP/IP-based load balancing solution that load balances incoming TCP/IP packets to all nodes in a cluster or to a single node in a cluster. NLB distributes the load across identical servers.  

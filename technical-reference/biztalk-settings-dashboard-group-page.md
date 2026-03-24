@@ -2,7 +2,7 @@
 title: BizTalk Settings Dashboard, Group Page
 description: Read about the settings on the dashboard, including receive locations, tracking, and more.
 ms.service: biztalk-server
-ms.topic: how-to
+ms.topic: ui-reference
 ms.date: 02/10/2020
 ---
 

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Deployment Process
 The following steps give a high-level overview of secure deployment of Enterprise Single Sign-On (SSO). For detailed procedures on the actions to take in SQL Server, see the SQL Server documentation.  

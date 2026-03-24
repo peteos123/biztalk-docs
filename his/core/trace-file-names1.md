@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Trace File Names
 Each trace file has two names associated with it, \<*Filename*1>.atf and \<*Filename*2>.atf.  

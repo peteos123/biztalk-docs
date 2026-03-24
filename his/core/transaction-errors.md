@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Transaction Errors
 The following table lists transaction error constants, values, SqlState, SqlCode, Hresult and a description of the error.  

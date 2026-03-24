@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Windows PowerShell and WMI Provider for HIS
 Windows PowerShell is a task-based command-line shell and scripting language that you can use to administer client and server computers that are running Windows operating systems. Built on the .NET Framework, Windows PowerShell enables you to control and automate the administration of Host Integration Server, through the Host Integration Server Windows Management Interface (WMI) provider. The SNA Administration PowerShell samples illustrate how you use PowerShell to administer common objects in an Host Integration Server SNA Services configuration, including viewing the configuration of SNA Services, TN3270 and TN520 Services, and Host Print Services  

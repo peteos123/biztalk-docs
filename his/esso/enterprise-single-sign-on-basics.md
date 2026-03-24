@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Enterprise Single Sign-On Basics
 To understand Enterprise Single Sign-On (SSO), it is useful to look at the three types of Single Sign-On services available today: Windows integrated, extranet, and intranet. These are described in the following sections, with Enterprise Single Sign-On falling into the third category.  

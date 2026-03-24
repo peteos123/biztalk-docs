@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # XML Support
 A `DataSet` object can persist and reload its contents as XML and its schema as XSD. The `DataSet` has direct support for reading (shredding) and writing data using XML using the .NET Framework `XmlReader` and `XmlWriter` classes. When you are writing XML, the output conforms to the W3C XSD schema. XML is a good method of moving data between application tiers. The `XMLDataDocument` can use the XML services, such as XSL/T and XPath.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Transaction Request Messages
 When you use TCP/IP to communicate with CICS, the client sends the host a transaction request message (TRM) request containing the Transaction Program ID, User ID, Password, and other administrative data to be used by the host. CICS sends the client a TRM reply containing additional administrative data. The data in the TRM is independent from the actual program data to be exchanged with the Transaction Program (TP) on the host.  

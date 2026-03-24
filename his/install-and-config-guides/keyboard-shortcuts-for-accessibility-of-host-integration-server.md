@@ -6,7 +6,7 @@ ms.date: 10/24/2016
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Keyboard Shortcuts for Accessibility of Host Integration Server
 In addition to the accessibility features and utilities in Windows, Host Integration Server has keyboard shortcuts for certain features that make it more accessible for people with disabilities.  

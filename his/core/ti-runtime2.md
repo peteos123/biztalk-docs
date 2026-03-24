@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # TI Runtime
 The TI run-time environment is a specialized run-time environment started by Windows or a requesting IBM application program when the application contains a TI component. For each TI component you create, the TI run-time environment provides the Automation server interface and communicates with the mainframe programs. The TI run-time environment does not have a visible user interface.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SYNCPT Verb Issued Remotely
 ![Image that shows a SYNCPT verb issued remotely.](../core/media/appc2da.gif "appc2da")  

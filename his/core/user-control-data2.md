@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # User Control Data
 For mapped conversations, the [MC_SEND_DATA](./mc-send-data1.md) verb and the receive verbs ([MC_RECEIVE_AND_POST](./mc-receive-and-post2.md), [MC_RECEIVE_AND_WAIT](./mc-receive-and-wait2.md), and [MC_RECEIVE_IMMEDIATE](./mc-receive-immediate2.md)) are modified to allow applications to send and receive data in user control data general data stream (GDS) variables instead of the regular application data GDS variables. The **MC_SEND_DATA** verb is modified as follows:  

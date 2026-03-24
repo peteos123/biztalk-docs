@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Trace Utility Help
 If you are working to improve performance or solve a problem in Host Integration Server , you can use trace tools to determine the source of the problem.  

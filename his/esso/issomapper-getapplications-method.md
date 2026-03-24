@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ISSOMapper.GetApplications Method
 The **GetApplications** method retrieves the available applications for a Microsoft Windows user.  

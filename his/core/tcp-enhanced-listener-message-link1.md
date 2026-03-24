@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # TCP Enhanced Listener Message Link
 The TCP enhanced listener message (ELM) Link model allows data and parameters to be passed between TI and the server TP using the COMMAREA. The model also allows a Concurrent Server to link to a CICS DPL program. The enhanced Listener was introduced in CICS Transaction Server version 1.4, and its architecture increases the efficiency of the CICS TCP/IP environment by eliminating the TRM and TRM Reply sequence sequence. The enhanced Listener accepts a header and request data from the client in the initial stream and eliminates the need for the server application to deliver a separate response before the application data is made available. The enhanced Listener requires the client to:  
