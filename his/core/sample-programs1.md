@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Sample Programs
 A collection of sample programs is delivered with the Microsoft® Host Integration Server Software Development Kit (SDK) in the \SDK\SAMPLES. 

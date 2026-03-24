@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # The Sample Itinerary Scenarios
 The following table lists all the predefined Itinerary files included with the Itinerary On-Ramp sample. These are located in the \Source\Samples\Itinerary\Itineraries folder.  

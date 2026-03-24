@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Library Properties
 Use the **Library** properties page to set design and remote environment (RE) properties on the component library or .NET assembly.  

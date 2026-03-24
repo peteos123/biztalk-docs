@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Acknowledgement generation has failed as maximum limit of Edifact transaction set control number has been reached for global settings
 ## Details  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The ESB Add Namespace and Remove Namespace Components
 Many companies were early adopters of XML technologies at the time when standards were still emerging and document sharing was uncommon. Therefore, they did not strictly enforce the requirements for including unique root namespaces, which is usually the case today.  

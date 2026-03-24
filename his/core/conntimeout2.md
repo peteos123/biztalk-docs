@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # CONNTIMEOUT
 Use the CONNTIMEOUT keyword to reclaim orphaned persistent connections. **CONNTIMEOUT** takes an integer value specifying, in seconds, how long to wait before a persistent connection is considered abandoned and then automatically closed. The timing starts as the client call processing is completed by the COM+ or .NET generic object.  

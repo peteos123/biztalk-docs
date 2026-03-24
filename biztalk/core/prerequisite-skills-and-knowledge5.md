@@ -6,7 +6,7 @@ ms.date: "09/27/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Prerequisite Skills and Knowledge
 Readers of [Understanding BizTalk Server](../core/understanding-biztalk-server.md) are expected to already have knowledge of EAI technologies and the general challenges of heterogeneous application integration.  

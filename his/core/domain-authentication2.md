@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Domain Authentication
 A *domain*, as it pertains to Windows, is a group of computers that share a network resource database and have a common security policy. A Windows domain contains a *primary domain controller* (PDC) computer that acts as the resource and user manager for the entire domain. One or more computers in the domain can be configured to act as a *backup domain controller* (BDC). The BDC can take over for the PDC should any problems arise. The remaining computers in the domain are user workstations or servers that provide resources to domain users.  

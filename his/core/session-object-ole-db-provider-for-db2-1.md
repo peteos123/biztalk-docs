@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Session Object (OLE DB Provider for DB2)
 The **Session** object is created by a **DataSource** object. The **Session** object is used to create one or more **Rowset** objects.  

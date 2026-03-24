@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Dynamic Design-Time Adapter Configuration
 There are situations where static design-time adapter configuration and the standard default UI in the Add Adapter Metadata Wizard is not flexible enough to display an adapter's services for a BizTalk project to import. Alternatively, you can use dynamic design-time configuration, where you provide a customized UI to the wizard to display and select your adapter's services. The BizTalk Adapter Framework provides a set of APIs that you can use to import the required schemas for the adapter and to display the custom UI.  

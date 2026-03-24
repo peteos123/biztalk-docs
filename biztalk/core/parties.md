@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Parties
 A party, or organizational unit, represents an entity outside of BizTalk Server that interacts with an orchestration. In BizTalk Server, each organization with which you exchange messages is represented by a party. You can define how the party interacts by enlisting it in a role.  

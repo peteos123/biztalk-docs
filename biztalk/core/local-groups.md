@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Local Groups
 The Configuration Manager creates the necessary Windows group and user accounts for you by default if you install BizTalk Server and all prerequisite software on a single computer. BizTalk Server supports local group and user accounts only in single computer configurations.  

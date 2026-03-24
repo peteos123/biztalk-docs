@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Conversation States
 The state of the conversation (as viewed by a particular TP) governs which APPC verbs the TP can issue at a particular time. For example, a TP cannot issue [MC_SEND_DATA](./mc-send-data1.md) if the conversation is not in SEND state for that TP.  

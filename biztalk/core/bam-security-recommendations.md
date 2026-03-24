@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # BAM Security Recommendations
 We recommend that you follow these guidelines for securing and deploying BAM in your environment:

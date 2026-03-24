@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Databases in BizTalk Server
 Microsoft BizTalk Server installs several databases in SQL Server. This topic describes these databases, and the SQL logic groups used by these databases.  

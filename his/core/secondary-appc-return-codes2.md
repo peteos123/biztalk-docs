@@ -3,7 +3,7 @@ description: "Learn more about: Secondary APPC Return Codes"
 title: "Secondary APPC Return Codes2"
 ms.date: "11/30/2017"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: error-reference
 ---
 
 # Secondary APPC Return Codes

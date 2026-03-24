@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # DL-BASE/DMOD Entry Points
 This section provides definitions for the entry points to the DL-BASE and the Dynamic Access Module (DMOD).  

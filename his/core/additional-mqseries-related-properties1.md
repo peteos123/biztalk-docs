@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Additional MQSeries Related Properties
 There are additional MQSeries-related properties included in the property schema and available for use within your BizTalk Server application. These are applicable when dealing with CICS or IMS applications. The following table lists these properties.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Mappings (Enlisted Party Node)
 The Mappings node of a binding file is the parent node for all of the Mapping nodes which describe the mapping between a party port and role port type operation.  

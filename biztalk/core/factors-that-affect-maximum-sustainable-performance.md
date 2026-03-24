@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Factors that Affect Maximum Sustainable Performance
 Maximum sustainable throughput is directly impacted by a wide range of factors such as available server resources, the type of features used in the solution, message size, and overall message load. There are other factors to be considered though that may not be immediately obvious. The following factors should also be considered when estimating maximum sustainable performance:  

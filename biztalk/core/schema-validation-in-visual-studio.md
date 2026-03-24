@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Schema Validation in Visual Studio
 After you have finished creating a schema, or at different times during its creation, you can validate it to determine whether it contains any internal inconsistencies, or has other issues that might prevent it from being used effectively for process instance messages.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # ValidationAdapter
 The ValidationAdapter sample demonstrates how to run special validation rules on a message in a responder public process. Microsoft® [!INCLUDE[BTARN_CurrentVersion_FirstRef](../../includes/btarn-currentversion-firstref-md.md)] natively performs validation in the send or receive pipeline, and in orchestrations. If you want to perform additional validation, you can create a validation adapter. The additional validation could include cross-field validation or business-specific validation rules that you cannot implement using an XSD.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Appendix A: Sample Files
 Microsoft BizTalk Adapter for JD Edwards EnterpriseOne supports the jdeRequest and jdeResponse XML structures for executing business functions within JD Edwards EnterpriseOne.  

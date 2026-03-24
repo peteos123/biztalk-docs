@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # SelectiveBindingImport (Application Deployment Sample)
 This topic explains how to use the SelectiveBindingImport sample. You can use this sample script to apply different bindings to an application when you import the application into different destination environments. You can use this approach when you want to import the bindings from binding files that are stored on a network share.  

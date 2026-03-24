@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Send Components
 The pipeline and pipeline components described in this topic process EDI messages that are not EDI/AS2 messages. For information about the sending of EDI/AS2 or non-EDI/AS2 messages, see [AS2 Send Components](../core/as2-send-components.md). Note that AS2 send components perform EDI processing in addition to AS2 processing.  

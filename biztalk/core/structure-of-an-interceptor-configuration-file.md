@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Structure of an Interceptor Configuration File
 This section contains information about the structure of an interceptor configuration file. This basic structure is shared for both WF and WCF interceptor configurations.  

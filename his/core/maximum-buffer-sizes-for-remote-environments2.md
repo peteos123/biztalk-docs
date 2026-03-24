@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Maximum Buffer Sizes for Remote Environments
 Both Transaction Integrator (TI) and mainframe applications must be designed not to exceed the following buffer size or transfer limitations:  

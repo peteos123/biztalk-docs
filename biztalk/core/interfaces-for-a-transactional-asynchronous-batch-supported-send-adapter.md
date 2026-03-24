@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interfaces for a Transactional Asynchronous Batch-Supported Send Adapter
 A send adapter can create and control transactions when transactional transmission of messages is required. To support transactional send, an adapter needs to implement the following interfaces:  

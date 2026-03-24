@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SendPort (SendPortCollection Node)
 The SendPort node of a binding file contains specific information about a send port that is exported with the binding file.  

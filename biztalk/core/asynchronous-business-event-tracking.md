@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Asynchronous Business Event Tracking
 Asynchronous (using `BufferedEventStream`) - This model offers significant performance improvements. This uses a similar API to the synchronous model, using only a different constructor. Instead of pushing the data into the primary import database, BufferedEventStream accumulates the event data in memory in binary form, and then inserts it as a single table record into an interim database (MessageBox). The Event Bus service reads the data queued in the MessageBox database by BizTalk and imports it into the primary import database.  

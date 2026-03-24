@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security Case Studies: Company A
 Company A is a major supplier of material and services to the industrial sector. Its business model relies on electronic transactions with key customers and suppliers. Company A uses Microsoft BizTalk Application to manage transactions and communications between internal and external environments.  

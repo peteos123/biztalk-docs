@@ -6,7 +6,7 @@ ms.date: "10/18/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Samples for the SAP adapter
 Samples for [!INCLUDE[adaptersap](../../includes/adaptersap-md.md)] are categorized into:  

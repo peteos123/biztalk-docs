@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Considerations When Publishing WCF Services with the WCF Receive Adapters
 This topic provides information that you should take into consideration when publishing WCF services with the WCF receive adapters.  Publishing a service using a WCF adapter allows it to be called by a WCF client as if it were a typical WCF service.

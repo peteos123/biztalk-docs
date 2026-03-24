@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Send Adapter Termination
 The adapter must terminate gracefully when the BizTalk service is shutdown. The sequence is shown in the following figure.  

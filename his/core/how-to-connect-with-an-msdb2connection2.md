@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Connect with an MsDb2Connection
 The first step in accessing a remote DB2 database is to connect to the database. You must use `Microsoft.HostIntegration.MsDb2Client.MsDb2Connection` to access an IBM DB2 data source. After you have connected, you can retrieve, modify, and update any information that you want. Note that connections are not implicitly released when the MsDb2Connection falls out of scope or is reclaimed by garbage collection. Therefore, you must close the connection when you are finished using it. You can close a connection by using either `MsDb2Connection.Close` or `MsDb2Connection.Dispose`.  

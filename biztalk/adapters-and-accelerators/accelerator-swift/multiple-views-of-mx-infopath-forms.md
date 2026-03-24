@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Multiple Views of MX InfoPath forms
 The MX InfoPath form templates might be divided into separate views. If the total number of fields in the schema is large, then there will be different views of the same template otherwise there will be only a single view of the template.While doing the Message Repair in the Message Repair and New submission workflow, the different views of the message can be browsed from the View Menu.  

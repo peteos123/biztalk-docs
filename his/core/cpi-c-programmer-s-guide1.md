@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # CPI-C Programmer's Guide
 This section of the Host Integration Server Developer's Guide provides information about developing applications with the Common Programming Interface for Communications (CPI-C).  

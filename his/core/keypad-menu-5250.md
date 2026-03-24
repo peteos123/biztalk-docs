@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Keypad Menu (5250)
 Standard 5250 function keys can be selected from the Keypad menu. The direct keyboard mapping is displayed in the right-most column of the menu.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Data Providers for DB2 Security and Protection
 You can use the data providers for DB2 (Data Provider) to connect Windows data consumer applications to remote IBM DB2 relational database management servers. The Data Provider function as a distributed relational database architecture (DRDA) application requester client that supports the DRDA protocol and formats that are compatible with IBM DB2 server products functioning as DRDA application servers.  

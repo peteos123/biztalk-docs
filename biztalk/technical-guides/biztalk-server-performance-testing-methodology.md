@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BizTalk Server Performance Testing Methodology
 This section provides information about the performance testing methodology used for this guide.  

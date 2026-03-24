@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Date and Time Parameters
 Transaction Integrator (TI) converts and formats the **Date** and **Time** parameters exchanged with the host differently, depending on the programming language and the host platform.  

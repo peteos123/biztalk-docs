@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SSO for Native Adapters
 Enterprise Single Sign-On (SSO) enables you to sign on only once when interoperating with different computer systems or Web sites. This feature of Microsoft [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] enables BizTalk adapters to provide the appropriate user ID and credentials to multiple applications within your network that use a common authentication mechanism based on your Microsoft Windows credentials. After Windows authenticates your credentials, you do not need to provide additional credentials to connect to the applications.  

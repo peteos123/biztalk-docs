@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Structure Shortcut Menu
 When you select a structure type in the tree view in HIS Designer, the following shortcut menu commands are displayed.  

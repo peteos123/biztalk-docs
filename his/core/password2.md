@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # PASSWORD
 Use the **PASSWORD** keyword, combined with **USERID**, to provide explicit security without the need for a callback. The COMTIContext context name is **PASSWORD**; the value must be a string that contains a valid mainframe security password.  

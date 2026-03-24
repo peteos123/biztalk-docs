@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-problem-resolution
 ---
 # There are no orchestrations with public receive ports in this BizTalk assembly
 ## Details  

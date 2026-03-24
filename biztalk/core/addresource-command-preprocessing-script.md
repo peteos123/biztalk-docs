@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # AddResource Command: Preprocessing Script
 To add a preprocessing script to a BizTalk application, you use the **AddResource** command and specify **System.BizTalk:PreProcessingScript** for the Type parameter. Running this command adds the script file to the BizTalk Management database. The script file is also displayed in the BizTalk Administration console, in the Resources folder of the application to which you added it. In addition, the file is listed when you use the [ListApp Command](../core/listapp-command.md).  

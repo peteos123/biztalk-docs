@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # State Errors (Category X&#39;20&#39;)
 Sense codes in this category indicate a sequence number error, or a request/response header (RH) or request/response unit (RU) that is not allowed in the receiver's current state. This condition prevents delivery of the request to the intended half-session. The following codes are in this category.  

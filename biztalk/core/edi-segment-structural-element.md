@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Segment Structural Element
 The segment contains one or more data elements, and is an intermediate unit of information in the message. Each segment starts with a three-character data segment identifier, and ends with a segment terminator (by default the apostrophe (')). The data elements within the segment are separated by data element separators. The data element separator is by default the plus sign (+). A segment is classified as Mandatory or Optional. Separators for outgoing interchanges can be set in the agreements between two trading partners or as part of fallback trading partner agreement.  

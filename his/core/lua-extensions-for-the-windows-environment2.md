@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LUA Extensions for the Windows Environment
 The extensions described in this section are designed for Microsoft® Windows®. They provide support for programming compatibility and optimum application performance in 32-bit operating environments. These extensions are supported on Platforms:  Windows Server 2022, Windows Server 2019, Windows Server 2016, Windows 11, and Windows 10.  

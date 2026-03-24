@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # LAN Throughput
 The **100baseT** alternative to connect the Transaction Integrator (TI)/Host Integration Server computer to your host system is the most popular and currently the most available. This topic explains the bandwidth offered by **100baseT**, and the amount of that bandwidth that you can actually start using productively.  

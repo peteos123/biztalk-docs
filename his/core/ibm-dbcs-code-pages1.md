@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # IBM DBCS Code Pages
 Transaction Integrator (TI) recognizes the following code pages as IBM double-byte character set (DBCS) code pages:  

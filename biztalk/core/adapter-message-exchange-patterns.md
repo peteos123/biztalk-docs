@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Adapter Message Exchange Patterns
 The BizTalk Adapter Framework supports a rich set of message exchange patterns that adapters can use in many powerful messaging scenarios.  

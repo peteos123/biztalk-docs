@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Publish WCF Services
 An orchestration can be published as a WCF service in BizTalk Server to be called by WCF clients.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Host Integration Server Extensions
 The Host Integration Server **DISPLAY** verb is compatible with the IBM ES for OS/2 version 1.0 **DISPLAY** verb. However, since IBM ES for OS/2 version 1.0 is a single-server system and Host Integration Server supports multiple-server systems, the **DISPLAY** verb has been extended to allow the user to target a specific server running Host Integration Server by which the **DISPLAY** verb will be processed.  

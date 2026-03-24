@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # What Happens When Artifacts Are Imported
 This topic describes what happens to artifacts when they are imported. There are three ways to import artifacts, which are covered in this topic:  

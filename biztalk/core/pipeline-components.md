@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Pipeline Components
 The Visual Studio Toolbox is populated with several standard BizTalk Server components that you can use to create a pipeline.  

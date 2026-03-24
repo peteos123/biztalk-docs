@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # SSO (BizTalk Server Samples Folder)
 Microsoft [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] includes two Enterprise Single Sign-On (SSO) samples in its software development kit (SDK). This section provides detailed information about the functionality that the SSO samples demonstrate, instructions for building and running the samples, and the results you can expect.  

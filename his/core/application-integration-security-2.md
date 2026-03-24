@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Application Integration (Security)
 Security affects Transaction Integrator (TI) in two ways. First, TI components can be assigned security attributes in the same way as other COM+ components. This requires no TI development. Second, the TI run-time environment needs to deal with the security mechanisms of the remote environment (RE). TI provides two security options with an optional override for each:  

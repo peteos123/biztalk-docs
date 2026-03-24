@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Integer Data Type
 Binary Integer data types apply to COBOL COMP and Report Program Generator (RPG) Integer data types. Automation data types support only a 16-bit or 32-bit Integer. Therefore, you should ensure that your client application is passing binary integer equivalents to the Transaction Integrator (TI) Automation server.  

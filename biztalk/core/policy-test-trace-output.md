@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Policy Test Trace Output
 When you test your policy, the policy tester displays the output in the version information window. This section describes the activities included within the trace.  

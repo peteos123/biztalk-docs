@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ImportApp Command
 Imports the artifacts contained in an .msi file into a BizTalk application. If the application does not already exist, it is created.  

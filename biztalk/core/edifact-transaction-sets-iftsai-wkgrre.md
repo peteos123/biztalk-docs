@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # EDIFACT Transaction Sets IFTSAI-WKGRRE
 This topic lists the EDIFACT transaction sets that are supported by BizTalk Server.  

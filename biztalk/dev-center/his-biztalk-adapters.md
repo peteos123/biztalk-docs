@@ -4,7 +4,7 @@ description: Overview of BizTalk adapters for Host Applications, host files, DB2
 ms.date: "10/10/2017"
 ms.service: biztalk-server
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 
 # BizTalk adapters for host systems

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-known-issue
 ---
 # Memory Leak in User-Defined Types
 If Microsoft COM Transaction Integrator (COMTI) is configured to use a "Customer Information Control System (CICS) or Information Management System (IMS) by using TCP/IP" Remote Environment (RE), and a client application repeatedly calls the COM+ component, which in turn instantiates COMTI objects by using user-defined types, eventually the application might fail and return the following error message:  

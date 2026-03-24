@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # AddResource Command: Virtual Directory
 To add a virtual directory for a Web site or Web services to a BizTalk application, you use the **AddResource** command and specify **System.BizTalk:WebDirectory** for the Type parameter. Running this command adds the virtual directory to the BizTalk Management database. The virtual directory is also displayed in the BizTalk Server Administration console, in the Resources folder of the application to which you added it. In addition, the virtual directory is listed when you use the [ListApp Command](../core/listapp-command.md).  

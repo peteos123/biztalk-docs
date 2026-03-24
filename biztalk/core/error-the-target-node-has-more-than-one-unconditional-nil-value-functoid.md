@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Error- The target node &#39;{0}&#39; has more than one unconditional Nil-Value functoid connected to it. Reduce the number to one.
 **Error Code**

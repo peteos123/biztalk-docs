@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # DataRelationCollection
 A `DataSet` object contains relationships in its `DataRelationCollection` object. A relationship, represented by the `DataRelation` object, associates rows in one `DataTable` with rows in another `DataTable`. It is analogous to a join path that might exist between primary and foreign key columns in a relational database. A `DataRelation` identifies matching columns in two tables of a `DataSet`.  

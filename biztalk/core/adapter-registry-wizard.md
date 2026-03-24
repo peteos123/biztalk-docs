@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Adapter Registry Wizard
 You use the Adapter Registry Wizard to create the registry files needed to configure and register a custom adapter.  

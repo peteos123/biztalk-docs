@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Orchestration Designer Keyboard Shortcuts
 The Orchestration Designer design surface provides full accessibility using the keyboard. This accessibility begins when you open the design surface, which you can do in Visual Studio by selecting menu options beginning with the **New** option on the **File**menu.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # COBOL FILLER
 If COBOL data declarations that are imported into Transaction Integrator (TI) Project contain a COBOL FILLER clause or clauses, space is allocated in the message so that the filler is represented correctly for the mainframe program's data alignment. The filler is hidden from the Automation interface.  

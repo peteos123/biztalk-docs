@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # EDIFACT CONTRL Message as Technical Acknowledgment
 If you have selected to generate a technical acknowledgment in business profile settings or trading partner agreement (or fallback agreement if no agreement is defined between the two business profiles), or if the UNB9 field in the message is set to "2", a CONTRL message will be generated as a technical acknowledgment. This ACK reports the results of the receipt of the interchange.  

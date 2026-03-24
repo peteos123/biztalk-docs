@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # IMS LU6.2 User Data
 The IMS LU6.2 programming model provides access to IMS transactions using LU6.2.  

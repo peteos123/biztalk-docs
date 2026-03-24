@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Update References to the BAM Notification Services Databases
 For information about updating references to the BAM Notification Services databases, see [Updating References to the New BAM Notification Services Databases](../technical-guides/how-to-move-the-bam-notification-services-databases1.md#BKMK_NotiUpdate).  

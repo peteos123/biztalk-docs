@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # XSD Resources on the Web
 Providing details of the XML Schema definition (XSD) language, or even adequately summarizing XSD, is beyond the scope of this document. For more detailed information, go directly to the XSD specifications and primer maintained on the World Wide Web Consortium (W3C) Web site. Specifically, the following tutorials are recommended, the first as a quick way to learn the basics, and the latter two as the definitive sources of information about XSD. For tutorials on XSD, see the following W3C pages:

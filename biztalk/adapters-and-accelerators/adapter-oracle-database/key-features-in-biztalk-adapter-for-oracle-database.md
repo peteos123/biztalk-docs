@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: whats-new
 ---
 # Key Features in BizTalk Adapter for Oracle Database
 This section lists the new and deprecated features in [!INCLUDE[adapteroracle](../../includes/adapteroracle-md.md)].  

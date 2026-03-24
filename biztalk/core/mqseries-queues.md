@@ -6,7 +6,7 @@ ms.date: "12/30/2022"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MQSeries Queues
 To send messages to MQSeries queues, you can specify a remote definition queue, an alias queue, a transmission queue, or a local queue in the Queue Manager.  

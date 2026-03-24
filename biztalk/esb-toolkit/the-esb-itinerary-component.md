@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The ESB Itinerary Component
 The ESB Itinerary component sets the context properties from the SOAP header sent along with the message to an ESB itinerary on-ramp.  

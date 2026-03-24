@@ -6,7 +6,7 @@ ms.date: "10/19/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 
 # Create your application artifacts for PeopleSoft Enterprise

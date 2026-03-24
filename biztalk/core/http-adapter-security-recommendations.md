@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # HTTP Adapter Security Recommendations
 You use the HTTP adapter to exchange information between [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] and an application by means of the Hypertext Transfer Protocol (HTTP). Applications can send messages to a server by sending HTTP POST or HTTP GET requests to a specified HTTP URL. For more information about the HTTP adapter, see [HTTP Adapter](../core/http-adapter.md). It is recommended that you use the following guidelines for securing and deploying the HTTP adapter in your environment:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-general
 ---
 # APPC or LUA Application Failures
 These applications may be written internally, or may be commercial applications. If an error code is produced on an APPC application, it is documented in the "APPC Applications."  

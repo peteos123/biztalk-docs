@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Custom Type Converter for Adapter Configuration
 Like the custom editor, the custom type converter overrides the **System.ComponentModel.TypeConverter** class of one of its children. Here, the converter adds formatting to the value to be persisted but does not appear on the property page. The **ConvertFrom** method adds square brackets around the string value and the **ConvertTo** method removes them.  

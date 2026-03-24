@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Configuration Information
 To obtain information about the Microsoft® Host Integration Server 3270 configuration, the application uses the calls listed in the following table.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Receive Adapter URI
 The URI for the receive adapter is constructed based on the Tuxedo end point information (SWIFT://\<SwTuxSrv\>) for the SWIFTNet Link (SNL), and the message partner (SWIFT://\<SagMessagePartner\>) information for the SWIFTAlliance Gateway receive adapter (SAG-RA) deployment.  

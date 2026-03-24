@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Phase 3: Preparing for the Assessment
 The Prepare phase of a performance assessment can be thought of as the “how” to the Scope phase’s “what” and the Plan phase’s “when.” At this point in the performance assessment, all stakeholders should have agreed upon the scope of the engagement and the plans for conducting the lab. It is in the Prepare phase of the performance assessment where the plans are executed and steps are taken to get ready for execution of the performance lab.  

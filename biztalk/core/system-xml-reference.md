@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # System.Xml Reference
 The **System.Xml** reference namespace provides standards-based support for processing XML documents. This default reference is necessary for all BizTalk projects to function properly. It is highly recommended that you do not delete this default reference.

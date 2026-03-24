@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # EDI Document Schema Support
 This section lists the specific EDI transaction set schemas that are provided with BizTalk Server.  

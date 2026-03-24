@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Stages of a BizUnit Test Case
 Each BizUnit test case consists of three stages: **TestSetup**, **TestExecution**, and **TestCleanup**. Each stage contains one or more test steps that are responsible for performing a single discrete unit of work; for example, the **FileCreateStep** is responsible for creating a file in a location you specify with a given filename.  BizUnit includes over 70 test steps and also provides extension capabilities which allow new test steps to be easily added to the framework. The ability to add new steps to the framework allows BizUnit to be used across a broad range of scenarios. This topic describes the BizUnit test stages in further detail.  

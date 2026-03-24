@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Component Interface User-Defined Methods
 Microsoft BizTalk Adapter for PeopleSoft Enterprise supports user-defined methods in component interfaces. The signatures are of the form:  

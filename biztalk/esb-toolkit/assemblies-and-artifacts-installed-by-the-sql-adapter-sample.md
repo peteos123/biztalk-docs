@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Assemblies and Artifacts Installed by the SQL Adapter Sample
 The following table lists the assemblies and other artifacts installed for the SQL Adapter sample.  

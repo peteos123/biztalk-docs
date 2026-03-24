@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Dependencies and Application Deployment
 This topic describes how dependencies between artifacts in two or more BizTalk applications affect application deployment and maintenance.  

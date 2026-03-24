@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Set application context
 In [!INCLUDE[adapteroracleebusinesslong](../../includes/adapteroracleebusinesslong-md.md)], setting application context is mandatory for some Oracle E-Business Suite artifacts (interface tables, interface views, concurrent programs, and request sets) before you can perform operations on them. The [!INCLUDE[adapteroraclebusinessshort](../../includes/adapteroraclebusinessshort-md.md)] does not allow you to perform operations on these artifacts until you have set the application context. However, for artifacts in the underlying Oracle database, it is up to the user whether they want to set the application context or not.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # What operations are supported by the SQL adapter
 You can use the adapter clients to perform operations on the SQL Server database by:  

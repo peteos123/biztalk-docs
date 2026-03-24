@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Optional Nodes
 Using optional nodes will produce a warning when you test your map. There are two conditions in which a source node may be considered optional:  

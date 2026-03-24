@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Field Considerations
 There are a number of considerations that you should keep in mind when working with **Field Element** and **Field Attribute** nodes within your schemas. This includes the basic distinctions regarding when to use each of these nodes types, as well as more specific considerations related to the specification of field lengths, field justification, and field padding. This section provides information about these considerations.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Context Properties
 These context properties are only meaningful from BizTalk Server concepts and are available to be used by BizTalk applications.  

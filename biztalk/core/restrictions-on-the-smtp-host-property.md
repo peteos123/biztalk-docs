@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Restrictions on the SMTP Host Property
 The SMTP host property is a string that specifies the SMTP server that the SMTP adapter will use to send messages from the BizTalk server.  

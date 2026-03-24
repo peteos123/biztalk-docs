@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Supported Adapter XSD Element Types
 The following table lists the elements supported by the Adapter Framework. When defining a new element in your configuration schema, use any of the following types to replace `string` in the following example:  

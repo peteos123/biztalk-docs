@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Message Reference for the Business Process Management Solution
 This section lists the messages and message types used by each orchestration in the solution.  

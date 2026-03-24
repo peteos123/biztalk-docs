@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BindingInfo Node
 The **BindingInfo** node of a binding file is the root node of a binding file and contains information that applies to all of the entries in the binding file as well as information about the BizTalk Server that the binding file was exported from.  

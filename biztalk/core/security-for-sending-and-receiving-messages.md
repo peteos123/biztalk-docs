@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security for Sending and Receiving Messages
 The following figure shows what happens to a message as BizTalk Server receives it, processes it, and sends it to another application or partner.  

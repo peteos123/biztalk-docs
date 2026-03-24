@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: language-reference
 ---
 # XLANG-s Expressions
 An expression is a sequence of operators and operands. This topic illustrates the syntax that XLANG/s supports for various expressions.  

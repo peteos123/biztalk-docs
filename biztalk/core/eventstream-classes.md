@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # EventStream Classes
 The EventStream APIs for BAM reside in the Microsoft.BizTalk.BAM.EventObservation namespace. To code against the APIs, you must install the following DLLs on your development computer:  

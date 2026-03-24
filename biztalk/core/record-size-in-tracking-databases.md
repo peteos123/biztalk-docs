@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Record Size in Tracking Databases
 To help you plan your hardware requirements for BizTalk, the following table shows the expected record size for various event records in the Tracking database.  

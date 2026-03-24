@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SNANLS Dependencies
 The only file required to support the SNA National Language Support (SNANLS) API on Windows operating systems is SNANLS.DLL. To link to this .dll, use the SNANLS.H header (located under the \SDK\INCLUDE subdirectory) and the SNANLS.LIB library file (located under the \SDK\LIB subdirectory) supplied with the Host Integration Server SDK. Note that individual Win32 NLS resource files must be installed in order to support the various languages and code pages on Windows.  

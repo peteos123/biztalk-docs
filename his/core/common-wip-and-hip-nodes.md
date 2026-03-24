@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Common WIP and HIP Nodes
 The following nodes are common to both Host-Initiated Processing and Windows-Initiated Processing.

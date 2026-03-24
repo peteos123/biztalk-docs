@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Acknowledgment Structure
 This section contains topics describing the structure of X12- and EDIFACT-encoded acknowledgment messages.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Lesson 2: Creating a Strong-Named BizTalk Assembly for the SWIFTSchemas Project
 In this lesson, you create a strong name upon which the BizTalk assemblies are compiled and deployed. A strong-named assembly provides several security benefits:  

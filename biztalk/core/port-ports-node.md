@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Port (Ports Node)
 The port node of a binding file contains specific information about a port or distribution list that is bound to a service that is exported with the binding file.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Alert Manager on the BAM Portal Page
 Business users, developers, and business analysts use the Alert Manager on the BAM portal page to create or edit an alert.  

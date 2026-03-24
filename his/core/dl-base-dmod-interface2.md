@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # DL-BASE/DMOD Interface
 This section describes the interface to the Host Integration Server DL-BASE. It includes a listing of the entry points that an application such as a 3270 emulator can call. These entry points allow messages to be sent to and received from services such as the local 2.1 node.  

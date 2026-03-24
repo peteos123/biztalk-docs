@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # HIPAA Document Schema Version 5010
 The U.S. Department of Health and Human Services (HHS) announced a final rule on January 16, 2009, that replaces the current HIPAA version 4010A1 with version 5010. Version 5010 of the HIPAA standards includes improvements in structural, front matter, technical, and data content. These improvements will reduce and eliminate ambiguities in data while also addressing a few previously unmet business needs. BizTalk Server provides support for HIPAA version 5010.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SSCP Session Characteristics
 For SNA type 2.1 nodes, the system services control point (SSCP) session uses function management (FM) profile 0 and Transmission Service profile (TS profile) 1. This combination of profiles provides the following session characteristics:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Pipelines-AssemblerDisassembler (BizTalk Server Samples Folder)
 Microsoft [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] includes three assembler/disassembler pipeline samples in its software development kit (SDK). This section provides detailed information about the functionality that each assembler/disassembler sample demonstrates, instructions for building and running the samples, and the results you can expect.  

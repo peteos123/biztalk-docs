@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-general
 ---
 # Settings to Check for All Connection Types
 When you are configuring a new [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] connection or troubleshooting an existing connection, regardless of the connection type, the identifiers must match between the [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] computer and the host. The type of identifier (ID or name) is as follows:  

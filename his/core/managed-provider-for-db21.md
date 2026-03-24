@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Managed Provider for DB2
 Host Integration Server includes a Managed Provider to access data from a loosely coupled data source: in this case, a DB2 database. The Managed Provider for DB2 uses two central .NET Framework components to implement this capability: the ADO.NET `DataSet` object and the Managed Provider for DB2 itself.  

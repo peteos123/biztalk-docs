@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Advanced Configuration Components for Adapters
 The BizTalk Adapter Framework supports a custom drop-down editor, a custom modal dialog editor, and a custom type converter. These custom design components are especially useful when taking user name and password information as input.  

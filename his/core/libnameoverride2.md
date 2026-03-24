@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LibNameOverride
 When using the IBM i DPC programming model, LibNameOverride identifies the library where the IBM i operating system should look to locate the executable program.  

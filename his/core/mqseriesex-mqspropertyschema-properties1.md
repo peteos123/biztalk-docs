@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # MQSeriesEx.MQSPropertySchema Properties
 This contains additional context properties that are applicable only to the MQSC adapter (client-based MQSeries Adapter) for receive location and send port configurations. They are not applicable to the server-based adapter. These properties are associated with the channel configuration.  

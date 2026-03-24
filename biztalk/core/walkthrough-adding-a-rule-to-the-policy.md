@@ -6,7 +6,7 @@ ms.date: "04/05/2016"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Walkthrough: Adding a Rule to the Policy
 This walkthrough provides step-by-step procedures for adding a rule named **DeniedRule** to the **ProcessPurchaseOrder** policy.  

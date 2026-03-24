@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Custom Adapter Configuration Designer
 You need to build the custom designers into a .NET class library. You may incorporate them into the DLL for the adapter or build a separate DLL. After you build a designer assembly, you must reference it through decorations, just like a description or a category. The reference includes a specification of the assembly and a fully qualified class name to use.  

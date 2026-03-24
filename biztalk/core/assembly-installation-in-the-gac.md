@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Assembly Installation in the GAC
 Each computer contains a global assembly cache (GAC) that contains the assemblies that are used by one or more applications on that computer. For [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] to process messages during run time, the assemblies included in a BizTalk application must be present in the GACs of the computers that run the application.  

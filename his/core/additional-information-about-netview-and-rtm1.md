@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Additional Information About NetView and RTM
 For additional information about NetView and RTM see [Network Management](../core/network-management-with-netview1.md) The following topics are discussed:  

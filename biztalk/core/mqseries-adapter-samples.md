@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # MQSeries Adapter Samples
 This section contains samples that illustrate advanced functionality when using the BizTalk MQSeries Adapter.  

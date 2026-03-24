@@ -3,7 +3,7 @@ description: "Learn more about: Connection Status"
 title: "Connection Status1"
 ms.date: "11/30/2017"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: concept-article
 ---
 
 # Connection Status

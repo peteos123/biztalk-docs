@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # UI Reference for BizTalk Adapter for JDE OneWorld
 The topics in this section describe the user interface for Microsoft BizTalk Adapter for JD Edwards OneWorld.  

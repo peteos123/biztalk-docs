@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How TI Enables TPs to Return Exceptions
 TI provides a Meta data mechanism for returning exceptions from Automation server applications like TI applications. TI uses this mechanism to provide the mainframe developer with an optional way to return mainframe error information (also known as exception data) back through the normal application.  

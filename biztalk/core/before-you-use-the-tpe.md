@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Before You Use the TPE
 Before you start working with the Tracking Profile Editor (TPE), we recommend that you understand BizTalk Server and how it works to facilitate communications across different platforms and applications.  

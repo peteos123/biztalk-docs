@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # APPC Applications
 Advanced Program-to-Program Communications (APPC) can be used to support a wide range of applications. This section describes how Host Integration Server is used to support the following services:  

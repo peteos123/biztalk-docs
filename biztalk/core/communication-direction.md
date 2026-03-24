@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Communication Direction
 Each *port* has its own communication direction. The communication direction is used in combination with the communication pattern of the port's type to complete the definition of how a port can be used. The communication direction, or polarity, determines in which direction messages will be transmitted over that port.  

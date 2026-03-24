@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Status-Control
 For details about **Status-Control** message usage and for a summary of control type codes, see [Status-Control Message](./status-control-message1.md).

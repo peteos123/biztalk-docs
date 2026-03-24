@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Process Manager Logic
 This section describes how the process manager, the **OrderManager** orchestration, processes orders. It describes key fields in the various order messages and follows new and updated orders through the orchestration.  

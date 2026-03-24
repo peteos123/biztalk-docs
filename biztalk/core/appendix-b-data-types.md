@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Appendix B: Data Types
 This section provides JD Edwards EnterpriseOne-specific information about using generated schemas for Microsoft BizTalk Server.  

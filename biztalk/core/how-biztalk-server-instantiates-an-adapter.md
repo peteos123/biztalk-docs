@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How BizTalk Server Instantiates an Adapter
 When the BizTalk service starts, all receive adapters are instantiated, as long as they have one or more configured and active receive locations. By default a send adapter is not instantiated until the Messaging Engine removes from the queue the first message to be sent by using that send adapter. (This is sometimes called "lazy creation.") However, if you need to instantiate a send adapter on service startup, you can use the **InitTransmitterOnServiceStart** adapter capability. This directs the Messaging Engine to create the send adapter on service startup rather than using the default lazy creation. The default lazy creation approach helps to reduce the amount of system resources used when adapters are not configured on endpoints.  

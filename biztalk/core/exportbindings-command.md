@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ExportBindings Command
 Exports bindings for a BizTalk assembly, application, or group. You can also export global party bindings along with the assembly, application, or group bindings. (A party is all the entities, such as partners of your organization, that interact with an orchestration.)  

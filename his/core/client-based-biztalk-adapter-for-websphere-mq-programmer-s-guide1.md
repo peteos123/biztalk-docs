@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Client-Based BizTalk Adapter for WebSphere MQ Programmer&#39;s Guide
 This section discusses how to use the client-based BizTalk Adapter for WebSphere MQ.  

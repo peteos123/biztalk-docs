@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # MIME-SMIME Encoder Pipeline Component
 The MIME/SMIME Encoder component can be placed into the Encode stage of a send pipeline. It supports 7bit, 8bit, binary, quoted-printable, base64, and UUencode encoding. Localized data character set changes do not affect the encoding.  

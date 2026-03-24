@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # The Resolver Class
 The **Resolver** class is a simple structure that exposes a name/value pair. The Resolver Web service returns a generic collection of instances of this class from its methods.  

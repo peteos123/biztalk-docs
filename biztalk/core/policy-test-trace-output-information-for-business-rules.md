@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Policy Test Trace Output Information for Business Rules
 This section provides information on the tracking information that is displayed when testing a policy in the Business Rule Composer. Very similar information is seen when viewing tracking results for policy execution using the message event and service instance tracking queries on the Group Hub page.  

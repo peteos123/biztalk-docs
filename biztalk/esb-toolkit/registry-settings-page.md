@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Registry Settings Page
 Figure 1 shows the Registry Settings page, where you can modify the settings the portal uses when it interacts with the Universal Description, Discovery, and Integration (UDDI) service.  

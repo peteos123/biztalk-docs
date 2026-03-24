@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SendPortRef (SendPorts Node)
 The SendPortRef node of the SendPorts node of a binding file specifies the name of a send port referenced by a distribution list.  

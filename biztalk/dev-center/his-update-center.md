@@ -4,7 +4,7 @@ description: See all the available cumulative updates and service packs availabl
 ms.date: "10/18/2017"
 ms.service: biztalk-server
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 
 

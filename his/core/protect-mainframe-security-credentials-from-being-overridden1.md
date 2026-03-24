@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Protect Mainframe Security Credentials from Being Overridden
 To prevent an attacker from gaining control over security credentials used to access a mainframe host, you should do the following:  

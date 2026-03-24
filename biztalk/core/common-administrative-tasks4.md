@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Common Administrative Tasks
 The following table provides links to topics useful for deploying and maintaining BizTalk Server system.  

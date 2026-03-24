@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Create a channel using Siebel
 This section demonstrates how to create a channel for direct messaging with Siebel by providing and consuming XML messages.  

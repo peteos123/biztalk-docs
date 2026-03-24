@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LUA VCB Format
 The logical unit application (LUA) verb control block (VCB) is called [LUA_VERB_RECORD](../core/lua-verb-record2.md). It is a structure with two parts:  

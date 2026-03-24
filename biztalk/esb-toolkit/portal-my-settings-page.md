@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Portal My Settings Page
 The ESB Management Portal retains settings for each user. These settings include the list of applications to show in the charts on the [Portal Home Page](../esb-toolkit/portal-home-page.md), and the default period for the charts. Figure 1 shows the My Settings page, where you can edit these settings.  

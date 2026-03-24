@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # SSO System Properties: Accounts
 This screen displays account properties for the overall Enterprise Single Sign-On (SSO) system.  

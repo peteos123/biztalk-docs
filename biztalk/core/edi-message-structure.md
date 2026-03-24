@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Message Structure
 EDI messages consist of an envelope and a hierarchical series of structural elements. The envelope contains a set of headers and trailers, each set of which describes and contains a structural element. These structural elements are as follows:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Implicit Incoming Remote LU and Implicit Incoming Mode
 An implicit incoming remote LU is a remote APPC LU that defines the properties to use when [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] receives a request to start a session with a local LU and when the remote LU named in the request is not recognized by Host Integration Server.  

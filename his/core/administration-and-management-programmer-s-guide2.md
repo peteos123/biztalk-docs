@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Administration and Management Programmer&#39;s Guide
 This section describes how to use Windows Management Instrumentation (WMI) to programmatically manage different tasks for Host Integration Server.  

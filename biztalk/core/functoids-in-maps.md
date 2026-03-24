@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Functoids in Maps
 BizTalk Mapper supports complex structural transformations from records and fields in the source schema to records and fields in the destination schema. Functoids perform calculations by using predefined formulas and specific values, called arguments. These calculations are executed based on the designated order of the records and fields.  

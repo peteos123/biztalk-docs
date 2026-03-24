@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Infrastructure Management Commands
 The BAM Management (BM) utility configuration commands allow you get and update the BAM configuration.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The Components of the Exception Management Framework
 The ESB Exception Management Framework includes several core features. The following topics describe each of these features:  

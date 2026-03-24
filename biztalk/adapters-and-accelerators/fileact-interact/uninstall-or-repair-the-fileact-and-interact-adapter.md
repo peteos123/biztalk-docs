@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Uninstall or repair the FileAct and InterAct adapter
 Steps to uninstall or repair the BizTalk FileAct and InterAct adapter.  

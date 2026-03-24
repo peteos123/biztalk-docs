@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Development Tasks for BizTalk Application Deployment
 The following are the steps involved in deploying BizTalk assemblies from [!INCLUDE[btsVStudioNoVersion](../includes/btsvstudionoversion-md.md)] into a BizTalk application, completing the application, and preparing it for deployment to the test environment. This deployment scenario is common in a development environment, where a programmer is developing and debugging a particular BizTalk business solution.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security Features in BizTalk Server
 Microsoft® BizTalk® Server provides a standard gateway for sending and receiving documents both within an intranet and through the Internet. Due to the possible business-critical nature of the messages sent to and from BizTalk Server, it is important to consider measures to help secure these messages and the information they contain both as they are in transit and while BizTalk Server processes and stores them. This section provides information about the BizTalk Server security features, and how you can use them to help secure your data and environment.  

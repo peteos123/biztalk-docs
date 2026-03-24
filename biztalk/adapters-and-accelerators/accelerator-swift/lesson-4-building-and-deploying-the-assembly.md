@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 4: Building and Deploying the Assembly
 In this lesson, you build and deploy the project to generate an assembly that contains the schemas you created in the previous lessons. This task ensures there are no compilation errors in the work you created so far.  

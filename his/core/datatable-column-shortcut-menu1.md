@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # DataTable Column Shortcut Menu
 When you select the **DataTable** column in the tree view, the following shortcut menu items are displayed.  

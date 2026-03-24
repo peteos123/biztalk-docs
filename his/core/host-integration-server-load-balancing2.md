@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Host Integration Server Load Balancing
 Transaction Integrator (TI) can use [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] load balancing and hot backup capability by deploying multiple [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] End-User Client and [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] Server computers in a single subdomain. Redundant APPC session pairs can be configured across multiple Host Integration Server computers to provide load balancing and hot backup. When a communication failure occurs, hot backup reroutes sessions to other host connections. For information about how to set up a hot backup system for two-phase commit and TI, see [Providing a Fail-Safe Environment for ACID Transactions](./providing-a-fail-safe-environment-for-acid-transactions1.md).  

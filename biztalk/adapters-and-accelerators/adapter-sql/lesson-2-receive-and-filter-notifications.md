@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 2: Receive and Filter Notifications
 In this lesson, you start creating an orchestration that receives notifications for changes to the **Employee** table. After the orchestration receives the notification, it extracts the type of notification and if the notification type is for an Insert operation on the **Employee** table, an “if” condition is used to perform subsequent tasks. In this lesson, you will perform the following tasks:  

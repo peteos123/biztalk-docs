@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Interrupt Handling in the Business Process Management Solution
 This section describes the interrupt handling mechanism used in the Business Process Management Solution. Using the interrupt mechanism enables you to halt order processing when an order is updated or canceled.  

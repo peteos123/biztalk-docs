@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Configuration Property Variable Types
 The adapter configuration properties in a TransportTypeData\CustomProps node of a binding file adhere to the data types available in the .NET Framework VarEnum enumeration. Relevant data types are listed in the table below:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SSCP Connection
 The system services control point (SSCP) connection of the application to the local node provides access to the SSCP session between the Microsoft® Host Integration Server secondary logical unit (LU) and the host SSCP.  

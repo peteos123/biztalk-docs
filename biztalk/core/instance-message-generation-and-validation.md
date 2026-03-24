@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Instance Message Generation and Validation
 After you have validated a schema, you can use it to generate a sample instance message. The sample instance message that is generated contains the element and attribute structure specified by the schema, and generate fake data where required.  

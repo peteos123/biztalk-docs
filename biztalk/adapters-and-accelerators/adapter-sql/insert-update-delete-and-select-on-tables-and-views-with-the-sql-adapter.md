@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Insert, Update, Delete, and Select Operations on Tables and Views with the SQL adapter
 The [!INCLUDE[adaptersql](../../includes/adaptersql-md.md)]surfaces a set of standard operations on each table and view in the SQL Server database. By using these operations, you can execute simple INSERT, UPDATE, SELECT, and DELETE statements qualified by a WHERE clause on the target table or view. These operations are also called data manipulation language (DML) operations.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Sample Architecture: HTTP and SOAP Adapters
 This topic describes the sample architecture when you use the HTTP and SOAP adapters to send and receive messages.

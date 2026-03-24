@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ProgNameOverride
 Use the **ProgNameOverride** keyword to override the program name assigned within the type library and to specify a different program name to be sent to the host. The COMTIContext context name is **ProgNameOverride**; the value must be a string that contains a valid mainframe program name.  

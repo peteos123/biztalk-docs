@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # OverrideSourceTP
 When using the CICS LU6.2 Link programming model, OverrideSourceTP contains an identifier that reflects the originating transaction (TI application). In CICS, this identifier is typically used for securing CICS resource access for DB2 and VSAM.  

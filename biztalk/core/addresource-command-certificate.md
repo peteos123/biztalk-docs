@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # AddResource Command: Certificate
 To add a security certificate to a BizTalk application, you use the **AddResource** command and specify **System.BizTalk:Certificate** for the Type parameter. For this command to work, the certificate must be present in the Other People certificate store on the local computer.  

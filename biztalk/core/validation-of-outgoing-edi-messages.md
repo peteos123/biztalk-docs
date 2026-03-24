@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Validation of Outgoing EDI Messages
 When the EDI send pipeline processes a message to be sent, it performs a series of validations on the envelope and message data. Some of these processes are always performed; some are performed only if you enable them. These validations include the following:  

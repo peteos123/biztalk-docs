@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Create a Basic Orchestration
 When you create a basic orchestration, you receive XML in the receive port of your orchestration. The XML is sent to the back-end system to be processed. In the back-end system, an exception might occur that could stop the orchestration. The exception that is produced provides information that the orchestration was not completed.  

@@ -6,7 +6,7 @@ ms.date: "03/23/2016"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Zombies in BizTalk Server
 

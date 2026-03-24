@@ -6,7 +6,7 @@ ms.date: "03/17/2016"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Considerations for Running Adapter Handlers within a Clustered Host
 BizTalk host cluster support is available to provide high availability for the following integrated BizTalk adapters: the FTP adapter, the SFTP adapter, the MSMQ adapter, and the POP3 adapter. Host cluster support is also provided so that there is high availability for running a single instance of an adapter for purposes of ordered delivery.  

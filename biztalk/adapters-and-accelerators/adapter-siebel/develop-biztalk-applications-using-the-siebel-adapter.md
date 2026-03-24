@@ -6,7 +6,7 @@ ms.date: "08/02/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Develop BizTalk applications using the Siebel adapter
 

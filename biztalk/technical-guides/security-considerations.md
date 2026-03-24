@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security Considerations
 You may have to customize your management pack. Certain accounts cannot be run in a low-privilege environment or must have minimum permissions. For additional details about security considerations and configuring low-privilege accounts, refer to the Operations Manager 2007 R2/2012 Security Guide at [https://go.microsoft.com/fwlink/?LinkID=198196](/previous-versions/system-center/operations-manager-2007-r2/bb735409(v=technet.10)).

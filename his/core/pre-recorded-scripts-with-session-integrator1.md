@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Pre-Recorded Scripts with Session Integrator
 The **SessionDisplayScript** class allows users to use a script created in the Host Integration Server 3270 client and play it programmatically.  

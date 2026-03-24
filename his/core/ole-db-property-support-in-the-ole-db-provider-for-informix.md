@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # OLE DB Property Support in the OLE DB Provider for Informix
 OLE DB Provider for Informix included with Host Integration Server 2013 supports a different set of provider-specific properties than the earlier OLE DB Provider for Informix supplied with SNA Server 4.0. The sections below provide information about provider-specific and standard OLE DB properties supported by the current and the previous version of OLE DB provider.  

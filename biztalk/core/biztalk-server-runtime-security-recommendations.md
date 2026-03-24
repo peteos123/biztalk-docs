@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # BizTalk Server Runtime Security Recommendations
 You must install the BizTalk Server runtime, or engine, on all the computers from which you want to receive, send, process, and track messages. In other words, you must install the run time components on any computer where you create a BizTalk Host instance (processing servers). It is recommended you follow these guidelines for securing and deploying the BizTalk Server runtime in your environment.

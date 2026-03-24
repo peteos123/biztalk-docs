@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Enhanced Listener CICS Administration
 The following code defines a CICS Enhanced Listener. There are several new keywords available for use with the Enhanced Listener. The parameter definitions describe how these new Listener configuration values are used for support the TI Enhanced Listener feature.  

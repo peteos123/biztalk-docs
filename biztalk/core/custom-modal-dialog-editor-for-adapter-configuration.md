@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Custom Modal Dialog Editor for Adapter Configuration
 The code for the custom editor shows an editor derived from the **System.Drawing.Design.UITypeEditor** class that displays a modal pop-up dialog box for entering a password. The **GetEditStyle** method override returns **UIEditorEditStyle.Modal** to indicate a modal form subcontrol. The service method **ShowDialog** manages the control created with **CreatePassword**. **ShowDialog** returns a **DialogResult** that is handled in the usual way (for example, a switch statement) with the **DialogResult.OK** case changing value only.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Relationships
 A configured Windows-initiated processing (WIP) environment is established by defining a set of WIP elements and then relating them in a manner that enables the client/client program, .NET Framework and the WIP Runtime to do the following:  

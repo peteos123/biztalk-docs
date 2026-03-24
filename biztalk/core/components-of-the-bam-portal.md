@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Components of the BAM Portal
 The BAM portal is an ASP.NET Web page that is divided into three functional areas corresponding to the three pages of the portal. These pages are described in this section: Activity Search page, Aggregations page, and Alert Manager page. You can use these pages to create activities, search for existing activities, and modify existing activities.  

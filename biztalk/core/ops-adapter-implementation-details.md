@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Ops Adapter Implementation Details
 You may find it useful to understand the following aspects of the Ops adapter when modifying the adapter or configuring it programmatically.  

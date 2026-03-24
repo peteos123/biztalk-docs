@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Administration Console Keyboard Shortcuts
 By using the following keyboard shortcuts you can quickly accomplish many common tasks in the BizTalk Administration console.

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Service (Services Node)
 The Service node of a binding file contains information about a service exported with the binding file. The service node also contains nodes that describe the ports and roles associated with the service and a node that describes the host associated with the service.  

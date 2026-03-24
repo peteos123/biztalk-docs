@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Data Item Nodes
 Data Item nodes exist in the activity definition file that the developer imports from the created observation model created by the business analyst. The Tracking Profile Editor (TPE) names them for the data items they are tracking, such as Customer Name. You then drop one or more data items from the Message Schema View onto the node that corresponds to Customer Name.  

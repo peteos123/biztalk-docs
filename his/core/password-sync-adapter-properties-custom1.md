@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Password Sync Adapter Properties: Custom
 Use this screen to view or change the Properties file information for the Password Sync Adapter.  

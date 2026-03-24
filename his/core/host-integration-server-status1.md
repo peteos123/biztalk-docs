@@ -3,7 +3,7 @@ description: "Learn more about: Host Integration Server Status"
 title: "Host Integration Server Status1"
 ms.date: "11/30/2017"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: hub-page
 ---
 
 # Host Integration Server Status

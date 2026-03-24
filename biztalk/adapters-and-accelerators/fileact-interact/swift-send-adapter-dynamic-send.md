@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SWIFT Send Adapter Dynamic Send
 The send adapter dynamic send mode pulls messages from the queue. The URI for dynamic send is:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # 5250 Client Standard Keyboard Map
 The following table maps values from the 5250 keyboard to the Enhanced 101 keyboard.  

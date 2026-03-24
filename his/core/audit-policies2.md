@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Audit Policies
 Auditing security events and then placing entries in the computers security log can track selected activities of users. Use the audit policy to determine the types of security events that are logged.  

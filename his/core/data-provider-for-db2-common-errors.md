@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Data Provider for DB2 Common Errors
 The Data Providers for DB2 utilize the IBM SQLCAMESSAGE stored procedure with which to return detailed error messages. To use this feature, you should configure the data source to use an EBCDIC value for Host CCSID.  

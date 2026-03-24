@@ -6,7 +6,7 @@ ms.date: "09/27/2018"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Business Rule Engine Security Recommendations
 The Business Rule Engine is the runtime component of the Business Rule Framework. With the Business Rule Framework, you can connect highly readable, declarative, semantically rich rules to any business objects (.NET components), XML documents, or database tables. For more information about the Business Rule Framework, see [Creating and Using Business Rules](../core/creating-and-using-business-rules.md). For more information about the Business Rule Engine, see [Rule Engine](../core/rule-engine.md).  

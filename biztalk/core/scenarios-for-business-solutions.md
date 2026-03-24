@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Scenarios for Business Solutions
 This section describes two complete, model BizTalk applications. Each application represents a particular business pattern and demonstrates other constituent integration patterns.  

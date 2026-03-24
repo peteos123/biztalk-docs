@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Activity Search on the BAM Portal Page
 Business end users, developers, and business analysts can use the BAM portal page when they need to perform searches against BAM data to find specific cases of a particular process. These processes are defined as BAM activities. A BAM activity represents a unit of work in a business, such as a purchase order or loan application.  

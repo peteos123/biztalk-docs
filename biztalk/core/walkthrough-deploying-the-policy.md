@@ -6,7 +6,7 @@ ms.date: "04/05/2016"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Walkthrough: Deploying the Policy
 This walkthrough provides step-by-step instructions for deploying the **ProcessPurchaseOrder** policy in the following three ways:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Supported Conversational Model
 TI supports only the nonconversational (ping-pong) model. A mainframe transaction program (TP) may not expect a request-reply (ping-pong) nonconversational sequence like that required by TI, in which case, you will need to modify the mainframe TP. The mainframe TP may be set up to communicate with other TPs by using the conversational or pseudo conversational models, neither of which are supported by TI.  

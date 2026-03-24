@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Maps
 Maps consist of several underlying components and depend on schemas that you have already created. These schemas in turn rely on XML Schema definition (XSD) language. This section provides an overview of BizTalk maps.  

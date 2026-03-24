@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-problem-resolution
 ---
 # Client Application Does Not Start but No Error Given
 If you double-click the .exe file for your Visual Basic client application and nothing happens but no error message appears, the problem may be that you did not deploy the TI component that your client application is attempting to use.  

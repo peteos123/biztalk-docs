@@ -6,7 +6,7 @@ ms.date: "11/07/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BizTalk Server Project Templates
 

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Complex Type Derivation Using the Restriction Mechanism
 Derivation by restriction is similar to derivation by extension, in terms of BizTalk Editor functionality. A complex type derived by restriction is similar to its base data type, except that its declarations are more limited than the corresponding declarations in the base data type. In fact, the values represented by the new type are a subset of the values represented by the base data type (as is the case with restriction of simple types). An application prepared for the values of the base data type ought to be able to successfully process any of the values of the restricted type.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MQSeries Adapter Architecture
 This section introduces the parts of the MQSeries adapter and the ways in which they interact. It also briefly describes some elements of MQSeries queues.  

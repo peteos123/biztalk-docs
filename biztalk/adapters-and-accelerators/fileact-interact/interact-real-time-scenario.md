@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # InterAct Real-Time Scenario
 In this scenario, you will configure the InterAct adapter to process messages in real time. You can use in SWIFT solutions scenarios such as cash reporting. For more information, see the SWIFT Web site at [https://go.microsoft.com/fwlink/?LinkId=100479](https://go.microsoft.com/fwlink/?LinkId=100479).

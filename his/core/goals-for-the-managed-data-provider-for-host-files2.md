@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Goals for the Managed Data Provider for Host Files
 The primary purpose of the Managed Data Provider for Host Files is to enable developers to access files and data structures on mid-range and mainframe systems using the Microsoft .NET Framework. This differs from the Managed Provider for DB2, which enables developers to access host DB2 recordsets.  

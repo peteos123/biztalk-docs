@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # XML Assembler Pipeline Component
 The XML Assembler pipeline component combines XML serializing and assembling in one component. Its primary function is to transfer properties from the message context back into envelopes and documents.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # XML Tools (BizTalk Server Samples Folder)
 Microsoft [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] includes two Extensible Markup Language (XML) Tools samples in its software development kit (SDK). This section provides detailed information about the functionality that the XML Tools samples demonstrate, instructions for building and running the samples, and the results you can expect.  

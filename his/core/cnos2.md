@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # CNOS
 The **CNOS** (Change Number of Sessions) verb establishes APPC LU 6.2 session limits.  

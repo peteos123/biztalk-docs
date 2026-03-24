@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Data Providers for Host Files
 This document provides information that will help you configure data sources for use with Host Files by using the tools described in the following sections.  

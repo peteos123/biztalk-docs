@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interfaces for a Solicit-Response Send Adapter
 Send adapters use the same batch mechanism as receive adapters to submit response messages back into the server.  

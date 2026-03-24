@@ -3,7 +3,7 @@ title: "Host Print Service (Operations)"
 description: "Learn more about: Host Print Service (Operations)"
 ms.date: "11/30/2017"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: concept-article
 ---
 
 # Host Print Service (Operations)

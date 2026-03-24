@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Add Project Items
 In the context of the BizTalk project system, a project item is a configured item, such as a map or schema. A BizTalk application might contain one or more orchestrations, schemas, maps, and pipelines.  

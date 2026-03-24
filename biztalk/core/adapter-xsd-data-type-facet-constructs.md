@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Adapter XSD Data Type-Facet Constructs
 The following tables list XSD data type-facet constructs supported by the Adapter Framework. The vertical axis contains the supported data types, and the horizontal axis contains the valid facets for each data type.  

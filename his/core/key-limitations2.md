@@ -6,7 +6,7 @@ ms.date: "12/13/2023"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Key Limitations
 The key limitations with the IP-DLC link service implementation are as follows:  

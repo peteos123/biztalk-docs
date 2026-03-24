@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Readme and privacy in the WCF LOB Adapter SDK
 The Windows Communication Foundation (WCF) Line of Business (LOB) Adapter Software Development Kit (SDK)  

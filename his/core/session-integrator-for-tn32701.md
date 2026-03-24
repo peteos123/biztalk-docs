@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Session Integrator for TN3270
 Session Integrator can be used to interact with TN3270 sessions. The behavior for Session Integrator using the TN3270 protocol is the same as Session Integrator for LU2 except for a different connection setting.  

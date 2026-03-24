@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Sign-On Errors
 The following table lists sign-on error constants, values, SqlState, SqlCode and a description of the error.  

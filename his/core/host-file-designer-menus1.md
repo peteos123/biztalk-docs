@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Host File Designer Menus
 Host File designer presents different menus for different contexts and operations. These menus are in addition to the basic menus that are already included in Visual Studio.  

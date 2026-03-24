@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Tips and Tricks for Finding MST of DTA Tracking
 By definition, MST is a benchmark to reproducibly measure system performance using a constant load. Following are situations where knowing the MST is particularly useful.  

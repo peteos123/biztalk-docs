@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # What Are the WCF Adapters?
 There are two Windows Communication Foundation (WCF) adapters—a receive adapter and a send adapter. You use the WCF receive adapter to receive WCF service requests. The WCF receive adapter receives a request, creates a BizTalk Message object, and promotes the associated properties to the message context. You use the WCF send adapter to call a WCF service. The WCF send adapter calls the WCF services through the typeless contracts.

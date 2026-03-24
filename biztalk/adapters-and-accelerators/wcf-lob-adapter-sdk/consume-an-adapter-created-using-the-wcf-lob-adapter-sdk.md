@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Consume an adapter created using the WCF LOB Adapter SDK
 You can consume an adapter built using the [!INCLUDE[afproductnameshort](../../includes/afproductnameshort-md.md)] in a variety of different scenarios and topologies. Some of the more common ways are described in this section.  

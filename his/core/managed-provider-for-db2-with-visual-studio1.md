@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Managed Provider for DB2 with Visual Studio
 You can create a project that uses the managed provider for DB2 with Visual Studio as you would any other project. The following topics describe any issues that are unique to this provider.  

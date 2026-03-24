@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # An Example of a Mapped Conversation
 For background information about mapped conversations, see [Basic and Mapped Conversations Compared](../core/basic-and-mapped-conversations-compared2.md).  

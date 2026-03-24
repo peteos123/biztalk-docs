@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Status-Control(...) ACKLUA
 The **Status-Control(...) ACKLUA** message is for logical unit application (LUA) applications only. It flows from the node to the application, and is used with a primary logical unit (PLU) connection.  

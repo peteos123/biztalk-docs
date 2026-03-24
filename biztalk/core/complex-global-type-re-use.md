@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Complex Global Type Re-use
 To use a complex global type as is, in another location in the schema tree, begin by inserting a new **Record** node at the desired location. Then set its **Data Structure Type** property to the name of a complex global type.  

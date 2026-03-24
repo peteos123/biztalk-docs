@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Key Components of the WCF LOB Adapter SDK
 Developing an adapter using the [!INCLUDE[afproductnameshort](../../includes/afproductnameshort-md.md)] requires the use of many of the following basic components:

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # New .NET Client Library Wizard
 The **New .NET Client Library Wizard** collects information about the assembly information and about the remote environment (RE). The Wizard generates an annotated .NET assembly and adds the assembly to the current TI Project displayed in the Solution Explorer.  

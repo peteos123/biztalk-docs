@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Transaction Set-Message Structural Element
 The transaction set (in X12 encoding) or message (in EDIFACT encoding) contains segments that make up the message data. The transaction set consists of a header, a collection of data segments, and a trailer. All details that are required to process the transaction are available within the transaction set.  

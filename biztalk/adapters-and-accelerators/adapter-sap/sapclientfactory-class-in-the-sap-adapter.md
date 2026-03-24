@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SAPClientFactory class in the SAP adapter
 The following section lists the methods and properties for the **SAPClientFactory** class. This is derived from **System.Data.Common.DbProviderFactory**.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # PLU Session Status
 While the primary logical unit (PLU) connection is open, the local node reports any changes of state to the application through [Status-Session](./status-session2.md) messages. There is only one **Status-Session** status code that can occur on the PLU connection, which is listed in the following table.  

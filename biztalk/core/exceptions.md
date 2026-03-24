@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Exceptions
 Exceptions are raised when an error occurs in your orchestration. BizTalk Server provides various mechanisms for handling (and throwing) exceptions.  

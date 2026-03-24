@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-problem-resolution
 ---
 # Alignment Problems with Generated COBOL
 COBOL aligns data elements at the 01 level on double-word boundaries. This practice causes a potential problem in CICS non-DPL applications that use TI-generated data declarations along with error metadata. If you code your COBOL application to receive the error metadata and the input parameters in one RECEIVE, the parameters are placed immediately adjacent to the metadata in memory. However, because the error metadata does not end on a double-word boundary, this action puts the parameters 4 bytes ahead of where the COBOL code expects them.  

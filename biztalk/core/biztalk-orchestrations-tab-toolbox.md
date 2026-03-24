@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # BizTalk Orchestrations Tab, Toolbox
 When you open a project that uses Orchestration Designer (a [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] orchestration), the Toolbox also displays the **BizTalk Orchestrations** tab. The tools on this tab, called *shapes*, are visible and available for use when the **BizTalk Orchestrations** tab is expanded.  

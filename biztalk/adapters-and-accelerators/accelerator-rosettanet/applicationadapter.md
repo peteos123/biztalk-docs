@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # ApplicationAdapter
 The ApplicationAdapter sample demonstrates how to send notifications from the public and private processes (responder or initiator) when you receive a message. You can customize the sample with whatever additional functionality you want.  

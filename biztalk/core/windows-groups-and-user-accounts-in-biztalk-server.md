@@ -6,7 +6,7 @@ ms.date: "01/14/2020"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 
 # Windows Groups and User Accounts in BizTalk Server

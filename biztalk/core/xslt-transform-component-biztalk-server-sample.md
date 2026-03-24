@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # XSLT Transform Component (BizTalk Server Sample)
 The XSLT Transform Component sample demonstrates how to write a custom pipeline component to transform an XML message using XSLT.  

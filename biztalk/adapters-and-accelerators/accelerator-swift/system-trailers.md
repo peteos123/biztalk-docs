@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # System Trailers
 System trailers convey additional or special details about the SWIFT message. If any of the first three system trailers are present, they occur in the following order. The remaining system trailers can occur in any order.  

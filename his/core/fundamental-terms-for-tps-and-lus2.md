@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: glossary
 ---
 # Fundamental Terms for TPs and LUs
 The following terms describe some fundamental characteristics of transaction programs (TPs) communicating through logical units (LUs):  

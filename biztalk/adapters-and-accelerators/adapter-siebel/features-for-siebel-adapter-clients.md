@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: feature-guide
 ---
 # Features for Siebel adapter clients
 In addition to the features discussed throughout the topics of [Overview of BizTalk Adapter for Siebel eBusiness Applications](../../adapters-and-accelerators/adapter-siebel/overview-of-biztalk-adapter-for-siebel-ebusiness-applications.md), the [!INCLUDE[adaptersiebel_short](../../includes/adaptersiebel-short-md.md)] provides the following features that are useful for adapter clients:  

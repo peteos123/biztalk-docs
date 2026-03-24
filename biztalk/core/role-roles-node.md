@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Role (Roles Node)
 The Role node of the Roles node of a binding file specifies information about a role that is bound to a service that is exported with the binding file.  

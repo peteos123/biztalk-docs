@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How the Designer Extensibility Sample Works
 Each project in the Designer Extensibility sample contains two classes: an **Extender** class and an **Extension Provider** class. These classes are designed to extend the capabilities and define the properties of the **ItineraryDsl** model elements.  

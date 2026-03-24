@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # CPI-C Considerations for Windows
 This topic summarizes information you should keep in mind when you develop programs based on Windows operating systems.  

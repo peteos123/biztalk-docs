@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Typical Use Cases
 This section describes the most common use cases and scenarios identified for the [!INCLUDE[esbToolkit](../includes/esbtoolkit-md.md)]. For each one, the topic discusses the processing required, the result, and a diagram of the process flow. Some of the scenarios equate to use case sample applications provided with the [!INCLUDE[esbToolkit](../includes/esbtoolkit-md.md)], and the topic explains how to install and run the corresponding sample.  

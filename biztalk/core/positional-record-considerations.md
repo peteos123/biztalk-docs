@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Positional Record Considerations
 There are a number of considerations that you should keep in mind when working with positional **Record** nodes within your schemas. This includes the considerations about tag handling, positional record nesting, how positions are counted, and how field positions are calculated. This section provides information about these considerations.  

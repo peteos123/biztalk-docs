@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How Exceptions Are Handled
 When an exception occurs within a scope, each logical thread of execution in the scope is stopped. The runtime engine tries to find an exception handler for the appropriate exception.  

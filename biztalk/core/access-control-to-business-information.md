@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Access Control to Business Information
 Only the BizTalk Server Administrators can access tracking data, such as tracking the message properties and message body data, in the BizTalk Tracking database. The BizTalk Server Operators has access to message flow data in the BizTalk Tracking database.  

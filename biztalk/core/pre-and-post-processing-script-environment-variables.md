@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Pre- and Post-processing Script Environment Variables
 The topics in this section describe the environment variables that pre- and post-processing scripts can access.  

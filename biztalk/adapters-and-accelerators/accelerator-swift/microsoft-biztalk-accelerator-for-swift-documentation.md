@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Microsoft BizTalk Accelerator for SWIFT documentation
 Microsoft [!INCLUDE[A4SWIFT_CurrentVersion_FirstRef](../../includes/a4swift-currentversion-firstref-md.md)] is an add-in to Microsoft BizTalk Server, and leverages the open standards-based tools and run-time facilities of BizTalk Server to implement support for Society for Worldwide Interbank Financial Telecommunication (SWIFT) message formats.  

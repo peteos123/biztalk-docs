@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # FileAct Adapter Status Monitoring
 The possible states of a file transfer and the transitions between those states are illustrated in the following figure.  

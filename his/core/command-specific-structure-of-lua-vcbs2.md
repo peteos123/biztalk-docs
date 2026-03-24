@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Command-Specific Structure of LUA VCBs
 The following union shows the specific data structure that is included for functions that use the **LUA_SPECIFIC** part of a verb control block. The only logical unit application (LUA) verbs that use this union are [RUI_BID](../core/rui-bid1.md),[SLI_BID](../core/sli-bid2.md),[SLI_OPEN](../core/sli-open2.md), and [SLI_SEND](../core/sli-send2.md).  

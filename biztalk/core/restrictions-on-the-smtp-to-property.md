@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Restrictions on the SMTP To Property
 The **To** property is a string that specifies the SMTP address of the recipient of the message. You can list several addresses with a separator that SMTP server supports.  

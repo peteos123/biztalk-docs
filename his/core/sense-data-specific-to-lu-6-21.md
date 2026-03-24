@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Sense Data Specific to LU 6.2
 The LU 6.2 sense codes are specified and interpreted by SNA components within [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)], and, in general, are presented as return codes and as parameters to specific verbs.  

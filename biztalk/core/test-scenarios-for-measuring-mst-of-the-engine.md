@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Test Scenarios for Measuring MST of the Engine
 This section describes a test scenario that was implemented to measure the effect of driving a BizTalk system at three different levels of load:

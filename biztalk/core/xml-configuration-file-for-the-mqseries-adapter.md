@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # XML Configuration File for the MQSeries Adapter
 The XML configuration file read by **mqsconfigwiz** contains the same information a user enters when using the Windows version of the wizard. This information includes the application identity and the user ID and password if required, the role name, and a list of users who are part of that role.  

@@ -6,7 +6,7 @@ ms.date: "03/05/2020"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 
 # Office 365 Outlook adapters in BizTalk

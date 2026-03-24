@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Instance Validation
 BizTalk Editor invokes the **IInstanceValidator.ValidateInstance** method of an extension when the following conditions are met:  

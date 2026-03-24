@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Facts
 Facts are discrete pieces of information about the world. Facts can originate from many sources (event systems, objects in business applications, database tables, and so on), and must be fed into the Business Rule engine in [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] by using one of the following elements:  

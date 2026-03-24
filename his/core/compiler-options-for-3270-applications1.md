@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Compiler Options for 3270 Applications
 When compiling the 3270 client application, the compiler options listed in the following table are required.  

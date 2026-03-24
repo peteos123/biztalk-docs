@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Optional Metadata
 As a developer, you can choose to have the Transaction Integrator (TI) run-time environment send and receive metadata to and from the mainframe transaction program (TP), and you can choose the content of that metadata.  

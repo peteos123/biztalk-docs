@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Keyboard Shortcuts Specific to the Process Area
 The following table describes the keyboard navigation available in the Process Area, the central area of the design surface used to define the process flow of the orchestration.  

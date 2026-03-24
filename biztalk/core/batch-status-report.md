@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Batch Status Report
 This report shows the activity of instances of the batching orchestration. Each row in the report indicates the status of the batches being processed by a single instance of the batching orchestration.  

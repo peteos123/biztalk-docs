@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # System Resource Costs on Hyper-V
 ## System Resource Costs Associated with Running a Guest Operating System on Hyper-V

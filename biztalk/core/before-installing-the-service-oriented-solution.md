@@ -6,7 +6,7 @@ ms.date: "12/30/2022"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: install-set-up-deploy
 ---
 # Before Installing the Service Oriented Solution
 The following prerequisites must be available to install the stub version of the service-oriented solution on a single computer:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Supported Platforms for Session Integrator
 Session Integrator is designed to be used with Host Integration Server, and is therefore supported on all platforms that support Host Integration Server.  

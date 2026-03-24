@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Source and Destination Schemas
 Each BizTalk map uses two schemas: a source schema and a destination schema. A source schema defines the structure of the instance messages from which you are taking data. The destination schema defines the structure of the instance messages the map produces. For example, if you want to map the shipping and billing information from a purchase order to an invoice, you need a schema to define purchase orders for the source schema and a schema defining invoices for the destination schema.  

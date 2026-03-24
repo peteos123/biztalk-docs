@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Error encountered during parsing. The Edifact transaction set contained in interchange (without group) is being suspended with following errors
 ## Details  

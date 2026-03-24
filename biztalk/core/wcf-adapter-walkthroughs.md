@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # WCF Adapter Walkthroughs
 The walkthroughs in this section will help you learn how to use the WCF adapters in  [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)]. These walkthroughs provide step-by-step instructions for performing a task by using the WCF adapters, or for using a feature of the adapters.

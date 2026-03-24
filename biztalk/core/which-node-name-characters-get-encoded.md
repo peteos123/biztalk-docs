@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Which Node Name Characters Get Encoded
 XML places some restrictions on the characters that can be used in XML names, such as element names, including some special restrictions on the first character of an XML name. The conceptual goals in determining which characters to allow and which characters to exclude from legal XML names are:  

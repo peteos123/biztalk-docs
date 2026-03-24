@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Errors Per Second
 The errors per second performance counter indicates whether the method calls are failing on errors. Under normal operation, this value should remain at zero or very close to zero.  

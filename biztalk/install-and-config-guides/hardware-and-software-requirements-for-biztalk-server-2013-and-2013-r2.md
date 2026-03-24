@@ -6,7 +6,7 @@ ms.date: "10/09/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 
 # Hardware and Software Requirements for BizTalk Server 2013 and 2013 R2

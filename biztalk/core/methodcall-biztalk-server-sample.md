@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # MethodCall (BizTalk Server Sample)
 The MethodCall sample demonstrates how to call a .NET-based method from a BizTalk Server orchestration.  

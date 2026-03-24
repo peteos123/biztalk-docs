@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Data Dimension
 Defining a data dimension allows the value of some text items in the BAM activity to be used on rows or columns. For example a data dimension named Product can be used to create the following table:  

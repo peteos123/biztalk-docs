@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Logical Operators
 The Business Rules Framework supports using the logical AND, logical OR, and logical NOT operators in creating business rules. The following table describes the logical operators.  

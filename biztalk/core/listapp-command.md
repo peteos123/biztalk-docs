@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ListApp Command
 Prints to the console a list of all of the resource artifacts in a BizTalk application, along with the locally unique identifier (LUID) and type of each artifact. A resource artifact is one that you can add to a BizTalk application by using the [AddResource command](../core/addresource-command.md), such as an assembly, a script, a file, a policy, a COM component, a virtual directory, a BAM artifact, or a certificate. These resource artifacts also display in the Resources node of the BizTalk Server Administration console.  

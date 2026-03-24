@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Managed Data Provider for Host Files
 This section contains a discussion about the background and general design principles surrounding the Managed Data Provider for Host Files.  

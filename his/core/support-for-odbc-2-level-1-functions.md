@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Support for ODBC 2 Level 1 Functions
 The following table lists the ODBC 2.*x* level 1 functions that are supported by the Microsoft ODBC Driver for DB2.  

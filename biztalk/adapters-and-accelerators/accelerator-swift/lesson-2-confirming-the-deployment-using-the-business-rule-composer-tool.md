@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Lesson 2: Confirming the Deployment Using the Business Rule Composer Tool
 In this lesson, you confirm that the Business Rule Composer tool created your vocabularies and deployed your policies. A vocabulary is a collection of vocabulary elements you use in rule composition. A policy is a versioned collection of business rules.  

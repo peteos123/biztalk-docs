@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Send Adapter Architecture
 In general, BizTalk Server send adapters are hosted in the BizTalk service process, Btsntsvc.exe. This means that BizTalk Server manages the lifetime of the adapter.  

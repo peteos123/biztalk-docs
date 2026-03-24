@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # RemoveResource Command
 Removes (deletes) an artifact from the BizTalk Management database. Running this command does not remove the artifact from the global assembly cache (GAC), file system, certificate store, Internet Information Services, or the Windows registry, if it exists in any of these locations. It does not remove a BAM definition from the BAM Primary Import database nor does it remove policies from the Rule Engine database. If you run this command to remove a binding file, the bindings remain unchanged – only the binding file is removed.  

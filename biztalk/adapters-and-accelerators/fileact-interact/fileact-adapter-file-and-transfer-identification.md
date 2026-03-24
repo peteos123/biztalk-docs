@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # FileAct Adapter File and Transfer Identification
 The A4SWIFT FileAct adapter permits the developer to supply file and transfer identification specifics at runtime. These parameters include the following:  

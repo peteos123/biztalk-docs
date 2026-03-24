@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Pre-Activation of the LU 6.2 Sessions
 Activating LU 6.2 sessions in advance will automatically prevent a short delay in establishing new LU 6.2 sessions as Transaction Integrator (TI) conversation allocation requests are made. In addition, pre-activating sessions keeps idle sessions active during the SESTIMEOUT period (approximately 20 seconds).  

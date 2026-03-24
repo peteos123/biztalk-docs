@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Confirmation and Rejection of Outbound Data
 The local node sends chains of data from the host to the application with their **ACKRQD** field set as follows:  

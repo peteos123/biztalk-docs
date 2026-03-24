@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Custom Listeners
 A number of the DRDA Service listeners are replaceable with custom listeners for trace output and package bind output.  

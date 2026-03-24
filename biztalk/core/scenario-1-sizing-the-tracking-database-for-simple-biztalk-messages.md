@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Scenario 1: Sizing the Tracking Database  for Simple BizTalk Messages
 In the following figure, a simple BizTalk Server message passes in and out of BizTalk Server without undergoing any message transformation.  

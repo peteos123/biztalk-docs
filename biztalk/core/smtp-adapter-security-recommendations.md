@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # SMTP Adapter Security Recommendations
 You use the SMTP adapter to exchange information between a server running BizTalk Server and other applications by means of the Simple Mail Transfer Protocol (SMTP) protocol. BizTalk Server can send messages to other applications by creating an e-mail message and delivering it to a specified e-mail address. You can use the SMTP adapter only for sending messages. For more information about the SMTP adapter, see [SMTP Adapter](../core/smtp-adapter.md).  

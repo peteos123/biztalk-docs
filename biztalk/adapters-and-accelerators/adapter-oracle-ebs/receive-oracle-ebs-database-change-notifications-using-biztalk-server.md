@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Receive Oracle E-Business Suite database change notifications using BizTalk Server
 You can configure the [!INCLUDE[adapteroraclebusinessshort](../../includes/adapteroraclebusinessshort-md.md)] to receive database change notification messages from Oracle E-Business Suite. You can specify a SELECT statement that the adapter uses to register for notifications with Oracle E-Business Suite. The adapter receives a notification message when the result set for the SELECT statement, registered for notification, changes. For more information about how the adapter supports notification, see [Considerations for Receiving Database Change Notifications using the Oracle E-Business Suite adapter](../../adapters-and-accelerators/adapter-oracle-ebs/before-you-receive-database-change-notifications-using-the-oracle-ebs-adapter.md).

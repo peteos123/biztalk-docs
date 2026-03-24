@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Solution Explorer Shortcut Menu (Host File Designer)
 When you select a Transaction Integrator-compatible file in Solution Explorer, the appropriate context-sensitive, or shortcut menu commands are displayed.  

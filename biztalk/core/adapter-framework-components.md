@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Adapter Framework Components
 This section explains how to use the BizTalk Adapter Framework run-time APIs to develop custom adapters. For more information about these APIs, see Microsoft.BizTalk.Message.Interop.  

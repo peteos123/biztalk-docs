@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ContinuationToken
 A continuation token is used to correlate heterogeneous information within the BAM infrastructure. Consider a business process that constructs the following types of messages:  

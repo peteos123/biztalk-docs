@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Events and Errors
 This section consists of events and errors for BizTalk Server technologies. It describes the errors and the appropriate user action to take.

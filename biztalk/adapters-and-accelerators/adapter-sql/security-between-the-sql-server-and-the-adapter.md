@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security between the SQL Server and the adapter
 The [!INCLUDE[adaptersqlshort](../../includes/adaptersqlshort-md.md)] is compatible with the standard methods, such as SSO and IPSEC used to secure data exchanges with the database server. Unsecured data exchanges can expose data to unauthorized actors. For information about security issues with SQL Server, see [Security Considerations for SQL Server](/sql/sql-server/install/security-considerations-for-a-sql-server-installation) in the SQL documentation.

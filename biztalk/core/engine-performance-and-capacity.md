@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Engine Performance and Capacity
 Engine performance and capacity are important considerations when planning your BizTalk Server solution. Engine performance is the ability to process documents over time and engine capacity is the ability of your BizTalk Server system to maintain a backlog of documents that have been received but not yet processed.  

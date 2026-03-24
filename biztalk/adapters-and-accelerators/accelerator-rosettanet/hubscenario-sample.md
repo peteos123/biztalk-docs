@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # HubScenario Sample
 The HubScenario sample demonstrates how to manage message transmission in a hub scenario. It transforms a message sent to an intermediary hub into a message to be sent to the final recipient.  

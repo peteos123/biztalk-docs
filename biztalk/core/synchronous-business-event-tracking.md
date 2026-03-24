@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Synchronous Business Event Tracking
 The simplest way to send event data to BAM is to use an instance of the class DirectEventStream. This class saves the event data directly into the BAM Primary Import Database in the context of the current transaction of the application (if present).  

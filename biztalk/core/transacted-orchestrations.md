@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Transacted Orchestrations
 Orchestrations can be transactional, just like scopes. In fact, an orchestration can itself be considered a scope. In general, the same rules apply for transacted orchestrations as for transacted scopes.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Data Encryption
 Data Encryption helps secure traffic between the client computer and [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] on a per-user basis. There is a client component and a server component. The data encryption is implemented transparently to any application that is written to the [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] APIs (application program interfaces). Any software, such as a third-party emulator, that is written to use the [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] client APIs will automatically benefit from the encryption.  

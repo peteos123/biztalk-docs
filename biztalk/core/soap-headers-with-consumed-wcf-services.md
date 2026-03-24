@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # SOAP Headers with Consumed WCF Services
 To send a message to a WCF service with the custom SOAP headers, these headers must be set in your orchestrations (in the Expression shape, for example) and pipeline components (in code) as the context property **OutboundCustomHeaders**. This context property is in the target namespace `http://schemas.microsoft.com/BizTalk/2006/01/Adapters/WCF-properties`, and contains string representations of the custom SOAP headers.  

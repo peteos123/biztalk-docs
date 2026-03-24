@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Point-to-Point Resolution of Endpoints and Transformation Requirements
 In this use case, a Web service client calls a Web service without going through the ESB. The two points communicate directly, but before the client makes the call, it must resolve the endpoint of the Web service. The call to the Web service can be either a one-way or a request-response. One way of achieving this is to use the dynamic resolution features of the ESB, as shown in Figure 1.  

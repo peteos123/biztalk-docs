@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Create a Snacfg Command File from a Configuration File
 To create lines for a **snacfg** command file, you can type them, or you can generate them by using the **/print** option. The **/print** option accesses an existing configuration file and generates the command-line(s) required to add an individual resource or (depending on syntax) the entire configuration file.  

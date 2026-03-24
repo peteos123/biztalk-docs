@@ -6,7 +6,7 @@ ms.date: "06/29/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting
 ---
 # System-Level Bottlenecks
 This topic describes how to address common system-level bottlenecks that can impact the performance of a BizTalk Server solution.

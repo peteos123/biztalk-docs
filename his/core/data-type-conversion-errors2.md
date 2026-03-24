@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Data Type Conversion Errors
 A message indicating that a data type conversion could not take place uses a numeric code to identify the data type. The following tables translate the numeric codes into their equivalent variant data types (for Visual C++) and Automation data types (for Visual Basic).  

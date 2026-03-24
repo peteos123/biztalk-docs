@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Adapter Configuration Schemas
 Different types of schemas are used in design-time configuration of an adapter. Depending upon the visibility and scope of property values, different schemas are modified and used.  

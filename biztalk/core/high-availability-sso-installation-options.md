@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # High-Availability SSO Installation Options
 The topics in this section describe installation focused on high availability of Enterprise Single Sign-On, such as multicomputer deployment.  

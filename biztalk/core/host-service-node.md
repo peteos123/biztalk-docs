@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Host (Service Node)
 The Host node of the Service node of a binding file describes the host associated with the service that is exported with the binding file.  

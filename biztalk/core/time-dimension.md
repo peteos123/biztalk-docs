@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Time Dimension
 The time dimension allows aggregations to be created with respect to time. For example a time dimension can be used to create the following table:  

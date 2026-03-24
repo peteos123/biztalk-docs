@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Windows SharePoint Services Adapter Expressions
 This topic describes the format and the meaning of the strings that can be specified as values for the **File NameProperty Source** properties of the Windows SharePoint Services adapter. It also describes the related context properties, **WSS.Filename** and **WSS.ConfigPropertiesXml**. These expressions allow you to easily define the file name value, or custom Windows SharePoint Service column value, based on literals as well as values extracted from the message or the BizTalk system.  

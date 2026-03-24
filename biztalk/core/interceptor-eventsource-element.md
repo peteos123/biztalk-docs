@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interceptor EventSource Element
 The **EventSource** element provides information about the source of one or more of the events appearing in the interceptor configuration file. In addition to an event source name, you need to indicate the technology and a manifest for the source.  

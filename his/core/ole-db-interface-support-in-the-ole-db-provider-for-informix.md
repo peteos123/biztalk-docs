@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # OLE DB Interface Support in the OLE DB Provider for Informix
 The following table summarizes the OLE DB version 2.8 interfaces that are supported by the current version of Microsoft OLE DB Provider for Informix.  

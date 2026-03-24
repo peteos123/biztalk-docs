@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Operations on IDOCs in SAP
 IDOCs are standardized EDI-like documents that SAP supports for asynchronously communicating with SAP and non-SAP systems. IDOCs are used for sending and receiving “business” documents such as sales orders, for example, to or from a trading partner’s SAP system or an external program.  

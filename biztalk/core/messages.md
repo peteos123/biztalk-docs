@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Messages
 An Enterprise Message Service (EMS) message, like a JMS message, contains three separate parts: header, properties, and body. The header is the only required part of an EMS message. This topic describes how messages are treated in Microsoft BizTalk Adapter for TIBCO Enterprise Message Service.  

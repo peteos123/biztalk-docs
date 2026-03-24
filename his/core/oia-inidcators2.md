@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # OIA Inidcators
 The Operator Information Area (OIA) is used to display the status of a 3270 screen session. The OIA is the last (bottom) line display in the terminal window of the 3270 session. Except for the initial three positions (system connection indicators), status line indicators only appear when they apply.  

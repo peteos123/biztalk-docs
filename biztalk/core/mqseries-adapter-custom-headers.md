@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MQSeries Adapter Custom Headers
 Because of the header structures used in MQSeries messages, you must manage any custom headers you want to use. Custom headers must be part of the message body to avoid interfering with the processing of the MQSeries headers. Make sure that you avoid demoting any one of the automatically promoted properties. For more information about automatically promoted properties, see [MQSeries Adapter Properties](../core/mqseries-adapter-properties.md).  

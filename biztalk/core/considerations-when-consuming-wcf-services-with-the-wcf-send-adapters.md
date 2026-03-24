@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Considerations When Consuming WCF Services with the WCF Send Adapters
 This topic provides information that you should take into consideration when consuming WCF services with the WCF adapters.

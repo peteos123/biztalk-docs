@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Interactive Mode in Orchestration Debugger
 In interactive—debug—mode, the Orchestration Debugger view contains three areas: Service pane, Tracked Events pane, and the Orchestration pane. In addition, in interactive mode, the Variable list and Variable properties display across the bottom of the view.  

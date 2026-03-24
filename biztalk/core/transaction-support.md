@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Transaction Support
 The rule engine does not support transactions in general. However, you can update a database in a transactional manner by using the **DataConnection** object as shown in the following steps:  

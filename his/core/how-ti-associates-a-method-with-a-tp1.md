@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How TI Associates a Method with a TP
 TI generally establishes some type of association between a method call in the Windows environment and the corresponding TP on the mainframe.  

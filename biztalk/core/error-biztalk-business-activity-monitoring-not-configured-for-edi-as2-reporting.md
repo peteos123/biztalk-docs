@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # BizTalk Business Activity Monitoring has not been configured for EDI-AS2 status reporting
 ## Details  

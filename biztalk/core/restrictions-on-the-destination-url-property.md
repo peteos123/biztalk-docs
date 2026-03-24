@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Restrictions on the Destination URL Property
 The destination URL is a string that specifies the address of the HTTP server where you want to send messages using the HTTP protocol.  

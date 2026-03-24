@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Warning- The target node &#39;{0}&#39; has more than one Nil-Value functoid connected to it, with at least one being conditional. Depending on the input, the output may be incorrect.
 **Error Code**  

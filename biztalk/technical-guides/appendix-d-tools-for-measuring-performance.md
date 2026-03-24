@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Appendix D: Tools for Measuring Performance
 This topic describes several tools that can be used to monitor and evaluate the performance of a BizTalk Server environment.  

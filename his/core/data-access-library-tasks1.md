@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Data Access Library Tasks
 The main programming tasks for the Data Access Library (DAT) can be considered one of three tasks: creating a connection string, retrieving or modifying data in a connection string, or performing an administrative task.  

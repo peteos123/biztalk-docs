@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Performance and Capacity Planning
 This section describes the features and functionality of BizTalk Server 64-bit support. It also describes how to plan, test, and scale your BizTalk Server system so you have optimal performance.  

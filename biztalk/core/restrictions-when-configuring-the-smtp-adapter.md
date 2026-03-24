@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Restrictions When Configuring the SMTP Adapter
 This section contains information to consider when configuring the SMTP adapter.  

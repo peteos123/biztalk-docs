@@ -6,7 +6,7 @@ ms.date: "04/05/2016"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Walkthrough: Using Database and .NET Facts
 This walkthrough provides step-by-step procedures for using the Business Rule Composer to create a policy that uses database and .NET facts.  

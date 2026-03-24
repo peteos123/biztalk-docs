@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # APPC LU Status
 The status of an Advanced Program-to-Program Communications (APPC) logical unit (LU) will either be Inactive or will show the number of active sessions.  

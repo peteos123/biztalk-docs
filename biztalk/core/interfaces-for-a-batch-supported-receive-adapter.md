@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Interfaces for a Batch-Supported Receive Adapter
 A receive adapter always submits messages in a batch. A batch is a unit of database operations that you can use for actions other than submission. For example, a receive adapter can submit one set of messages, suspend a different set of messages, and delete another set of messages in the same batch. Grouping these separate operations in the same batch optimizes performance by minimizing the number of database round trips required and is strongly encouraged.  

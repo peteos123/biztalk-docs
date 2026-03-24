@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # APPC Deployment Strategies
 In most cases, deployment strategies are effective for APPC LUs, regardless of the application that the LUs support. This section describes the factors that you should consider when deploying APPC connections with [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)].  

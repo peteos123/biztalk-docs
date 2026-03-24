@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Custom Functoid (BizTalk Server Sample)
 The Custom Functoid sample demonstrates how to write a custom functoid for BizTalk Mapper. You can add the functoid to the [!INCLUDE[btsVStudioNoVersion](../includes/btsvstudionoversion-md.md)] Toolbox. The functoid will be displayed in the Toolbox when BizTalk Mapper is in focus.  

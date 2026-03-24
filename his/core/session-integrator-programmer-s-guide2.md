@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Session Integrator Programmer&#39;s Guide
 This section describes how to create applications that interact with a remote server using LU0 and LU2 protocols.  

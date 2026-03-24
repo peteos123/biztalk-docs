@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Properties Related to BizTalk Server
 The MQSeries adapter assigns values to some context properties that are not directly related to MQSeries but are still useful in your applications.  

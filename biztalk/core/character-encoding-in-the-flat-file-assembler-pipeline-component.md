@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Character Encoding in the Flat File Assembler Pipeline Component
 The Flat File Assembler can produce messages in user-specified character encoding. You can specify the character encoding at several levels:  

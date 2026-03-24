@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Create New Affiliate Application Wizard: Accounts
 Specify the access accounts for the new Affiliate Application. You can specify one or more accounts for both Application Administrators and Application Users.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Reassert
 To *reassert* means to call the **Assert** function on an object that is already in the engine's working memory. A reassert command is equivalent to issuing a retract command for the object, followed by an assert command.  

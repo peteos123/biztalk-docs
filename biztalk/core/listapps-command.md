@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ListApps Command
 Prints to the console the name and description of all of the BizTalk applications in the specified BizTalk Management database.  

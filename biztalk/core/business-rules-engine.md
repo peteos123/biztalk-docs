@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Business Rules Engine
 The Business Rules Framework is a Microsoft .NET-compliant class library. It provides an efficient inference engine that can link highly readable, declarative, semantically rich rules to any business objects (.NET components), XML documents, or database tables. Application developers can build business rules by constructing rules from small building blocks of business logic (small rule sets) that operate on information (facts) contained in .NET objects, database tables, and XML documents. This design pattern promotes code reuse, design simplicity, and modularity of business logic. In addition, the rule engine does not impose on the architecture or design of business applications. In fact, you can add rule technology to a business application by directly invoking the rule engine, or you can have external logic that invokes your business objects without modifying them. In short, the technology enables developers to create and maintain applications with minimal effort.  

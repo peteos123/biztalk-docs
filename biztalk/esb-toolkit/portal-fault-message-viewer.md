@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Portal Fault Message Viewer
 The ESB Fault Message Viewer renders all messages produced by the Custom Exception Encoder Pipeline component within the ESB Management Portal. The following views are available:  

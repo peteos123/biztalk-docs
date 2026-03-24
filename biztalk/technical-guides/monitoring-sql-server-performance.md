@@ -6,7 +6,7 @@ ms.date: "11/29/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Monitor SQL Server Performance
 SQL Server provides several tools for monitoring events in SQL Server and for tuning the physical database design. [Tools for Performance Monitoring and Tuning](/sql/relational-databases/performance/performance-monitoring-and-tuning-tools) describes these tools. 

@@ -4,7 +4,7 @@ title: "A4SWIFT Cleanup Tool"
 ms.service: biztalk-server
 ms.date: "06/08/2017"
 ms.reviewer: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 
 # A4SWIFT Cleanup Tool

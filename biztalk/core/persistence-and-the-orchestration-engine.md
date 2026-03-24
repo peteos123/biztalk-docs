@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Persistence and the Orchestration Engine
 State persistence, its management and restoration form the basis of a lot of fundamental functionalities of the orchestration engine. In particular, persistence is critical to the correct functioning of:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Artifacts
 This topic discusses the various BizTalk Server artifacts. Artifacts include the assemblies, security certificates, business rules policies, BAM configuration files, bindings, and so forth that are necessary for a BizTalk application to function. You view and manage an application's artifacts from within the BizTalk Administration Console.  

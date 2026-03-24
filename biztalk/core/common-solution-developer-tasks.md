@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Common Solution Developer Tasks
 Solution developers design and develop BizTalk Server solutions using BizTalk Server development tools and technologies as well as the Microsoft .NET Framework.  

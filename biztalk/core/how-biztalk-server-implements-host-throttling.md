@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How BizTalk Server Implements Host Throttling
 The [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] host throttling mechanism continually monitors for a throttling condition, calculates the severity of the throttling condition, and applies host throttling progressively depending on the calculated severity. The throttling mechanism is self tuning and the default configuration options are suitable for the majority of [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] processing scenarios. [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] host throttling exposes several configurable options that can be used to tune throttling for specific scenarios. For information about changing these configuration options, see [How to Modify Host Settings](../core/how-to-modify-host-settings.md).  

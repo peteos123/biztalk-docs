@@ -6,7 +6,7 @@ ms.date: "10/24/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # TIBCO Rendezvous Adapter
 Microsoft BizTalk Adapter for TIBCO Rendezvous enables you to use TIBCO Rendezvous business functions within BizTalk Server. The following sections discuss setting up the adapter to access TIBCO Rendezvous-specific information.  

@@ -6,7 +6,7 @@ ms.date: "11/16/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Available adapters in BizTalk Server
 

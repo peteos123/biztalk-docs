@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Logical Records Used in Basic Conversations (CPI-C)
 Logical records are sent and received in basic conversations only.  

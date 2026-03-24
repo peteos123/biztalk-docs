@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SMTP Adapter Configuration Properties
 The following table lists the configuration properties that you can set for an SMTP adapter send port:  

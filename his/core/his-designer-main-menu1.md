@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # HIS Designer Main Menu
 The main menu in Host Integration Server Designer (HIS Designer) presents two tabs, **Edit** and **Library**, which contain individual commands.  

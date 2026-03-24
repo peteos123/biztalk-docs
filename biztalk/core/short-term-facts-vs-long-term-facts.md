@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Short-Term Facts vs. Long-Term Facts
 Two types of facts are asserted into the working memory of the rule engine—short-term facts and long-term facts.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Parameterized Queries
 The host file provider supports parameterized queries. In this case, instead of using the values directly in the SQL statement, a placeholder can be used.  

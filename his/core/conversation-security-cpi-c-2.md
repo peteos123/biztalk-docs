@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Conversation Security (CPI-C)
 You can use conversation security to require that the invoking transaction program (TP) provides a user identifier and password before Common Programming Interface for Communications (CPI-C) allocates a conversation with the invokable TP.  

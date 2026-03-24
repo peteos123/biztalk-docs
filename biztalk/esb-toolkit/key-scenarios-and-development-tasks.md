@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Key Scenarios and Development Tasks
 This topic describes the key scenarios for using the [!INCLUDE[esbToolkit](../includes/esbtoolkit-md.md)] and demonstrates how developers can accomplish the key development activities. This topic includes the following scenarios:  

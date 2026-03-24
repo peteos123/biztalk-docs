@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Performance Monitoring Counters
 Transaction Integrator (TI) has 24 basic performance monitoring counters that you can add to the Windows System Monitor to analyze performance and find out where the bottlenecks are in your system. You can select any of the counters, and then click **Explain** to get information about that counter.  

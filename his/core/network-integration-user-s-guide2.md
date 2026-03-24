@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Network Integration User&#39;s Guide
 The topics in this section provide an overview of network communication in a [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] environment and describe the services you can use to manage it.  

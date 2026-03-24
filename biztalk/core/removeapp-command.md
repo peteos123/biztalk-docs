@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # RemoveApp Command
 Removes (deletes) from the BizTalk Management database a BizTalk application as well as all of the artifacts it contains. This does not uninstall the application. For instructions on doing this, see [How to Uninstall a BizTalk Application](../core/how-to-uninstall-a-biztalk-application.md).  

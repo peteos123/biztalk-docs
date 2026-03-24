@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Shapes that Take Expressions
 Several shapes in Orchestration Designer, including **Decide** and **Loop**, use Boolean expressions to form rules that control branching. Other shapes use expressions for other purposes. You can create or edit an expression for these shapes by using BizTalk Expression Editor.  

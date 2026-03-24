@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Pipeline Designer Keyboard Shortcuts
 You can navigate through the design surface by using your keyboard instead of your mouse. The following table shows the keyboard shortcuts that you can use.  

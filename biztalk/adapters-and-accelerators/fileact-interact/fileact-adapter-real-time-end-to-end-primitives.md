@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # FileAct Adapter Real-Time End-to-End Primitives
 SWIFTNet primitives are a pair of XML documents exchanged between the application and SWIFTNet Link (SNL). For each end-to-end primitive, there are two versions of the primitive – one at the client (or send) side and one at the server (or receive) side. This comprises a total of four messages: Put File primitive, Get File primitive, and a Send Delivery Notification for each.  

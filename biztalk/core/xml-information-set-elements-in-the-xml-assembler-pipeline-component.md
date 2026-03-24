@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # XML Information Set Elements in the XML Assembler Pipeline Component
 The XML Assembler component handles XML information set elements as follows.  

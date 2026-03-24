@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SendPortRef (Mapping Node)
 The SendPortRef node of the Mapping node of a binding file lists the names of the send ports referenced by the parent mapping node.  

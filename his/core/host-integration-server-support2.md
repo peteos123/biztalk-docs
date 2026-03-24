@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Host Integration Server Support
 This section explains how [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] works in Systems Network Architecture (SNA) networks. The following information is included:  

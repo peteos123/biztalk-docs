@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Module 6: Deploying the Business Rules
 In this module, you deploy the business rules, confirm your installation log, and confirm your deployment using the Business Rule Composer tool.  

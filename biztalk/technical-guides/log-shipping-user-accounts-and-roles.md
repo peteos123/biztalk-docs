@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Log Shipping User Accounts and Roles
 BizTalk Server log shipping is driven by a SQL Server Agent job to automate the process of restoring backups and logs. Incorrect permissions can cause restore operations performed by BizTalk Server log shipping to fail. The user account configured to restore databases must have access to the production database instance that hosts the BizTalk Management database. In most cases this means that the service account for the SQL Server Agent job driving the BizTalk Server log shipping job on the disaster recovery [!INCLUDE[btsSQLServerNoVersion](../includes/btssqlservernoversion-md.md)] instance requires a login and permissions on the production database instance that hosts the [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] management database. This assumes that the SQL Server Agent service account is configured as the job owner.  

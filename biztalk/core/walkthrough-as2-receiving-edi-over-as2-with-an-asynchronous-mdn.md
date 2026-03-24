@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Walkthrough (AS2): Receiving EDI over AS2 with an Asynchronous MDN
 This walkthrough provides a set of step-by-step procedures that creates a solution for receiving EDI messages over AS2 transport, returning Asynchronous MDNs. 

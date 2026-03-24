@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Disaster Recovery
 Disaster recovery procedures improve system availability by employing steps to resume operation of a failed system. Disaster recovery differs from fault tolerance in that disaster recovery typically requires manual intervention to restore the failed system whereas a fault-tolerant design can continue to operate without manual intervention if the system encounters a failure condition.  

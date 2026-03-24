@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Support for APPC Automatic Logon
 This section describes the support for automatic logon for Advanced Program-to-Program Communications (APPC) applications available in Host Integration Server. This feature requires specific configuration by the network administrator.  

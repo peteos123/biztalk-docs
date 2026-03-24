@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MQSC Adapter Schema
 The BizTalk Adapter for WebSphere MQ uses the same property schema assembly (MQSeries.dll) that is available with the server-based MQSeries Adapter. Because the server-based MQSeries Adapter is available with BizTalk Server 2006, this assembly should be already deployed in the BizTalk Management Database.  

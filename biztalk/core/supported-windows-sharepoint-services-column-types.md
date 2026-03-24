@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Supported Windows SharePoint Services Column Types
 This topic describes the Windows SharePoint Services column types that are supported by the Windows SharePoint Services adapter. The values of these column types can be set in the message.  

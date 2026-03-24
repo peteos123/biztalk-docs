@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # InterAct Adapter Architecture
 This section describes the primitives of InterAct from a functional point of view. The detailed structure, syntax, and usage for the primitives is well-documented in the SWIFT references, and is not repeated here.  

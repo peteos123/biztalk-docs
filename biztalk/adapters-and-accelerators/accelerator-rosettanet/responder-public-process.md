@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Responder Public Process
 This public process on the responder receives the RosettaNet Implementation Framework (RNIF) message from the initiator, and responds accordingly.  

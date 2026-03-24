@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Lesson 2: Adding a Flat File Send Port
 In this lesson, you configure the send port and the send location. You use the send port to define how you want messages sent. You also create a file folder location for sent messages.  

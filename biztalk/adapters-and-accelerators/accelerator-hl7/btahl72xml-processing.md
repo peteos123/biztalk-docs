@@ -3,7 +3,7 @@ description: "Learn more about: BTAHL72XML Processing"
 title: "BTAHL72XML Processing"
 ms.date: "06/08/2017"
 ms.service: biztalk-server
-ms.topic: article
+ms.topic: concept-article
 ---
 # BTAHL72XML Processing
 The following components in Microsoft BizTalk Accelerator for HL7 ([!INCLUDE[btaBTAHL71.3abbrevnonumber](../../includes/btabtahl71-3abbrevnonumber-md.md)]) process HL7 2.XML (XML-encoded) messages:  

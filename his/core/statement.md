@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # statement
 The Statement element described in the following table has one required attribute, Number, and a required value for the SQL statement command string.  

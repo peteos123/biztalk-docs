@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # FileAct Adapter Delivery Notification
 After verifying the completion of receipt (including signature and digest verification) as indicated in the message request, the FileAct adapter transmits the appropriate delivery notification to the sender.  

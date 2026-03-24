@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # REOverride
 Use the **REOverride** keyword to override the type library assignment of the method call to a remote environment (RE) and to assign the call to a newly specified RE. The COMTIContext context name is **REOverride**; the value must be a valid remote environment name.  

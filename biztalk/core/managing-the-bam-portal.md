@@ -6,7 +6,7 @@ ms.date: "08/15/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Manage the BAM portal
 

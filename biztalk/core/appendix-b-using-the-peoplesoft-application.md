@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Appendix B: Using the PeopleSoft Application
 This section describes using different areas of PeopleSoft that could be useful in your orchestration testing.  

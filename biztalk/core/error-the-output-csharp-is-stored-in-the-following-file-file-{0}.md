@@ -3,7 +3,7 @@ description: "Learn more about: Error - The output CSharp is stored in the follo
 title: "Error - The output CSharp is stored in the following file: &lt;file:---{0}&gt; | Microsoft Docs"
 ms.date: "06/08/2017"
 ms.service: biztalk-server
-ms.topic: "article"
+ms.topic: error-reference
 ---
 
 # Error - The output CSharp is stored in the following file: &lt;file:---{0}&gt;

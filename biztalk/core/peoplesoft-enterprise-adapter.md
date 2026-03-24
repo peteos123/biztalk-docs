@@ -6,7 +6,7 @@ ms.date: "10/19/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # PeopleSoft Enterprise Adapter
 Microsoft BizTalk Adapter for PeopleSoft Enterprise enables you to use PeopleSoft objects within your BizTalk Server application. The following sections discuss setting up the adapter to access PeopleSoft-specific information.  

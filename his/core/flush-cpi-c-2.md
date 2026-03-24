@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Flush (CPI-C)
 The **Flush** call (function name **cmflus**) sends the contents of the send buffer of the local logical unit (LU) to the partner LU (and program). If the send buffer is empty, no action takes place.  

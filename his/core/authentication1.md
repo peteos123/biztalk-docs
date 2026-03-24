@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Authentication
 When Host Integration Server receives a request to access a host resource, such as an LU for a terminal session, the server must have some way to verify the request.  

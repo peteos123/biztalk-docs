@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SNA Sense Codes
 If there is a communication problem during an SNA session, [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] can generate sense codes that notify the remote system of the type of problem. The sense codes fall into five distinct categories, corresponding to the type of problem that occurred.  

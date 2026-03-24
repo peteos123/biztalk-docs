@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SNA Provider WMI Programmer&#39;s Reference
 The SNA Provider WMI Programmer's Reference describes the Windows® Management Instrumentation (WMI) classes you can use to monitor and control SNA services.  

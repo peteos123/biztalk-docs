@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interfaces for an In-Process Receive Adapter
 The Messaging Engine instantiates and configures in-process adapters, passing in the transport proxy to allow the adapter to access its functionality. To enable configuration and binding to the transport proxy, adapters must implement the following configuration interfaces:  

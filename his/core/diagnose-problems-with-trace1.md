@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting
 ---
 # Diagnose Problems with Trace
 The following table shows examples of possible difficulties and the types of tracing that may be useful.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-general
 ---
 # Distributed System Problems
 In a distributed destination system the restore jobs are not aware of errors or problems on the other computers. For example, suppose that computer A is restoring the BizTalk Management database and the BizTalk Tracking database, and computer B is restoring the BizTalk MessageBox database. Both computers successfully restore backup sets 1 through 25. Set 26, however, has a corrupted log backup file of the BizTalk MessageBox database. Computer A restores its databases correctly but computer B fails to restore the corrupted file.  

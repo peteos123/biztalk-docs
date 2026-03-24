@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # OperationsSamples (BizTalk Server Sample)
 The OperationsSamples sample demonstrates how to perform operational activities using the Operations object model.  

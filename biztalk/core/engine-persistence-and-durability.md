@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Engine Persistence and Durability
 This section explains how BizTalk Server reliably integrates loosely coupled business processes by persisting process state to disk via SQL Server. By persisting state at appropriate times, leveraging transactions, the system guarantees that no process state is lost even in the event of a hardware or software outage. This is referred to as system durability.  

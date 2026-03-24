@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Open(SSCP)
 The **Open(SSCP)** message is used by the application to open the system services control point (SSCP) connection. The Open request is sent by the application to the node, and the Open response comes from the node to the application.

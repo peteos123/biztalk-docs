@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # BAM Interceptor Error Messages
 When using the WF or WCF BAM interceptors, you may experience issues ranging from an invalid interceptor configuration file to runtime issues extracting context properties or trying to track events from the reply of a one-way WCF operation.  

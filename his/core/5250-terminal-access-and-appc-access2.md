@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # 5250 Terminal Access and APPC Access
 Users who want Advanced Program-to-Program Communications (APPC) access need not be defined in the SNA subdomain, but they must be members of a Windows domain.  

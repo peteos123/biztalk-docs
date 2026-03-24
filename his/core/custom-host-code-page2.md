@@ -3,7 +3,7 @@ title: "Custom Host Code Page2"
 description: "Learn more about: Custom Host Code Page"
 ms.date: "11/30/2017"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: concept-article
 ---
 
 # Custom Host Code Page

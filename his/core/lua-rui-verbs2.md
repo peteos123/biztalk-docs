@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LUA RUI Verbs
 This section describes the Microsoft® Windows® logical unit application (LUA) Request Unit Interface (RUI) verbs. It provides the following information for each RUI verb:  

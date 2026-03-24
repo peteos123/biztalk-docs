@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Limitations of BizTalk Adapter for SQL Server
 The following are known limitations for [!INCLUDE[adaptersql](../../includes/adaptersql-md.md)]:

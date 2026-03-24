@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Flat File Message Bodies
 A flat file instance message body, which is required, is what the flat file disassembler processes into one or more XML instance messages. To know what data to expect in an inbound flat file instance message body, you must configure the flat file disassembler with the flat file schema that corresponds to the body. You can specify the schema by using the **Document schema** design-time property of the flat file disassembler or the **XMLNORM.DocumentSpecName** message context property. Because flat file instance messages must have a body part, you must configure the appropriate schema using one of these two methods.  

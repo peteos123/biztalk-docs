@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Common Component Developer Tasks
 Component developers design and develop advanced BizTalk Server components that are later used in BizTalk Server solutions.  

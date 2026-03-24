@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # IcomLUO.Offline Method
 Switches the LU0 session into an off-line state, which in turn causes the underlying SNA session to deactivate.  

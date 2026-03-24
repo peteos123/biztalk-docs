@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Message Queuing Queues
 This section describes how to specify Microsoft Message Queuing (also known as MSMQ) queues when you use the MSMQ adapter. It describes the conventions for specifying paths and also describes the role that format names play in translating paths into queue designations.  

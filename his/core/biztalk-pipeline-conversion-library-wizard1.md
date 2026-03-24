@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BizTalk Pipeline Conversion Library Wizard
 The Pipeline Component Designer allows you to add messages or record conversion to existing BizTalk adapters that do not offer built-in transformation or formatting, such as the adapters for WebSphere MQ and File Transfer Protocol (FTP). You can use it to produce BizTalk message pipeline-level solutions that scale and perform well.  

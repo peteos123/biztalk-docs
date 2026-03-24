@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SendPorts (DistributionList Node)
 The SendPorts node of the DistributionList node of a binding file is the container node for the send port references in the distribution list.  

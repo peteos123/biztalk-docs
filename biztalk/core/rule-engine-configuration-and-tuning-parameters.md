@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Rule Engine Configuration and Tuning Parameters
 The following table contains a list of registry keys that may be useful for configuration validation and troubleshooting. These registry keys are stored under **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\BusinessRules\3.0**.  

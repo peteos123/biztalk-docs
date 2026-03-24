@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Import COBOL Wizard
 The **Import COBOL Wizard** allows you to select a COBOL copy book and use it for designing the component in the designer. This wizard is rather complex, as there are multiple options and paths to follow.  

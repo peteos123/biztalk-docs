@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Differences by Information Type
 Differences in the implementation of the **DISPLAY** verb between Host Integration Server and IBM ES for OS/2 are described in this section by information type. For each information type, there is a topic that describes:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BACKOUT Verb Issued Locally
 ![Image that shows how the BACKOUT verb is issued locally.](../core/media/appc2db.gif "appc2db")  

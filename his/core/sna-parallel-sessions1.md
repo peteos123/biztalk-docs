@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SNA Parallel Sessions
 Each active transaction allocates one parallel session to interact with the host when SNA is used instead of TCP/IP. This session is activated when the transaction sends the attach message (allocate conversation) and released after the forget message (TpEnded). When you configure too few parallel sessions for the SNA connection, the transactions that are waiting for the active ones to release can start queuing up. To avoid this queuing problem, configure enough sessions for the worst-case scenario.  

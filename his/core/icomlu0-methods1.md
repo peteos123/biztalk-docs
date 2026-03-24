@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # IcomLU0 Methods
 The methods of the IcomLU0 interfaces are listed in the following table. For a complete list of the IcomLU0 members, see [IcomLU0 Members](../core/icomlu0-members2.md).  

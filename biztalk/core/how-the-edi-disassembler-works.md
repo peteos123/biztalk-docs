@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How the EDI Disassembler Works
 [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] performs most processing for received EDI-encoded interchanges in the EDI Receive Pipeline (`Microsoft.BizTalk.DefaultPipelines.EDIReceivePipeline`). This pipeline includes the EDI disassembler pipeline component, which performs the following processing:  

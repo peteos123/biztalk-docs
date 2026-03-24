@@ -3,7 +3,7 @@ title: "Data Providers for DB2"
 description: "Learn more about: DB2 Data Providers"
 ms.date: "12/22/2023"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: reference
 ---
 
 # Data Providers for DB2

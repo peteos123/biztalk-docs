@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Output Area Wizard Page
 Use the **Output Area** wizard page to select the output parameters for the new method in a non-link programming model.  

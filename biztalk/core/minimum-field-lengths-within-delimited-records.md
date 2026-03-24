@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Minimum Field Lengths Within Delimited Records
 By definition, the fields in positional records are all defined to have specific exact lengths. Fields in delimited records can also be defined to have a minimum length. This characteristic is defined by the **[Minimum Length with Pad Character** property of **Field Element** and **Field Attribute** nodes.  

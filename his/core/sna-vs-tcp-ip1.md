@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SNA vs. TCP/IP
 TCP/IP is not as scalable as SNA with Transaction Integrator (TI), but TCP/IP is more effective in other areas such as file transfer and data access (about 10-15% better on OLEDB tests). In addition, the IBM endorsement of TCP/IP simplifies the corporate networking infrastructure and enables easier interoperability to the Internet.  

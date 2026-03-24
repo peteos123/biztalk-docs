@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Custom Party Resolution (BizTalk Server Sample)
 The Custom Party Resolution sample demonstrates how to write a custom pipeline component to resolve a custom party.  

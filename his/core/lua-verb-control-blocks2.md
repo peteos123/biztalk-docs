@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LUA Verb Control Blocks
 When an application issues a Microsoft® Windows® logical unit application (LUA) verb, the verb is coded within the application as a precisely defined verb control block (VCB). The total length of this VCB is variable and is defined by **lua_verb_length**.  

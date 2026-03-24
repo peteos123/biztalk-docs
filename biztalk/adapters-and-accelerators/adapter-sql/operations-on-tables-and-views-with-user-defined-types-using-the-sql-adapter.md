@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Operations on tables and views with user-defined types using the SQL adapter
 You can use the [!INCLUDE[adaptersqlshort](../../includes/adaptersqlshort-md.md)] to perform operations on tables or views that have columns of user-defined types (UDTs). You can use the standard table operations (Insert, Update, Delete, and Select) to read or write data into columns on UDT types. You can also execute stored procedures and functions on such tables. However, you need to perform certain tasks before you can use the adapter to operate on tables with UDT columns. Once you have performed these tasks, you can use the adapter to:  

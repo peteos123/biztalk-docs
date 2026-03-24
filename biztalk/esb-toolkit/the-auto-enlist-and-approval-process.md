@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # The Auto-Enlist and Approval Process
 You can configure the ESB Management Portal to publish Microsoft BizTalk Server endpoints in two ways:  

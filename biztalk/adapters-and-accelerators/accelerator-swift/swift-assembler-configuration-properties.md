@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SWIFT Assembler Configuration Properties
 The following table provides SWIFT assembler (ASM) properties, descriptions, data types, and value ranges.  

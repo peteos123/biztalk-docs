@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Schema (TrackedSchemas Node)
 The Schema node of the TrackedSchemas node of a binding file describes a schema bound to a service that is exported with the binding file.  

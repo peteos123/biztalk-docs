@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Sample BizTalk Server Architectures
 To provide the greatest possible security to your Microsoft® BizTalk® Server environment, it is recommended that you use an architecture where you distribute the BizTalk Servers based on the criticality of the data and services that they contain, and the implication if an attacker compromises the server.  

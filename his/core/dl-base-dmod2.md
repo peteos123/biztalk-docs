@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # DL-BASE/DMOD
 The following topics describe an example in which a 3270 emulator is to be adapted to use Host Integration Server. The emulator must communicate with the local 2.1 node.  

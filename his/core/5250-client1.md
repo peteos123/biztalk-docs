@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # 5250 Client
 The Microsoft Host Integration Server 5250 Client is a powerful communications product that enables you to access IBM i systems on the Systems Network Architecture (SNA) network from your computer. After you connect to a host application, you can print the screen, copy and paste displayed information via the Clipboard, and save a configuration.  

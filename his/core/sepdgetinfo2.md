@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # sepdgetinfo
 The **sepdgetinfo** function returns a structure containing the version number of Host Integration Server, the path of the current configuration file, and the network operating system over which Host Integration Server is running.  

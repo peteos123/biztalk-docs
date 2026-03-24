@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Complex Global Type Derivation
 There are two types of inheritance in XSD: extension and restriction. BizTalk Editor provides access to this XSD functionality by using the following two **Record** node properties:  

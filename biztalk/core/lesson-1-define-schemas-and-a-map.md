@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 1: Define Schemas and a Map
 In this lesson, you create and build the first project in the enterprise application integration (EAI) solution. The project contains two message schemas, and a map.  

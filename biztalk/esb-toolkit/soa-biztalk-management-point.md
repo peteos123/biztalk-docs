@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SOA BizTalk Management Point
 The BizTalk Management Point for BizTalk Server is a conceptual extension to SOA Software's Web Services Management Point, applied specifically to the BizTalk Server environment and providing run-time governance for Web service applications.  

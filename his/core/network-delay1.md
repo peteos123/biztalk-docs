@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Network Delay
 Network delay is the difference between what the host measures as the internal transaction response time and what the client computer sees as external response time, excluding the processing time on the application server. On a high-speed local area network (LAN) deployment, the contribution from the network delay can be very small, but when wide area networks (WAN), satellite hops, or modems are involved, they can be major contributors to poor end-user response times.  

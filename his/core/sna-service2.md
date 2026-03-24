@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SNA Service
 The core of the power of [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] is its ability to provide a wide range of host connectivity services. [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] uses client/server architecture to distribute communications processing. This architecture maximizes the power of the host, Host Integration Server, and individual client computers. Within the context of Host Integration Server, a connection is the data communication path between a Host Integration Server computer and an IBM host (mainframe or IBM i). A connection is what makes it possible for a client computer on a local area network (LAN), using standard LAN protocols, to communicate with a host by means of one or more Host Integration Server computers. Each server supports up to 3,000 users operating 30,000 concurrent sessions, 8,000 split stock users per node, four nodes per server.  

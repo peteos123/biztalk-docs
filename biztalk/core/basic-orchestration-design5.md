@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Basic Orchestration Design
 When you create a basic orchestration in BizTalk Adapter for PeopleSoft Enterprise, you receive XML into the receive port of your orchestration. The XML is then sent to the back-end system to be processed. In the back-end system, an exception might occur that would stop the orchestration and generate a fault. The fault that is produced provides information that the orchestration was not completed. This is not helpful in debugging the cause of the error.  

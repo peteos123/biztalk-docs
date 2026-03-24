@@ -6,7 +6,7 @@ ms.service: biztalk-server
 ms.date: "03/17/2016"
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # BizTalk Technical Guides
 

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security Implications
 Transaction Integrator (TI) can provide user ID and password credentials for authentication on the mainframe. They are provided in compliance with existing IBM standards, and mainframe authentication is completed by standard IBM procedures such as Resource Access Control Facility (RACF), Top Secret, and so on. All mainframe authentication is completed in a manner transparent to the developer.  

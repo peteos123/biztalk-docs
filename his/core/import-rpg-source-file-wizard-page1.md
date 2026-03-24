@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Import RPG Source File Wizard Page
 Use the **Import RPG Source File** wizard page to identify the file that contains the Report Program Generator (RPG) source statements. After being identified, the RPG source statements are displayed in the edit control. Select the RPG file to import.  

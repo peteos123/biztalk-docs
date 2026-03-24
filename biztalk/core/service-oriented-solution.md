@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Service Oriented Solution
 The service oriented solution shows how to present a BizTalk application as a service that is available as a Web service and in forms accessible to legacy applications. The solution also shows how to communicate with back-end processes as Web services, as well as how to aggregate responses from multiple back-end systems.  

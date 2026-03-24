@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Role Links and Service Link Roles
 A *role* is a collection of port types that either uses a service or implements a service. A role represents the type of interaction that a party can have with one or many orchestrations. Roles provide flexibility and ease of management as the number of parties increase. For example, an orchestration might use the role of a Shipper. The Shipper would have one or two parties associated with it. When the orchestration decides which shipping company to use to ship an item, it compares the prices of the parties in the Shipper role.  

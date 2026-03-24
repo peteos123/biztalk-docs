@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Activity and ActivityID Nodes
 Activity and ActivityID nodes are used to contain and identify an activity definition. The Activity node is the parent folder for the items in the activity definition. All data items and business event nodes are subordinate to and contained within the associated activity node. The name of the Activity node should reflect the name of the activity itself.  

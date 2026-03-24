@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Adapter Samples - Usage
 This section provides information about the functionality demonstrated by each adapter sample, instructions for building and running the sample, and the results you can expect.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Module 5: Adding a Flat File Receive Location and XML Send Port
 In this module, you add one flat file receive port and location, and one XML send port. You use the receive port and location to receive an MT103 flat file from a file folder. You use the send port to send the MT103 message to an outbound file folder in XML format.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Keyboard Shortcuts General to the Design Surface
 The following table describes the keyboard navigation that is general to both the Process Area and Port Surfaces areas of the design surface.  

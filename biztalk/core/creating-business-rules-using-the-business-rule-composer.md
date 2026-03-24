@@ -6,7 +6,7 @@ ms.date: "02/01/2018"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Create Business Rules Using the Business Rule Composer
 

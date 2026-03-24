@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Import Library Wizard
 The **Import Library Wizard** enables you to import an existing library, whether it is annotated or not, to the existing component. The methods, recordsets, user-defined types, and unions from the imported library are inserted under the library in the Host Integration Server (HIS) designer.  

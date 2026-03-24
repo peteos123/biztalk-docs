@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # The Sample Multiple Web Services Itineraries
 The following table lists all the predefined itinerary files included with the Multiple Web Services sample. These are located in the \Source\Samples\MultipleWebServices\Itineraries folder.  

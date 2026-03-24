@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Diagnostic Tracing and Message Logging for the Siebel adapter
 Adapter clients can enable diagnostic tracing to effectively diagnose problems encountered while using the adapters. Adapter clients can activate tracing at three different levels:  

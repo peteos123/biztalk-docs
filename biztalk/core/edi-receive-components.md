@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Receive Components
 The pipeline and pipeline components described in this topic process EDI messages that are not EDI/AS2 messages. For information about the processing of received EDI/AS2 or non-EDI/AS2 messages, see [AS2 Receive Components](../core/as2-receive-components.md). Note that AS2 receive components perform EDI processing in addition to AS2 processing.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LUSTAT Sense Codes
 The following sense codes are sent by a 3270 emulator on LUSTAT requests.  

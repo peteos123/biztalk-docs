@@ -6,7 +6,7 @@ ms.date: "02/02/2024"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ELM Format for the TCP ELM Link Programming Model
 This section describes the format and content of the enhanced listener message (ELM) used by the TCP ELM Link programming model.  

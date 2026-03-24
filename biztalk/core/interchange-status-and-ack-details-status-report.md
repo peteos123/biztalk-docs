@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Interchange Status and ACK Details Status Report
 This status report displays details of an interchange and its correlated interchange (technical) acknowledgment and functional acknowledgments. You display this report for right-clicking an interchange within the Interchange/ACK status report, and then clicking **Interchange status and ack details**.  

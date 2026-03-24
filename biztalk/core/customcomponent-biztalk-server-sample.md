@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # CustomComponent (BizTalk Server Sample)
 The CustomComponent sample demonstrates how to create and use a custom pipeline component that modifies a streamed message. This sample also demonstrates the configuration of a custom pipeline component in Pipeline Designer.  

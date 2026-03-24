@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # DataSource Object (OLE DB Provider for Informix)
 The **DataSource** object is created by an OLE DB consumer. The **DataSource** object contains the knowledge and ability to connect to Informix over a TCP/IP network connection. The **DataSource** object is used to create one or more **Session** objects.  

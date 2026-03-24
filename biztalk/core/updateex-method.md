@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # UpdateEx Method
 Used to update properties based on the input key parameters (key1, key2, … keyn). When using `UpdateEx`, you cannot delete items in a collection. A separate method facilitates deletion. For more information, see [DeleteOnly Method](../core/deleteonly-method.md).  

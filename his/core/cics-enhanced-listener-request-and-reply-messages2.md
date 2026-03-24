@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # CICS Enhanced Listener Request and Reply Messages
 To support the CICS TCP enhanced listener message (ELM) Link programming model and the TCP ELM User Data programming model, Transaction Integrator (TI) supports two variations of the CICS Enhanced Listener TRM.  

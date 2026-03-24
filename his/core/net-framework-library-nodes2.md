@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # .NET Framework Library Nodes
 When you view a .NET library (.dll for client and .tim for server) from within a TI Project, the Visual Studio design environment displays the objects in the library in a tree view in the left pane and list view in the right pane. Double-click the node to expand the node and right-click the node to display a shortcut menu.  

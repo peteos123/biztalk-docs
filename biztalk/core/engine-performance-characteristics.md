@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Engine Performance Characteristics
 This section explains how you can ensure the messaging engine has optimal performance. It explains how to measure maximum sustainable engine throughput and how to modify default host throttling settings.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Important Network Options on a Host Integration Server Computer
 When [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] network options are specified correctly on a [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] computer, the server will use the appropriate protocol(s) for communicating with clients. Servers supporting TCP/IP or Microsoft Networking will have the correct domain name so that clients can locate the Host Integration Server computers.  

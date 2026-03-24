@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BizTalk Mapper Keyboard Shortcuts
 As in any standard Microsoft Windows application, you can use keyboard shortcuts in BizTalk Mapper to access commands otherwise available by using menus. The following table describes the available keyboard shortcuts.  

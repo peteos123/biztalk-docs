@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # SchemaValidator
 You use the SchemaValidator utility to troubleshoot problems with a message instance. If you receive a message that fails validation, you can run the SchemaValidator utility to determine the source of the failure.  

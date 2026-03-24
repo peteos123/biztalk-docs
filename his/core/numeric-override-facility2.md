@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: feature-guide
 ---
 # Numeric Override Facility
 The numeric override facility allows a user to enter non-numeric characters in numeric-only fields.  

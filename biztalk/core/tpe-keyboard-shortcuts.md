@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # TPE Keyboard Shortcuts
 In the Tracking Profile Editor (TPE), you can use keyboard shortcuts to perform the same navigation and edit functions that you do by using a mouse. You can use these shortcuts to perform all the functions used in TPE. This section describes the keyboard shortcuts and provides some tips about using your keyboard to navigate in TPE.  

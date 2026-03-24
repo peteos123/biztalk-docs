@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Open(SSCP) Request
 The **Open(SSCP) Request** message flows from the application to the node. It is used with a system services control point (SSCP) connection.  

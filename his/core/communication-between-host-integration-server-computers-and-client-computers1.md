@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Communication Between Host Integration Server Computers and Client Computers
 [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] uses two connections between the systems running SNA Applications and the SNA Gateway.  The first connection is used to communicate information about the HIS subdomain, such as available resources.  This is called the Sponsor connection.  It is established by the component SNABASE.   The second connection is used for the SNA traffic traveling through the SNA Gateway to the host systems.  It is established directly between the SNA application and the SNA Server service on the SNA Gateway.  This is called the Application connection.  Both of these connections use TCP/IP and are secured through NTLM or Kerberos. 

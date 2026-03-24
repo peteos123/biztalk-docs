@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Alert Viewer Page
 The Alert Viewer page, shown in Figure 1, displays all the details of a selected alert, including the conditions that match it to incoming exceptions, and a list of subscriptions defined for this alert.  

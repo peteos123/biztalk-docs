@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Load Balancing and Hot Backup
 Load balancing and hot backup allow for scalable applications and increased performance on enterprise systems. Deploying multiple servers increases application throughput by distributing the load based on rules that are defined by the load balancing engine. Load balancing services also increase availability by detecting connection failures and providing redundant resources for client applications.  

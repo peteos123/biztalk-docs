@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Performance Tips and Tricks
 This section provides useful tips for ensuring optimal performance for your BizTalk Server system.  

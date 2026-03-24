@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Default Outgoing Local APPC LU Pool
 With Host Integration Server, you can set up a pool of local APPC LUs that will be allocated dynamically for any invoking transaction program that does not specify a local LU. This feature is designed to coexist with the default local and remote LUs for users and groups, and does not override these settings.  

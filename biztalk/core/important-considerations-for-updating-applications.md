@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Important Considerations for Updating Applications
 The following are important issues to consider before updating an application, especially one that is running in a production environment.  

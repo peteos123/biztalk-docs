@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Icom3270.getScreenSize Method
 The getScreenSize method returns the size, in rows and columns, of the current 3270 screen.  

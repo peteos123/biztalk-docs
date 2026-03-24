@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Interchange Structural Element
 The interchange is the highest-level structural element of an EDI message. It contains a collection of one or more groups exchanged by two partners. The destination of an interchange must be a single trading partner. Interchanges may contain transaction sets/message of one or more than one type.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # RUI and SLI Definitions
 The definitions of the [RUI](./rui2.md) and [SLI](./sli2.md) functions are as follows:  

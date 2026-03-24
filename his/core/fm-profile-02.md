@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # FM Profile 0
 Function management (FM) Profile 0 is supported on SSCP-PU and SSCP-SLU sessions. This profile specifies the following session rules:  

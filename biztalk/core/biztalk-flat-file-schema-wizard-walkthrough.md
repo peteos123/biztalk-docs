@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # BizTalk Flat File Schema Wizard Walkthrough
 The following walkthrough shows you how to create flat file schema from flat file document instances using the BizTalk Flat File Schema Wizard.  

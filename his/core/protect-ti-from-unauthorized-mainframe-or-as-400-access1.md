@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Protect TI from Unauthorized Mainframe or IBM i Access
 To prevent an attacker from using the mainframe or IBM i connection to access the server running Transaction Integrator, you should:  

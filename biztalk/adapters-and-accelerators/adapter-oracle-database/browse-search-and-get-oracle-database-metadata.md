@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Browse, search, and get Oracle Database metadata
 The[!INCLUDE[adapteroracle_short](../../includes/adapteroracle-short-md.md)] surfaces metadata from the Oracle database that describes the message structure for communicating with the Oracle database using the adapter. The [!INCLUDE[adapteroracle_short](../../includes/adapteroracle-short-md.md)] supports two interfaces for retrieving metadata.  

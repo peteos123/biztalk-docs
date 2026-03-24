@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: language-reference
 ---
 # XLANG-s Statements
 XLANG/s statements generally fall into one of two categories: simple statements that act on their own, such as **receive** or **send**, and complex statements that contain or group either simple statements or other complex statements, such as **scope**, **parallel**, and **listen**. Each statement is corresponding to an orchestration shape in the BizTalk Orchestration Designer. XLANG/s defines the following statements:  

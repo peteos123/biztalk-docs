@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Client Interface Files for 3270 Applications
 The files listed in the following table are required to build 3270 client applications for use with Microsoft® Host Integration Server.  

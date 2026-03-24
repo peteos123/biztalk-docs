@@ -3,7 +3,7 @@ title: "SNA Trace Provider WMI Programmer’s Reference1"
 description: "Learn more about: SNA Trace Provider WMI Programmer’s Reference"
 ms.date: "01/17/2023"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: reference
 ---
 
 # SNA Trace Provider WMI Programmer’s Reference

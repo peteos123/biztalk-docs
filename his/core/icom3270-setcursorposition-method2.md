@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Icom3270.setCursorPosition Method
 The setCursorPosition sets the position of the cursor on the 3270 screen.  

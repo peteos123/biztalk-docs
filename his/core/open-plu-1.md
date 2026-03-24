@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Open(PLU)
 The **Open(PLU)** message is used by the local node to open the primary logical unit (PLU) connection with the application on receipt of a **BIND** command from the host.

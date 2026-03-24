@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # LUA Common Return Codes
 This section describes the primary and, if applicable, secondary return codes that are common to the logical unit application (LUA) verbs. The return codes are listed in hexadecimal order.  

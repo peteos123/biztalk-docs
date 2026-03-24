@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Normal Deallocation (CPI-C)
 If *return_code* is set to CM_DEALLOCATED_NORMAL, the conversation changes to RESET state.

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Confirm (CPI-C)
 The **Confirm** call (function name **cmcfm**) sends the contents of the send buffer of the local logical unit (LU) and a confirmation request to the partner program and waits for confirmation. For Microsoft Windows, run a background thread for all CPI-C communications and preserve the foreground thread for user interface only.  

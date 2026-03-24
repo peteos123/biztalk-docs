@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BizTalk Adapter for WebSphere MQ
 The Client-Based BizTalk Adapter for WebSphere MQ (MQSC Adapter) is a connectivity solution that enables you to use BizTalk Server in an enterprise with WebSphere MQ as the chosen messaging standard.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Standards Support
 BizTalk Server provides for design- and run-time support for four encoding standards. The following table lists the encoding standards with links to more information.

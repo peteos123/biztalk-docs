@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Source Control and the BizTalk Project System
 Source control is a mechanism in which a central piece of software stores and tracks file versions and controls who can access the files. When you use source control, you can:

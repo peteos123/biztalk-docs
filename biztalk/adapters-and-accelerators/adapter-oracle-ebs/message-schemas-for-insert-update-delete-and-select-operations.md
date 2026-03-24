@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Message Schemas for Insert, Update, Delete, and Select Operations
 The [!INCLUDE[adapteroracleebusinesslong](../../includes/adapteroracleebusinesslong-md.md)]surfaces basic Insert, Update, Delete, and Select operations for each interface table in Oracle E-Business Suite and each table in the underlying database. The adapter also surfaces the Select operation for each interface view in Oracle E-Business Suite and each view in the underlying database. These operations perform the appropriate SQL statement qualified by a WHERE clause. The [!INCLUDE[adapteroraclebusinessshort](../../includes/adapteroraclebusinessshort-md.md)] uses strongly-typed records and record sets in these operations.  

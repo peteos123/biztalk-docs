@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MIME-SMIME Decoder Pipeline Component
 The MIME/SMIME Decoder component provides MIME decoding functionality for messages. This pipeline component can be placed into the Decode stage of a receive pipeline, and it supports 7bit, 8bit, binary, quoted-printable, UUEncode, and base64 decoding. Localized data character set changes will not affect the decoding.  

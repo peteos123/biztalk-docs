@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Message Routing Patterns
 Message routing patterns define proven guidelines for routing a message to its target endpoint(s). Routing can be the result of static configuration, or it can be dynamically configured based on a number of criteria and using a number of methods.

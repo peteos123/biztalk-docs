@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Sessions and Connections
 An application using the function management interface (FMI) can communicate with the host on two SNA sessions as described in the following list:  

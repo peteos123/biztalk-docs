@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # BizTalk Server 2013 Performance Optimization Guide
 ![BTS Whitepaper](../technical-guides/media/btswhitepaper.jpg "BTSWhitepaper")

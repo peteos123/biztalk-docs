@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Considerations When Creating Schemas
 This section provides information about a variety of considerations related to schema creation. Some of these considerations apply to all types of schemas, and are addressed first. Other considerations are specific to flat file message schemas and envelope schemas. These latter considerations are organized into their own subsections.  

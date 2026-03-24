@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Messages Represented as XLANGMessage
 An **XLANGMessage** object represents a message instance declared with an XLANG service. This object is obtained by passing a reference to a message as a parameter in a method invocation. An **XLANGPart** object represents a message part contained in a message instance within an XLANG service. This object is obtained either by passing a part reference in a method invocation where the receiving parameter type is **XLANGPart** or by enumerating on a passed reference of **XLANGMessage**.  

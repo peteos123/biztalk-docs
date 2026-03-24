@@ -6,7 +6,7 @@ ms.date: "12/30/2022"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # MQSeries Context Properties
 The MQSeries adapter provides a set of context properties, specific to MQSeries, for use in your applications. You can use these properties in filter expressions and in your orchestrations.  

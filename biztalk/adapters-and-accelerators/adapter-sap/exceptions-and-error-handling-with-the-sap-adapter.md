@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Exceptions and Error Handling with the SAP adapter
 Lists the exceptions that the [!INCLUDE[adaptersap](../../includes/adaptersap-md.md)] throws. These can contain:  

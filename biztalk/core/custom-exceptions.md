@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Custom Exceptions
 For situations where there is an unrecoverable error, the Business Process Management solution uses a combination of exception handlers and custom exceptions.  

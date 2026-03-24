@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # CICS Components
 Customer Information Control System (CICS) is a mainframe application system that provides components such as a transaction-processing monitor and a transaction-processing manager for a mainframe computer to run online transaction processing (OLTP) applications. CICS is commonly installed on z/OS mainframe computers. CICS extends the capabilities of a batch-only environment by providing the application system components that allow the mainframe computer to run OLTP applications.  

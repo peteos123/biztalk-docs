@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security Case Studies for Small to Medium-Sized Companies
 Security is a concern of any company that is serious about making sure that only a select group of people or applications can access its data and resources. Companies approach and implement security in a variety of ways.  

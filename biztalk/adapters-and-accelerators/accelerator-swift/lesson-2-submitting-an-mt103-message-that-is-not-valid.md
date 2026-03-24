@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 2: Submitting an MT103 Message That Is Not Valid
 In this lesson, you submit an MT103 message that is not valid and then you troubleshoot the resulting error using your System Tools.  

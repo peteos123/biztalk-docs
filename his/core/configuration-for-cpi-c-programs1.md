@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Configuration for CPI-C Programs
 In addition to maintaining the side information (specified by *sym_dest_name*), the system administrator must define the following entities during configuration:  

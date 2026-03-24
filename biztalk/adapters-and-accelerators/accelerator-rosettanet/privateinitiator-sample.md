@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # PrivateInitiator Sample
 The PrivateInitiator.odx sample contains the code for the initiator private process installed by Microsoft® BizTalk Server. This is a generic private process that sends and receives RNIF service-content messages from the default SQL adapter-based send and receive ports.  

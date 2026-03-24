@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Enlisted Party (Enlisted Parties Node)
 The Enlisted Party node of a binding file contains specific information about an enlisted party associated with a role that is exported with the binding file.  

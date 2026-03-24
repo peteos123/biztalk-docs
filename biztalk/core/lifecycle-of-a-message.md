@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Lifecycle of a Message
 The following figure provides a high-level overview of the BizTalk Server architecture from a messaging perspective.  

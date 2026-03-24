@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # UnenlistParties (BizTalk Server Sample)
 The UnenlistParties sample demonstrates how to unenlist all of the parties associated with a deployed BizTalk Server assembly.

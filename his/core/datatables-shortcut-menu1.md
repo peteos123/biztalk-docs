@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # DataTables Shortcut Menu
 When you select the **DataTables** node from the library tree, the following shortcut menu commands are displayed:  

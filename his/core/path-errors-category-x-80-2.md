@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Path Errors (Category X&#39;80&#39;)
 Sense codes in this category indicate that the request could not be delivered to the required half-session because of path errors. The following codes are in this category.  

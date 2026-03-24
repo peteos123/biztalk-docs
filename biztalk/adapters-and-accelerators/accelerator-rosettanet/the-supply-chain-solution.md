@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The Supply Chain Solution
 Technology can help solve the business challenges related to business process and data communications. Information Technology (IT) systems can help high-technology companies transform the communications with their partners from disconnected, incompatible processes to integrated, standardized ones.  

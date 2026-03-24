@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Data Type Mapping for Send Handlers in TIBCO Rendezvous
 The mapping from XML schema types to TIBCO Rendezvous types is only possible if TIBCO Rendezvous provides type information (xsi:type=). Any unsupported types are mapped to strings if it is possible. If mapping is not possible, or if the option is disabled in the port configuration, an error is generated.  

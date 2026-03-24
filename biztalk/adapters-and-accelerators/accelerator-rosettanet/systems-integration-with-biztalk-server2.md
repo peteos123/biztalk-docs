@@ -6,7 +6,7 @@ ms.date: "06/08/2018"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Systems Integration with BizTalk Server
 BizTalk Server is an integration server that uses a [publish and subscribe architecture](../../core/publish-and-subscribe-architecture.md). It's designed for eBusiness applications that [use adapters](../../core/using-adapters.md) to receive and send messages, implement [business processes through orchestration](../../core/defining-business-processes.md), and include [management and tracking](../../core/management-and-tracking-architecture.md) of these different parts. BizTalk Server also includes [trading partner management](../../core/trading-partner-management-using-biztalk-server.md) for business-to-business messaging, [high availability](../../core/planning-for-high-availability3.md) to maximize uptime, a development platform to [create your own components](../../core/developing-custom-components.md), an administration console to [manage your artifacts](../../core/operational-and-administrative-tasks-in-your-biztalk-environment.md), and business activity monitoring to manage [aggregations, alerts, and profiles](../../core/using-business-activity-monitoring.md). This technology stack provides a range of functionality and features for developing, implementing, operating, and maintaining your solution.  

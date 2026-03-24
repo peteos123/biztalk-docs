@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # IMS Components
 The information management system (IMS) provides a transaction program (TP) Monitor with an integrated TP Manager and hierarchical database. Both the TP Monitor and the database can coordinate transactions with non-IMS TP Monitors and databases.  

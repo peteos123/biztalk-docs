@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # section
 The Section element described in the following table contains two attributes, Number and Alias. It also contains the following set of elements: Statement, Parameters and ResultSet.  

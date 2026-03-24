@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Message Schemas for Composite Operations
 The [!INCLUDE[adaptersql](../../includes/adaptersql-md.md)] enables you to execute composite operations on the SQL Server database. A composite operation can contain multiple operations including the Insert, Update, and Delete operations on the tables and views, and operations on stored procedures. A composite operation can include these operations in any order.  

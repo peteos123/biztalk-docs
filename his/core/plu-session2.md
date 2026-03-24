@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # PLU Session
 When the primary logical unit (PLU) connection is open, the application has access to the PLU session and can communicate with the host PLU.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Artifacts That Must Be Unique in an Application or Group
 Certain types of artifacts in a BizTalk group or application must be unique, as follows:  

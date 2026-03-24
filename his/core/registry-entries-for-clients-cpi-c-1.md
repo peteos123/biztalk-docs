@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Registry Entries for Clients (CPI-C)
 The following list gives details about registry entries for client computers. For each transaction program (TP) type, the applicable variables and their locations are shown in [Configuring Clients to Support TPs (CPI-C)](../core/configuring-clients-to-support-tps-cpi-c-1.md).  

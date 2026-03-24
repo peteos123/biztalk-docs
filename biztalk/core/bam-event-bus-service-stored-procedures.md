@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BAM Event Bus Service Stored Procedures
 You use the following stored procedures to manage the BAM Event Bus service:  

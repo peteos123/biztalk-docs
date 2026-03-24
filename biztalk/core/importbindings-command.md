@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ImportBindings Command
 Imports bindings from an XML-based binding file into a BizTalk application or group. The bindings may have been exported from an assembly, application, or group, as described in [Exporting Bindings](../core/exporting-bindings6.md). Depending on the location from which the bindings were exported, the ApplicationName and GroupLevel parameters have different effects. For more information, see "Remarks," later in this topic.  

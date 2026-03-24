@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Send Adapter Synchronous Mode
 The following diagram shows the sequence of actions that the send adapter in synchronous mode performs to send a message over SWIFT.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Support for 3270 Single Sign-On
 This section describes the support for Single Sign-On for 3270 display sessions that is available in Microsoft Host Integration Server.  

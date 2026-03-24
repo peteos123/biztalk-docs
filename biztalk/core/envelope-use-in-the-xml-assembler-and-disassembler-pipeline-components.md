@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Envelope Use in the XML Assembler and Disassembler Pipeline Components
 An XML message can include zero or more envelopes. The following example shows an envelope (in bold) wrapping an XML document.  

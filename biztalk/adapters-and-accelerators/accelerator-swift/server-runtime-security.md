@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Server Runtime Security
 [!INCLUDE[btaA4SWIFT2.3abbrevnonumber](../../includes/btaa4swift2-3abbrevnonumber-md.md)] Message Repair and New Submission governs the flow of SWIFT messages between business users, back-end systems, and SWIFT network endpoints in a secure and deterministic manner. It authenticates messages submitted by business users, validates messages for data and business-rule correctness, and routes messages to back-end systems or for final delivery to the SWIFT network. For more information about digital certificates, see "Encryption and Signing Certificates" on the MSDN Library Web site at [https://go.microsoft.com/fwlink/?linkid=50285](/docs/).

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Components of the Business Process Management Solution
 This section describes the major BizTalk Server components of the Business Process Management Solution. For information about the source files, see [File Inventory for the Business Process Management Solution](../core/file-inventory-for-the-business-process-management-solution.md).  

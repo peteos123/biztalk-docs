@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Restrictions on Using Macros in SMTP Headers
 You can form the **Subject**, **To**, **From**, and **CC** properties on an SMTP message header dynamically by using a predefined set of macros. Before sending a message, the SMTP send handler substitutes all the macros in headers with their values. You can use several different macros when forming one header.  

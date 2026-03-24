@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Orchestration Dehydration and Rehydration
 When many long-running business processes are running at the same time, memory and performance are potential issues. The orchestration engine addresses these issues by "dehydrating" and "rehydrating" orchestration instances.  

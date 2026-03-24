@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # connectionManager
 The connectionManager element contains the network, security and failover settings for managing in-bound DRDA client connections.  

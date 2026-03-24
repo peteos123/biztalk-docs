@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # applicationEncodings
 The applicationEncodings element contains applicationEncoding elements for specifying default application-level encoding schemes on a per-database basis.  

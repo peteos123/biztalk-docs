@@ -6,7 +6,7 @@ ms.date: "01/26/2024"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Sample VTAM Parameters
 VTAM parameters on host connections need to correspond to settings in [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)]. Each connection needs its own specified values.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting
 ---
 # Additional Help with Events and Errors
 We provide troubleshooting information about specific product event and error messages. For Windows operating systems, you can access event message documentation by using the link inside the property window of an event. 

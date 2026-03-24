@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Access Control for Administrative Roles
 When a user opens any of the [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] tools that require access to the databases or to Windows resources, the interactive user of the tool must have the proper SQL Server and Windows user rights in order to perform the various tasks that the tools support.  

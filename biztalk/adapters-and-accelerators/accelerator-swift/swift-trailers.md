@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Trailers
 Each SWIFT message has one or more trailers as required by the message exchange and security requirements. System trailers, if applicable, follow user trailers. Each trailer within the Trailer Block appears within a subblock delimited by further pairs of curly brackets. Each subblock begins with three letters denoting the trailer type, followed by a colon.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Components of the Service Oriented Solution
 This section describes the major BizTalk Server components of the Service Oriented Solution. The following diagram shows the major components of the solution:  

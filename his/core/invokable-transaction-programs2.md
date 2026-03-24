@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Invokable Transaction Programs
 An invokable TP is a TP that can be invoked by another TP. Invokable TPs are written or configured to supply their names to Host Integration Server as a notification that they are available for incoming requests. Host Integration Server invokable TPs can be run on any Host Integration Server computer or on a Windows client.  

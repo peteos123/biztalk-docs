@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Verification Phase Recommendations
 After the system is code complete, it is ready to be fully stabilized and the release criteria can be verified. This phase is often referred to as the stabilization phase. The ultimate goal of this phase is to identify and fix bugs and prove that the system is ready for production. This phase, therefore, involves a final round of testing on a release candidate of the system.  

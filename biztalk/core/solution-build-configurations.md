@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Solution Build Configurations
 As with other projects that you build in [!INCLUDE[btsVStudioNoVersion](../includes/btsvstudionoversion-md.md)], you can use Configuration Manager to specify solution build configurations. Solution build configurations enable you to determine which projects to include in builds of a solution and if they will be deployed. BizTalk Server supports both **Debug** and **Release** build configurations.

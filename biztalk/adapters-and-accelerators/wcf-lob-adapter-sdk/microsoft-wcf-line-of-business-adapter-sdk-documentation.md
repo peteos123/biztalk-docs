@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Microsoft Windows Communication Foundation Line of Business Adapter SDK documentation
 The [!INCLUDE[afproductnameshort](../../includes/afproductnameshort-md.md)] documentation includes resources to help you develop, deploy, and use adapters created with the [!INCLUDE[afproductnameshort](../../includes/afproductnameshort-md.md)].  

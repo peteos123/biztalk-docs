@@ -6,7 +6,7 @@ ms.date: "08/09/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: landing-page
 ---
 # Adapters and Accelerators in BizTalk Server
  [!INCLUDE[btsBizTalkServerNoVersion_md](../includes/btsbiztalkservernoversion-md.md)] includes different adapters and accelerators for you to create applications that receive data, and send data to different services and LOB systems.

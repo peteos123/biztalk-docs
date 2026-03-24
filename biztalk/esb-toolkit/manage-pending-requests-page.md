@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Manage Pending Requests Page
 Figure 1 shows the Manage Pending Requests page, which shows a list of pending registration requests and provides a link to view the request history.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Considerations When Creating Flat File Message Schemas
 There are a number of considerations when working with flat file message schemas. This includes considerations that apply to all flat file schemas, as well as considerations that apply specifically to positional records, delimited records, positional fields, or delimited fields. There are also considerations about how to interpret otherwise special characters as regular data. This section provides information about these considerations.  

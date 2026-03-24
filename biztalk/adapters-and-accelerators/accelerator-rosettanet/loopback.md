@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Loopback
 You use the Loopback utility to automatically generate a loopback agreement that is a mirror copy of a home-to-partner agreement. This lets you perform home-to-partner and partner-to-home message exchanges on a single computer. You can use this utility for a scenario with 0A1 messages or a scenario without 0A1 messages. You can create a loopback agreement for an action-message (non-0A1) agreement or a 0A1 agreement.  

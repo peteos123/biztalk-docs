@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Undeploy an adapter using the WCF LOB adapter SDK
 To undeploy an adapter from a computer, the user needs to perform the following two tasks:  

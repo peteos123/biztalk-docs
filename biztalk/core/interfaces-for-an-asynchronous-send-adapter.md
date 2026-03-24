@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interfaces for an Asynchronous Send Adapter
 Adapters sending messages one at a time may send messages either synchronously or asynchronously. An adapter sends messages asynchronously when it does not block the transport proxy thread but rather uses a separate thread while performing the send operations. To be able to send messages asynchronously, an adapter needs to implement the following interfaces:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # CPI-C Common Return Codes
 This section describes the return codes for Common Programming Interface for Communications (CPI-C) calls. The return codes are listed in integer order.  

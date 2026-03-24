@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Message Submission ASPX Sample
 This topic provides sample .aspx code that you can use to submit service content to a private process. You can use this .aspx code instead of a line-of-business (LOB) application.  

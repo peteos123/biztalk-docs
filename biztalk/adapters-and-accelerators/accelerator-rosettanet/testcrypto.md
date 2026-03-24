@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: system-utilities
 ---
 # TestCrypto
 You use the TestCrypto utility to troubleshoot failures in decrypting messages. The utility indicates whether decryption fails. If the decryption succeeds, the utility indicates what the certificate is, and displays the decrypted message.  

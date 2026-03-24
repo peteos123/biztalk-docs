@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # InterAct Adapter Store and Forward
 In Store and Forward (SnF) mode, messages are delivered to a queue at send time, and are retrieved from the queue by the destination. When using SnF, the response comes from SWIFTNet SnF itself, and does not contain any feedback from the Responder.  

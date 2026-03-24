@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Define Auto-Growth Settings for Databases
 You should set database auto-growth to a fixed number of megabytes instead of to a percentage, especially for the MessageBox and BizTalk Tracking databases. Depending on your BizTalk application and throughput, the MessageBox and Tracking databases can get quite large. If you set auto-growth to a percentage, then the auto-growth can be substantial as well.  

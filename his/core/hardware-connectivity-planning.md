@@ -4,7 +4,7 @@ description: Get started planning for capacity of your servers, hardware needs, 
 ms.custom: ""
 ms.date: 01/03/2018
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: overview
 ---
 # Capacity planning and connectivity - HIS
 

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BAM Interceptor Performance Counters
 Performance counters allow you to monitor specific aspects of work performed by the BAM interceptors. Performance counters can help you identify and troubleshoot server performance issues.  

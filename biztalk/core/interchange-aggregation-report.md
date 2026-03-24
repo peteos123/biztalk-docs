@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interchange Aggregation Report
 This report provides one record that indicates the number of EDI interchanges that share the same EDI encoding type, sender party, receiver party, and direction. This report does not provide details about the individual interchanges.  

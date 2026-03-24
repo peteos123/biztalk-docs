@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Integrate Oracle E-Business Suite with the business data catalog and SharePoint
 The [!INCLUDE[afproductnamelong](../../includes/afproductnamelong-md.md)] includes the [!INCLUDE[afsvcdevwizlong](../../includes/afsvcdevwizlong-md.md)], which generates a WCF service for specific LOB artifacts. This WCF service is hosted in a hosting environment such as Microsoft Internet Information Services (IIS). The Business Data Catalog Definition Editor uses the URL where the WCF service is hosted to get the Web Services Description Language (WSDL) for the WCF service. Using the WSDL, the Business Data Catalog Definition Editor extracts the methods available to the WCF service. These methods can be used to establish entities and the association between the entities.  

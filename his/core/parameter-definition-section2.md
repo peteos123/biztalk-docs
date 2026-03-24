@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Parameter Definition Section
 The parameter definition section immediately follows the macro definition section and consists of one or more lines with the following syntax.  

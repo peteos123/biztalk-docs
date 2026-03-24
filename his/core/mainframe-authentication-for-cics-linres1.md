@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Mainframe Authentication for CICS LINREs
 If you use a CICS LINK LU 6.2 remote environment (RE), you must use resource-level authentication.  

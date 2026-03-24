@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Brackets
 This section primarily describes the bracket protocols between the local node and an application for a session supporting half-duplex flip-flop with brackets.  

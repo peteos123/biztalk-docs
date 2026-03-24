@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # routproc
 The **routproc** function is a sample routing procedure. It must be supplied as part of the application. It is called by the Dynamic Access Module (DMOD) with a message that may or may not be for this application The DMOD calls routing procedures in turn until one accepts the message.  

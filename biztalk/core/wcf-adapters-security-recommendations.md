@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # WCF Adapters Security Recommendations
 [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] uses the WCF adapters to publish (receive) and consume (send) WCF services. We recommend that you follow these guidelines for securing and deploying the WCF adapters in your environment.

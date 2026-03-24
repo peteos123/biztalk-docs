@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # ADO Recordsets vs. User-Defined Types in Structured Data Tests
 Tests on structured data transfer show that user-defined types outperformed ADO recordsets in CPU usage, transactions per second, and response time.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Independent APPC LUs
 In APPC, an independent LU can communicate directly with a peer system and does not need the support of a host computer<em>.</em>  

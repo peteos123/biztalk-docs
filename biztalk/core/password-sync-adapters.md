@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Password Sync Adapters
 A *password sync adapter* is a component that propagates password changes to and from a non-Windows system. Although password sync adapters are similar to traditional Single Sign-On applications, they have several differences:  

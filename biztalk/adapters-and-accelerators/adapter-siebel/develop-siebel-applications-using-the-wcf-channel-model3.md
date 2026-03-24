@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Develop Siebel Applications Using the WCF Channel Model3
 This section provides information about creating a channel and the operations that you can perform on Siebel using the channel.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Disaster Recovery for Computers Running BizTalk Server
 If the computer running BizTalk Server in your organization suffers an unrecoverable hardware failure, you should replace it with an identical computer. This assumes that the BizTalk Server databases are intact, and that the failure is in any one of the computers running BizTalk Server.  

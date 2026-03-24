@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Portal Registry Pages
 When you move the mouse over the **Registry** tab, a pop-up menu provides a list of the following portal registry tasks:  

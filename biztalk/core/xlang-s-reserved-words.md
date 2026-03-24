@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # XLANG-s Reserved Words
 XLANG/s reserves various keywords, type names, and identifier names for its own usage.  

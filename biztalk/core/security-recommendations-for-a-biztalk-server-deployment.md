@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Security Recommendations for a BizTalk Server Deployment
 This section contains high-level, feature-agnostic recommendations to secure your Microsoft BizTalk Server environment.

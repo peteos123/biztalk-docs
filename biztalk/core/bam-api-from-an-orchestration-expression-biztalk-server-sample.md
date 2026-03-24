@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # BAM API from an Orchestration Expression (BizTalk Server Sample)
 This sample demonstrates how to:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # RNIF Standard
 The RosettaNet Implementation Framework (RNIF) standard defines how systems transport a RosettaNet message. The RNIF standard is a robust transfer, routing, packaging, and security standard. All RosettaNet messaging systems must comply with the RNIF standard to achieve RosettaNet certification.  

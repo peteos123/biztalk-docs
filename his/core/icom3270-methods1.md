@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Icom3270 Methods
 The methods of the Icom3720 interfaces are listed in the following table. For a complete list of the IcomLU0 members, see [Icom3270 Members](../core/icom3270-members1.md).  

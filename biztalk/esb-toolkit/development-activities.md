@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Development Activities
 This section describes development activities for [!INCLUDE[esbToolkit](../includes/esbtoolkit-md.md)] scenarios that use the Itinerary Designer and contains the following topics:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # FileAct Adapter Store and Forward
 In Store and Forward (SnF) mode, files are delivered to queue at send time, and are retrieved from the queue by the destination. Intermediate responses are returned by SWIFTNet to the sender until the file is safely delivered to the destination.  

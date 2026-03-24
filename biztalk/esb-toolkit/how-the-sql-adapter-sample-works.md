@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How the SQL Adapter Sample Works
 The SQL Adapter sample provides a sample two-way itinerary configured with the routing service and a transform messaging service.  

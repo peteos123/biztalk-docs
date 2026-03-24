@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # AddResource Command: BizTalk Assembly
 To add a BizTalk assembly to a BizTalk application, you use the **AddResource** command and specify **System.BizTalk:BizTalkAssembly** for the Type parameter. Running this command adds the assembly to the BizTalk Management database. The assembly is also displayed in the BizTalk Server Administration console, in the Resources folder of the application to which you added it. The artifacts included in the assembly are also displayed in the appropriate folders. In addition, the artifacts are listed when you use the [ListApp Command](../core/listapp-command.md).  

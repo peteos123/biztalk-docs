@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BAM Workflow
 The following figure shows the four user roles who work with Business Activity Monitoring, and the tools that they use.  

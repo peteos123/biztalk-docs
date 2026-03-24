@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # 3A2 Request to 3A2 Response Map Sample
 The _3A2RequestMessageTo3A2ResponseMessage.btm sample demonstrates how you can map a 3A2 request message to a 3A2 response message.  

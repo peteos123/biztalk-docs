@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # InterAct Adapter Server Application
 This section presents a general description of the composition of server application Request messages. These are the XML documents passed from the server-side SNL to the server application. As such, these messages are characteristic of the first part of the SWIFTNet primitives exercised on the server side.  

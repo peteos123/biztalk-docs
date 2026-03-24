@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Module 1: Creating a SWIFT Solution
 In this module, you create a blank BizTalk solution. In the first lesson, you create a new solution by using Microsoft [!INCLUDE[btsVStudioNoVersion](../../includes/btsvstudionoversion-md.md)][!INCLUDE[btsDotNet](../../includes/btsdotnet-md.md)]. You also create the individual projects that contain your BizTalk solution components such as schema, maps, orchestrations, and pipeline components.  

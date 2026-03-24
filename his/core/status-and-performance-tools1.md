@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Status and Performance Tools
 The following information details the status and performance tools available in [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] and the Windows operating systems.  

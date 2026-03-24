@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 2: Define the Business Process
 In this lesson, you create the second project in the Enterprise Application Integration(EAI) solution. This project contains an orchestration.  

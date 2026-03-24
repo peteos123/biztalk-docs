@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Windows SharePoint Services Security
 Windows SharePoint Services 3.0 uses Windows SharePoint Services site groups to manage site-wide security. Each site group possesses corresponding rights. Rights are actions that users can perform—such as view, edit, and delete site resources. Resources include site lists, document libraries, and site administration. For each role created in the Profile Web Client you need to define a Windows SharePoint Service site group and assign rights accordingly to each resource to which that group has access.

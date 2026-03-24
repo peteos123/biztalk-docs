@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Service for DRDA Trace Listeners
 You can troubleshoot problems with the DRDA Service by understanding looking at trace output, the Windows event log entries, and understanding solutions to common problems.  

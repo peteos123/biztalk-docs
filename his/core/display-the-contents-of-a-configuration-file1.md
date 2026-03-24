@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Display the Contents of a Configuration File
 You can create a display of the entire contents of a configuration file by using the **/display** option with the following syntax:  

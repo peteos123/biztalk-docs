@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Create New Mappings Wizard: Mappings File Option
 Use this page to determine whether a new or existing mappings file will be used.  

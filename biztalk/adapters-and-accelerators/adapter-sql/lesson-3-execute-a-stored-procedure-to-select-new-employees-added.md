@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 3: Execute a Stored Procedure to Select New Employees Added
 Before understanding the tasks performed in this lesson, you must first understand why these tasks are required. The **Employee** table to which the records are inserted to add a new employee is defined in such a way that a **Status** column is always set to “0” every time a new employee is added. This is done so that you can use this column to query for newly added employees and also get notifications. In SQL Server, you would query this by running the following SQL statement:  

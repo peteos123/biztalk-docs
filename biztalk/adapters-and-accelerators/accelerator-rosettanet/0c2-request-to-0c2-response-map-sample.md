@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # 0C2 Request to 0C2 Response Map Sample
 The _0C2RequestMessageTo0C2ResponseMessage.btm sample demonstrates how you can map a 0C2 request message to a 0C2 response message.  

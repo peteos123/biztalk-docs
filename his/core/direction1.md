@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Direction
 When an function management interface (FMI) application is communicating on its primary logical unit (PLU) connection with a normal flow request mode other than full-duplex (that is, half-duplex flip-flop or half-duplex contention), it must obey the SNA direction protocol. These two modes are treated separately.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The Role of Agreements in AS2 Processing
 An organization uses [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] to receive AS2 messages from, and send AS2 messages to, one or more trading partners. The trading partners, in turn define business profiles that are business entities within an organization. You set AS2 properties in bi-directional trading partner agreements between two business profiles belonging to different trading partners.  

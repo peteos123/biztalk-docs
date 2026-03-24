@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Scalability
 The IP-DLC link service supports the [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] capacity of 30,000 simultaneous host sessions per server.  

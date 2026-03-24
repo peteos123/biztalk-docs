@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Extend ADO.NET Interfaces with the Siebel adapter
 The [!INCLUDE[adoprovidersiebellong](../../includes/adoprovidersiebellong-md.md)] extends various ADO.NET interfaces. The ADO.NET clients can use these to interface with the Siebel system. This section provides more information about these interfaces.  

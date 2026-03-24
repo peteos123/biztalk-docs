@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # BAM Portal
 Business end users use the BAM portal to monitor Key Performance Indicators (KPIs), which measure progress toward a business goal, as well as other information about their business process. Business analysts use the BAM portal to oversee the creation of observation models, which are high-level definitions of the visibility requirements within the business process. Administrators use it for a variety of monitoring activities, including monitoring the health of the business process management system.  

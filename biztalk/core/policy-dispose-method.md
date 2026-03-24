@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Policy.Dispose Method
 The **Policy.Dispose** method releases resources used by the **Policy** class, and also returns the **Policy** object to the cache. When the same policy is invoked again, the cached **Policy** object is used, which saves the time needed for creating a new **Policy** object.  

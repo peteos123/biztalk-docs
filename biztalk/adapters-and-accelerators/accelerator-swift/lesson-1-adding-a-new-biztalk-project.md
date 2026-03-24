@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 1: Adding a New BizTalk Project
 In this lesson, you add a new BizTalk project to your solution. You create schemas in this project that you use throughout the tutorial.  

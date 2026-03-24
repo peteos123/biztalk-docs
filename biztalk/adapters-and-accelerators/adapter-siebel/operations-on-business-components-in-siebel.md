@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Operations on Business Components in Siebel
 A Siebel business component is a logical entity that associates columns from one or more database tables into a single structure. Adapter clients can perform the following operations on the Siebel business components by using the adapter:  

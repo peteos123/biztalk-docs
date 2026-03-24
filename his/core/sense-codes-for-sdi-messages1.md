@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Sense Codes for SDI Messages
 When the local node detects an error in a normal flow request from the host, the message is converted into a **DATAFMI** message with the system detected error indicator (SDI) set to inform the application and to allow data to be processed serially. The application must convert the message to a [Status-Acknowledge(Ack)](./status-acknowledge-ack-2.md) to allow the local node to send the required negative response to the host. The possible error codes delivered to the function management interface (FMI) application on such SDI messages are tabulated in the following table.  

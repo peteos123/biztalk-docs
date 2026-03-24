@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Administration and Management Programmer's Reference
 Host Integration Server included the following Windows Management Interface (WMI) providers to enable scripted management.  

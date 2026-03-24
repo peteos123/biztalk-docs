@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # BAM Command-Line Tools
 This section provides reference information for the BAM command-line tools included with Microsoft BizTalk Server.  

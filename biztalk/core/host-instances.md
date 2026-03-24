@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Host Instances
 A *host instance* is the physical installation of a host in a BizTalk Server. An administrator uses Windows Management Instrumentation (WMI) or the BizTalk Administration Console to install host instances. A BizTalk Server can support multiple host instances.  

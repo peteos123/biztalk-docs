@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # ESB Web Services
 The [!INCLUDE[esbToolkit](../includes/esbtoolkit-md.md)] contains the following Web services:  

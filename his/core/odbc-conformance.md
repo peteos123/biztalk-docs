@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # ODBC Conformance
 Microsoft ODBC Driver for DB2 enables access over SNA LU 6.2 and TCP/IP networks to remote DB2 databases. This driver is implemented as an IBM Distributed Relational Database Architecture (DRDA) application requester that can connect to most DRDA-compliant DB2 systems, including z/OS, IBM i, AIX RS/6000, and Microsoft Windows.  

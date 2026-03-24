@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # OLE DB Object Support in the OLE DB Provider for DB2
 The following table summarizes the OLE DB version 2.0 objects that are supported by the current version of Microsoft® OLE DB Provider for DB2.  

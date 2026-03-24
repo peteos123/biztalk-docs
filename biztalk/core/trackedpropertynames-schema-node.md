@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # TrackedPropertyNames (Schema Node)
 The TrackedPropertyNames node of a binding file contains elements that specify which properties in the parent schema are to be tracked.  

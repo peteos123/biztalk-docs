@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: tutorial
 ---
 # Lesson 3: Adding SWIFT Schemas to a Project
 Now that you have a solution and a new project, you can add items to the project. The first item you add is a schema for an MT103 SWIFT Payment message. When you select the Schema template, BizTalk Editor starts.  

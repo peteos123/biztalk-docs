@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Method Calls per Second
 The counter reports the method call volume going through the Transaction Integrator (TI) server. There are actually three counters implemented:  

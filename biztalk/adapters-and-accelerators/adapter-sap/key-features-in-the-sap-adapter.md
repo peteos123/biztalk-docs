@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: whats-new
 ---
 # Key features in the SAP Adapter
 This section lists the new and deprecated features in [!INCLUDE[adaptersap](../../includes/adaptersap-md.md)].  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Service for DRDA Programmer&#39;s Reference
 The following sections provide help for developing applications for use with Microsoft Service for DRDA (DRDA Service).  

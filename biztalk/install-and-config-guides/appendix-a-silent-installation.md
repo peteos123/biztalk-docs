@@ -6,7 +6,7 @@ ms.date: "01/22/2020"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Appendix A: Silent Installation
 This topic lists the steps to create a silent installation of [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)].

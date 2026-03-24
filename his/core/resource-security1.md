@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Resource Security
 This section describes accessing [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] resources, including Display LUs, Printer LUs, and LU pools.  

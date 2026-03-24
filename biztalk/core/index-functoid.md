@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Index Functoid
 The **Index** functoid enables you to select information from a specific record in a series of records. Each **Index** functoid collects information from a single field.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The ExceptionHandler Orchestration
 The Business Process Management solution uses two kinds of exceptions: system exceptions and application exceptions. System exceptions include things like resource errors—a network connection failing, for example. There is a chance that such a problem may resolve itself after an interval so that the solution retries all operations that produce system exceptions. Application exceptions are produced by things less likely to resolve themselves, such as logical errors or some form of inconsistency. The solution uses the **ExceptionHandlerOrch** orchestration to process both system and application errors.  

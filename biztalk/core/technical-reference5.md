@@ -6,7 +6,7 @@ ms.date: "09/04/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 
 # BizTalk Server UI help & Developers reference

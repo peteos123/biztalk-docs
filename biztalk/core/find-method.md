@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Find Method
 Used to return a list of keys that satisfy the supplied partial search keys. Note that for a component interface that has only one instance, that is, there is no key, the `Find()` function is not generated. See also [Get Method](../core/get-method.md).  

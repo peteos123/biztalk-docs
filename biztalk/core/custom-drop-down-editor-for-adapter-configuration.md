@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Custom Drop-Down Editor for Adapter Configuration
 The code for the custom editor shows an editor derived from the **System.Drawing.Design.UITypeEditor** class that displays a drop-down text box for entering a password. The **GetEditStyle** override returns **UIEditorEditStyle.DropDown** to indicate a drop-down subcontrol. The service methods **DropDownControl** and **CloseDropDown** manage the control created with **CreatePassword**.  

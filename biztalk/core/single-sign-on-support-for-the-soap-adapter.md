@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Single Sign-On Support for the SOAP Adapter
 You can use the [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] Administration console to configure Enterprise Single Sign-On (SSO) for use with the SOAP receive location or send port. This topic describes how SSO works with the SOAP adapter.  

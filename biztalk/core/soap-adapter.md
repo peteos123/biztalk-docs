@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # SOAP Adapter
 Microsoft BizTalk Server Web services use the SOAP adapter when receiving and sending Web service requests. The SOAP adapter enables you to publish orchestrations as Web services and consume external Web services.  

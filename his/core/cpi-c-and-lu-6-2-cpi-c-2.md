@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # CPI-C and LU 6.2 (CPI-C)
 Common Programming Interface for Communications (CPI-C) applications can communicate with non-CPI-C LU 6.2 applications, such as Advanced Program-to-Program Communications (APPC).  

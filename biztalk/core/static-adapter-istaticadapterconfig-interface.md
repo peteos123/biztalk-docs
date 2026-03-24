@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Static Adapter IStaticAdapterConfig Interface
 A static design-time adapter must implement the **IStaticAdapterConfig** interface. This allows it to interact with the Add Adapter Metadata Wizard and obtain service organizations and individual service descriptions from the adapter. The wizard calls the **GetServiceOrganization** and **GetServiceDescription** methods to pull in metadata information with which the adapter interacts and add it to a BizTalk project in [!INCLUDE[btsVStudioNoVersion](../includes/btsvstudionoversion-md.md)].  

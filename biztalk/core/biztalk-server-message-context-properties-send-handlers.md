@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BizTalk Server Message Context Properties (Send Handlers)
 In addition to the message payload, the supplementary information that a message contains must be accessible from the BizTalk Server orchestration at run time.  

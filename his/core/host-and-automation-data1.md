@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Host and Automation Data
 The topics in this section cover issues around working with Windows-based Automation data and COBOL-based mainframe data.  

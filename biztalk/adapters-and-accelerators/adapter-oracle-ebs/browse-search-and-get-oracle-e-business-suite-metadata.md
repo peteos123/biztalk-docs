@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Browse, search, and get Oracle E-Business Suite metadata
 The metadata that [!INCLUDE[adapteroracleebusinesslong](../../includes/adapteroracleebusinesslong-md.md)] surfaces from Oracle E-Business Suite and the underlying Oracle database describes the message structure for communicating with Oracle E-Business Suite using the adapter. The [!INCLUDE[adapteroraclebusinessshort](../../includes/adapteroraclebusinessshort-md.md)] supports two interfaces for retrieving metadata.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Keyboard Shortcuts Specific to the Port Surfaces
 The following keys are active in the left and right Port Surfaces.  

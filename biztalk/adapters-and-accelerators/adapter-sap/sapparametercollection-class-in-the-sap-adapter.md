@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SAPParameterCollection class in the SAP adapter
 The following section lists the methods and properties for the **SAPParameterCollection** class. This is derived from **System.Data.Common.DbParameterCollection**.  

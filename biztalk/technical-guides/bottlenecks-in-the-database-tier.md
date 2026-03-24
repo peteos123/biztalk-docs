@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Bottlenecks in the Database Tier
 This section explains how to identify bottlenecks in the BizTalk MessageBox database, Tracking database, and BAM Primary Import database. It also explains how to avoid disk contention.  

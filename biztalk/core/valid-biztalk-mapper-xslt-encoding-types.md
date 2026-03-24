@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Valid BizTalk Mapper XSLT Encoding Types
 BizTalk Mapper supports different types of Extensible Stylesheet Language Transformations (XSLT) encoding. You use the **XSLT Encoding** grid property to set the XSLT encoding type that you prefer. The following list shows the encoding formats that are available in the drop-down list associated with the **XSLT Encoding** grid property:  

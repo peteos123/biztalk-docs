@@ -3,7 +3,7 @@ description: "Learn more about: SNA Manager Help"
 title: "SNA Manager Help1"
 ms.date: "12/16/2023"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: hub-page
 ---
 
 # SNA Manager Help

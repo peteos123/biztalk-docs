@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Orchestration Schedule View
 The Orchestration View displays the steps by which BAM transacts the business process contained within the selected orchestration. The view is located on the right pane of the Tracking Profile Editor (TPE) user interface.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # ApplicationManager (BizTalk Server Sample)
 The ApplicationManager sample demonstrates how to start or stop a  BizTalk application by using the administration objects.

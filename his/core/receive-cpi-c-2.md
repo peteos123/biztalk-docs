@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Receive (CPI-C)
 The **Receive** call (function name **cmrcv**) receives any data currently available from the partner program. For Microsoft Windows, run a background thread for all CPI-C communications and preserve the foreground thread for user interface only.  

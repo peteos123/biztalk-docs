@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Messages Represented as XSD Schemas
 A template XML instance of the XSD message type is defined at design time and then stored on disk. At run time, a .NET component picks up the XML from disk and returns it as an XmlDocument. The orchestration code can assign this XmlDocument result to the message instance declared in the orchestration.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # File Adapter
 The File adapter transfers files into and out of Microsoft BizTalk Server. The File adapter consists of two adapters — a receive adapter and a send adapter.  

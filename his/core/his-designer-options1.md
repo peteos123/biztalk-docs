@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # HIS Designer Options
 You can select the initial view to display when the Host Integration Server Designer (HIS Designer) starts. You can modify this option through the standard **Options** dialog box in Visual Studio, which is extended to support the functionality of the HIS Designer. You can open this dialog box by clicking **Options** on the **Tools** menu in Visual Studio.  

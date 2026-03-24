@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Lesson 2: Adding an XML Send Port
 You use a send port to define how you want the messages sent. In this lesson, you create a send port to define how XML messages should be sent.  

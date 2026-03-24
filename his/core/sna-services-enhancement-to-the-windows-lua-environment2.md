@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SNA Services Enhancement to the Windows LUA Environment
 This section describes the Microsoft® Host Integration Server extension to Microsoft Windows® logical unit application (LUA) that converts primary and secondary return codes in the verb control block (VCB) to a printable string.  

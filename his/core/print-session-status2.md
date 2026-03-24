@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Print Session Status
 There are several different messages that show the status of a [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] print session:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Receive SQL Query Notifications using BizTalk Server
 You can configure the [!INCLUDE[adaptersqlshort](../../includes/adaptersqlshort-md.md)] to receive notification messages for SQL Server tables or views. You can specify a SQL statement that the adapter uses to register for notifications with SQL Server. The notification statement can be a SELECT statement or a stored procedure that returns a result set. For more information about query notifications, see “Using Query Notifications” at  [https://go.microsoft.com/fwlink/?LinkId=122159](/previous-versions/sql/sql-server-2008-r2/ms175110(v=sql.105)). For information about queries that can be used for query notifications, see “Creating a Query for Notification” at [https://go.microsoft.com/fwlink/?LinkId=122160](/previous-versions/sql/sql-server-2008-r2/ms181122(v=sql.105)).

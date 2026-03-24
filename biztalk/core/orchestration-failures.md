@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-general
 ---
 # Orchestration Failures
 Orchestrations vary in complexity; for example, an orchestration may call a .NET object or construct messages via transform and assignment shape. As a result, it is impossible to list out every possible failure, due to the variety of its content as well as level of customization. However, all failures encountered in orchestrations appear as exceptions.  

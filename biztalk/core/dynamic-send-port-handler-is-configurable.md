@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Dynamic Send Port Handler is Configurable
 When creating a Dynamic Send Port, an adapter Send Handler is configurable for *every* installed adapter. Consider the following scenario:

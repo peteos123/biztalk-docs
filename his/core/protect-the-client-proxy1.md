@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Protect the Client Proxy
 To prevent an attacker from tampering with a properly formatted message (for example, a TRM, DPL, SNA, or IP) sent by the client computer to the TI runtime or to prevent an attacker from sending a malformed message to the TI runtime, you should do the following:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-general
 ---
 # Common Issues with the BAM Interceptors
 This topic discusses the following common problems that can arise when using BAM interceptors:  

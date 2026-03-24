@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Minimum Security User Rights
 The groups and accounts that BizTalk Server uses have the minimum user rights they need to perform most tasks. Therefore, there are some tasks where you may need more user rights than the ones BizTalk Server automatically has granted the group to which you belong. In this topic:

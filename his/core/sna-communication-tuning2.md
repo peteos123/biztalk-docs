@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SNA Communication Tuning
 The topics in this section describe the major factors that affect Transaction Integrator (TI) throughput over the APPC/LU 6.2 SNA transport.  

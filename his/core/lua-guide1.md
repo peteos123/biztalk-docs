@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # LUA Guide
 This section provides information required to develop C-language applications that use the conventional logical unit application (LUA) programming interface to exchange data in a Systems Network Architecture (SNA) environment.  

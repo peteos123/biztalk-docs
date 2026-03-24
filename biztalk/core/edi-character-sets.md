@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # EDI Character Sets
 [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] uses a character set to validate an entire EDI interchange. The character sets used for an X12-encoded message and an EDIFACT- or KEDIFACT-encoded message are determined in different ways.  

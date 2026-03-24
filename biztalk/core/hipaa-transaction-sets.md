@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # HIPAA Transaction Sets
 This topic describes the HIPAA transaction sets and versions that are supported by BizTalk Server.  

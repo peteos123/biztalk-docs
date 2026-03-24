@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Use the Data Provider for SAP with SSRS
 You can use the [!INCLUDE[adoprovidersaplong](../../includes/adoprovidersaplong-md.md)] along with SQL Server Reporting Services (SSRS) to create reports based on SAP data. For more information about SSRS, see [https://go.microsoft.com/fwlink/?LinkId=125922](/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports).

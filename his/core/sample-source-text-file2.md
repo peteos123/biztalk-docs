@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Sample Source Text File
 The sample PDF file, HPLJ2.PDF, is provided in the \SDK\Samples\SNA\PrintDefFile directory.  

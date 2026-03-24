@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Command-Line Configuration Wizard for the MQSeries Adapter
 The wizard has four options for installing, uninstalling, and logging actions.  

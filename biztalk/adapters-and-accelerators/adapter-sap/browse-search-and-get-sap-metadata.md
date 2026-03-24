@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Browse, search, and get SAP metadata
 The [!INCLUDE[adaptersap_short](../../includes/adaptersap-short-md.md)] surfaces metadata from the SAP system. This metadata describes the message structure for communicating with an SAP system using the adapter. The [!INCLUDE[adaptersap_short](../../includes/adaptersap-short-md.md)] supports two interfaces for retrieving metadata.  

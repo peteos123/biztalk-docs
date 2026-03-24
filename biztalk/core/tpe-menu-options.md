@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # TPE Menu Options
 This topic describes the menu options of the Tracking Profile Editor (TPE). The main menus include File, Tools, and Help.  

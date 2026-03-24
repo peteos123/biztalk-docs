@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MQSeries Adapter Deployment Options
 The MQSeries adapter gives you great flexibility in configuring your hardware. There are at least three main patterns of use:  

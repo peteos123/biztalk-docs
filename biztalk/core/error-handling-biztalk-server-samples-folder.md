@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Error Handling (BizTalk Server Samples Folder)
 The purpose of this sample is to build an error-handling functionality for the content-based routing (CBR) application.  

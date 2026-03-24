@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Test Results: Memory Key Performance Indicators
 This topic summarizes Memory Key Performance Indicators (KPI) observed during the test scenarios. These tests evaluated available memory as measured by the **\Memory\Available Mbytes** performance monitor counter.  

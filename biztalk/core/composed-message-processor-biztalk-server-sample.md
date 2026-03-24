@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Composed Message Processor (BizTalk Server Sample)
 The purpose of this sample is to build a composed message processor application that processes individual line items from aggregated messages.  

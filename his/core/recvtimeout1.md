@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # RecvTimeOut
 RecvTimeOut indicates the number of seconds that the Transaction Integrator runtime will wait for a response from the host. RecTimeOut is used in place of the predefined RecvTimeOut value in the Remote Environment Definition.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SMTP Adapter Property Schema and Properties
 The following table lists the properties in the SMTP adapter property schema.  

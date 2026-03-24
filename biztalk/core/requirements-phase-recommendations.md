@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Requirements Phase Recommendations
 The primary deliverable associated with the requirements phase is a requirements specification, or a functional specification that includes requirements including performance goals. It is very important to involve the end-users and business owners of the system when determining these goals to assure that an accurate profile for performance is derived.

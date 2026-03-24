@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Reserved Words
 When Host Integration Server Designer (HIS Designer) asks you to supply a name (for example, a method or parameter name), do not use any of the following reserved words. Words on this list are not case sensitive; for example, Byte, byte, and BYTE are all reserved words.  

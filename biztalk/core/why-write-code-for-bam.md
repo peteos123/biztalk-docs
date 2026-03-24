@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Why Write Code For BAM?
 In most circumstances you can use the BAM tools without writing your own code to perform your tracking functions. These tools are the BAM Add-in for Excel, the BAM Management utility, and the Tracking Profile Editor (TPE). BAM in [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] provides interceptors for BizTalk orchestrations and messaging components (pipelines and ports). An interceptor is software that instruments an application so that it can collect data in a generic way based on a configuration file. You can instrument your application to use these interceptors by using the Tracking Profile Editor. For more information about the Tracking Profile Editor, see [Tracking Profile Editor](../core/tracking-profile-editor.md).  

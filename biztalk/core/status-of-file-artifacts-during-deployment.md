@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Status of File Artifacts During Deployment
 You may need to know what file-based artifacts exist on the file system when a pre- or post-processing script executes. For example, you might want a post-processing script to run during uninstallation and delete a certain artifact file from the file system. File-based artifacts are artifacts that can exist as files on the local file system, in addition to their representation in the BizTalk databases. Examples of file-based artifacts are COM components, .NET assemblies, BizTalk assemblies, BAM artifacts, ad hoc files, scripts, and binding files.  

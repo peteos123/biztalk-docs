@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Creating, Viewing, and Deleting Fault Message Alerts
 The ESB Management Portal can generate alerts when fault messages arrive at the portal, based on a comparison of values in the message with criteria specified for the alert. The portal can also maintain a list of notifications linked to individual alerts and users, and it will notify these users when it proactively raises alerts.  

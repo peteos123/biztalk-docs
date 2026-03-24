@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Valid Characters in Orchestration Identifiers
 Orchestration identifiers, such as item, variable and type names, have a few restrictions:  

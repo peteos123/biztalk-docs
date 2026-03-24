@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # Request Errors (Category X&#39;10&#39;)
 Sense codes in this category represent an imbalance in half-session capabilities. They indicate that the RU (request/response unit) was delivered to the intended half-session but could not be processed. The following codes are in this category.  

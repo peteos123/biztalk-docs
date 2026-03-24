@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Icom3270.getOIA Method
 The getOIA method returns a copy of the Operator Information Area (OIA) for the 3270 session.  

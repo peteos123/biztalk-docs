@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # APPC Conversation Verbs
 This section describes the Advanced Program-to-Program Communications (APPC) conversation verbs. The description of each verb provides:  

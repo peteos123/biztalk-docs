@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # FileAct Adapter Supporting Information Transfer
 The FileAct adapter permits the optional transfer of supporting information with files. This information is transferred at the discretion of the application. The adapter does not do any special processing of this information on the originating side except to validate that it is in the correct format. The elements which comprise supporting information include:  

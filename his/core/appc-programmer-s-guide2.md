@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # APPC Programmer's Guide
 This section of the Host Integration Server Developer's Guide provides information about using the Advanced Program-to-Program Communications (APPC) in a distributed processing environment.  

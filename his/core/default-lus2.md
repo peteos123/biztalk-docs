@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Default LUs
 Any LU can be configured to be in a pool of default local LUs available for use by invoking transaction programs (TPs).  

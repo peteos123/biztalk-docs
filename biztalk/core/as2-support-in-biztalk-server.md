@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # AS2 Support in BizTalk Server
 This topic provides a brief general overview of AS2 processing and how BizTalk Server implements it.  

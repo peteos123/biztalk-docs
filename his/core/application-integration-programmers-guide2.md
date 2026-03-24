@@ -3,7 +3,7 @@ description: "Learn more about: Application Integration Programmer’s Guide"
 title: "Application Integration Programmer’s Guide2"
 ms.date: "01/17/2023"
 ms.service: host-integration-server
-ms.topic: "article"
+ms.topic: overview
 ---
 
 # Application Integration Programmer's Guide

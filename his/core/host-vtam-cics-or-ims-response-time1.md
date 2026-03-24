@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting
 ---
 # Host (VTAM, CICS or IMS) Response Time
 The host response time, also called the unit of work (UOW) or host processing time, for each transaction affects the number of transactions that can be performed given the number of LU 6.2 sessions that are used.  

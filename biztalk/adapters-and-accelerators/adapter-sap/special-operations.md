@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Special Operations
 The [!INCLUDE[adaptersap_short](../../includes/adaptersap-short-md.md)] surfaces several special operations. These operations are not based on SAP system artifacts. They are surfaced to provide functionality for adapter client applications. The special operations are:  

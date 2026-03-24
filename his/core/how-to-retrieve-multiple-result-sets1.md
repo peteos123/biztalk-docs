@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Retrieve Multiple Result Sets
 `Microsoft.HostIntegration.MsDb2Client.MsDb2DataReader` provides the `Microsoft.HostIntegration.MsDb2Client.MsDb2DataReader.NextResult%2A` method to iterate through multiple returned results.  

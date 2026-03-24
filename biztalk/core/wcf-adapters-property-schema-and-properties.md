@@ -6,7 +6,7 @@ ms.date: "02/09/2018"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # WCF Adapters Property Schema and Properties
 

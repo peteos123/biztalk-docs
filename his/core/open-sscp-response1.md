@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Open(SSCP) Response
 The **Open(SSCP) Response** message flows from the node to the application. It is used with an system services control point (SSCP) connection.  

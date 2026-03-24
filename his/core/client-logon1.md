@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Client Logon
 The logon process conducted by a user on a client system performs the essential task of identifying the user to the Windows domain and to Host Integration Server computers in the domain. The way that Host Integration Server handles the logon process depends on the network software on the client system.  

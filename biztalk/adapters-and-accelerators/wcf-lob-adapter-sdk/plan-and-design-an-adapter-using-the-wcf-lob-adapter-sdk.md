@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Plan and design an adapter using the WCF LOB Adapter SDK
 This section contains information to help you plan your adapter and understand the [!INCLUDE[afproductnameshort](../../includes/afproductnameshort-md.md)].  

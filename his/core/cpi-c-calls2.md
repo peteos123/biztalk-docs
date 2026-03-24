@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # CPI-C Calls
 This section describes the Common Programming Interface for Communications (CPI-C) calls. The following information is supplied for each call:  

@@ -6,7 +6,7 @@ ms.date: "12/30/2022"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # MQSSendPipelineComponent (BizTalk Server Sample)
 This sample demonstrates how to write a pipeline component that reads a set of MQSeries property values from an XML file and applies them to a message.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Critical Failure
 When an application makes a protocol error in sending data, the local node rejects the data using a [Status-Acknowledge(Nack-2)](./status-acknowledge-nack-2-2.md) with a sense code indicating the reason for failure. This message has a critical failure flag that indicates whether the local node has marked the session as unrecoverable. The sense codes are listed in [FMI Status, Error, and Sense Codes](../core/fmi-status-error-and-sense-codes1.md).  

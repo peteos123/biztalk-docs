@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Data Type Conversion of Properties
 Header properties in an MQSeries message are data structures contained in the message itself. The MQSeries adapter automatically validates and converts certain values in MQSeries message headers when sending and receiving messages.  

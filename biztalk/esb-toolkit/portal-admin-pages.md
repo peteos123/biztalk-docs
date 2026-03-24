@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Portal Admin Pages
 When you move the mouse over the **Admin** tab, a pop-up menu provides a list of portal administration tasks. The **Admin** tab is only visible to users who have administrative permission (members of the Microsoft BizTalk Server Administrators account group). The following options are on the pop-up menu:  

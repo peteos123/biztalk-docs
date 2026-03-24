@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Close(SSCP) Response
 The **Close(SSCP) Response** message flows from the node to the application. It is used with a system services control point (SSCP) connection.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Develop your BizTalk applications
 This section contains information for developers who are tasked with creating BizTalk applications. Once these applications are created, they are usually managed by an administrator, using information found in the Operations and Administrative Tasks.  

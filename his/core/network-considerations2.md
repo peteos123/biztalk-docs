@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Network Considerations
 Your network adapter can have a large impact on the overall network performance. Advanced adapters provide good setup options to optimize the network I/O performance. Look for I/O buffering on the card itself, direct memory access (DMA) (adjustable data link control (DLC) (maximum frame size, and local area network (LAN) speed setting parameters.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Important Host Integration Server Network Options
 The following two sections illustrate and describe important [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] network options for a [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] server or client. These options must be set correctly in order for clients to locate Host Integration Server computers and start sessions. If the options are set incorrectly, clients may use the wrong protocols or may search the wrong locations for Host Integration Server computers.  

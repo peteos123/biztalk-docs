@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Why Use the TPE?
 Business processes such as ordering, invoicing, and inventory tracking are the fundamental actions of e-commerce. Microsoft [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] enables knowledge workers to gather specific or aggregated real-time information about the state of a business process. For example, they can find out why a specific customer order was processed but not shipped, or how many units of a product were sold and shipped in the previous 48-hour period.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Log Shipping
 Log shipping provides standby server capabilities, sometimes called a warm backup, which reduces downtime in the event of a system failure.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Configuration Properties for Integrated BizTalk Adapters
 The BizTalk Explorer object model exposes the **IReceiveLocation.CustomData** and **ISendPort.CustomData** properties that contain the adapter configuration property bag in the form of a name/value pair XML string. This name/value pair XML string is stored in a \<CustomProps\> element within a \<TransportTypeData\> element in a binding file. Most of the information in the \<CustomProps\> element corresponds to information that can be set for an adapter in the BizTalk Server user interface (such as the BizTalk Administration Console or BizTalk Explorer). If these values are present in a binding file then they are applied to the adapter configuration for the specified receive locations and send ports when the binding file is imported. Configuration information for all adapters is stored in the Single Sign-On database.  

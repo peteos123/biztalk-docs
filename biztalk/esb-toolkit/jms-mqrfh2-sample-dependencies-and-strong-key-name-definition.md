@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # JMS MQRFH2 Sample Dependencies and Strong Key Name Definition
 The Visual Studio project ESB.JMS.PipelineComponents depends on the following folder:  

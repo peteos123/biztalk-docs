@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SNANLS API Functions
 The SNA National Language Support (SNANLS) API is documented in the SNANLS.H file in the software development kit (SDK) provided with Host Integration Server.  

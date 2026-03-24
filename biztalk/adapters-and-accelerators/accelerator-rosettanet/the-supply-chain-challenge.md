@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The Supply Chain Challenge
 Integration with partners presents many challenges in the high-technology industry. Information technology, electronic component, semiconductor manufacturing, and telecommunications companies all face challenges in their supply chain.  

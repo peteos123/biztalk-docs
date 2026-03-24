@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Support for Type Casting
 You can use the **Cast** method of the **ClassMemberBinding** class to convert an object of one type to an object of another compatible type. Currently, the Business Rule Composer tool does not support creating rules by using the **Cast** method. You must create the rules programmatically by using the rule engine object model to take advantage of this feature.  

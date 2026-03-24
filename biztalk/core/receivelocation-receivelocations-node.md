@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ReceiveLocation (ReceiveLocations Node)
 The ReceiveLocation node of the ReceiveLocations node of a binding file contains specific information about a receive location that is exported with the binding file.  

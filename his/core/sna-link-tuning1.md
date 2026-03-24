@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # SNA Link Tuning
 If you are using token-ring, Ethernet, or FDDI to communicate with your host system, investigate data link control (DLC) tuning. The following 802.2 connection default settings should be sufficient:  

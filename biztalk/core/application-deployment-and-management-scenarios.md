@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Application Deployment and Management Scenarios
 This section describes some of the scenarios in which a BizTalk application might be deployed or updated.  

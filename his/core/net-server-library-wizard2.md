@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # .NET Server Library Wizard
 This wizard is a two-page wizard. The first page collects library information, and the second page collects host environment information. In addition, you can use a **Welcome** page, and a **Finish** page to display summary information.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BizTalk ESB Toolkit Message Life Cycle
 The following is the life cycle of a message that originates from an external system and traverses through the ESB to reach its final destination:  

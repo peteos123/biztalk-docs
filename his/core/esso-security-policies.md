@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # ESSO Security Policies
 Enterprise Single Sign-On (ESSO) Security policies define how Windows security credentials are established before the HIP server object is run. The security credentials can be based on the user IDs and passwords delivered to HIP by either the client application program or ESSO. If there is no ESSO Security Policy defined, then the security credentials of the user the HIP Service is running as are used.

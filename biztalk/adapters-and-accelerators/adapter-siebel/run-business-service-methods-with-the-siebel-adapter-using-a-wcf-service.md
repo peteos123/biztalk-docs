@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Invoke Business Service Methods with the Siebel adapter using the WCF Service Model
 You can create a WCF client that targets methods of Siebel business services. You can then use the WCF client to invoke these methods on the Siebel system. Siebel business services are surfaced under the Business Services node in the [!INCLUDE[addadapterservreflong](../../includes/addadapterservreflong-md.md)]. The methods exposed by each business service are surfaced under the node corresponding to that service. You can follow the steps in [Overview of the WCF Service Model with the Siebel Adapter](../../adapters-and-accelerators/adapter-siebel/overview-of-the-wcf-service-model-with-the-siebel-adapter.md) to generate a WCF client for a business service and to use it to invoke the service's methods.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Operations on tRFCs in SAP
 Transactional RFCs (tRFCs) are RFCs that are invoked as part of a logical unit of work (LUW). On an SAP system, an LUW contains all of the steps necessary to complete a business or programming task. A tRFC represents a way of invoking an RFC; it is not a unique SAP artifact.  

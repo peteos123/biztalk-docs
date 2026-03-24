@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Send Adapter Initialization
 Before sending a message to SWIFT, the send adapter must be initialized. The following figure shows the initialization sequence.  

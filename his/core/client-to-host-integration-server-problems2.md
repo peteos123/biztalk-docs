@@ -6,7 +6,7 @@ ms.date: "01/26/2024"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: troubleshooting-general
 ---
 # Client to Host Integration Server Problems
 When you are troubleshooting an issue between a client and the HIS server computer, the first step is to verify that the client workstation can connect to other network resources on the Windows Server where the Host Integration Server is installed. If you can't map a network drive at the workstation, you should troubleshoot this problem as a workstation to Windows Server issue.

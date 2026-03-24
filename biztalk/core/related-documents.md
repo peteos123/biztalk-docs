@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Related Documents
 The Related Documents area of the query results detail displays a list of documents that are reference documents that relate to the activity. The documents can be of any type, including a CAD image, a .WAV file, or a purchase order. For example, a Purchase Order activity will typically have a Purchase Order as a base document type. The list will contain a link to the purchase order.  

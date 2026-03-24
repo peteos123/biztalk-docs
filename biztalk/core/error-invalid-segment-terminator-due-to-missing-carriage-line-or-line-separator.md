@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # The interchange had structural error. A likely cause is invalid segment terminator due to missing Carriage Line and-or Line Feed seperators
 ## Details  

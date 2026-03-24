@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # SendPortRef (Port Node)
 The SendPortRef node of the Port node of a binding file contains information about a send port that is referenced by a service.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The Exception Handling Web Service
 The Exception Handling Web service accepts a fault message and publishes it to the ESB Exception Portal. A client application can create exception messages and submit them to the ESB, where any handler configured for that exception type, or a generic handler, can process the exception. The major benefit of this service is that it allows entities outside an ESB application to participate in the ESB exception handling mechanism.  

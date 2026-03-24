@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Correlation Sets
 You can achieve this sort of correlation of messages with orchestration instances by defining correlation sets. A correlation set is a set of properties *with specific values*. This is different from a correlation type, which is simply a list of properties. If an incoming message does not have all of these properties, with matching values for each, correlation will fail and the message will not be received by the orchestration instance.  

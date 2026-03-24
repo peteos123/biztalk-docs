@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BAM Event Bus Service Server Failover
 The BAM Event Bus service includes fault tolerance logic that enables it to recover and restart from an unexpected failure without losing any data.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # ABEND (CPI-C)
 The following ABEND conditions, indicated by *return_code*, cause the conversation to change to RESET state:  

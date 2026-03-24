@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Browse, search, and get Siebel metadata
 The [!INCLUDE[adaptersiebel_short](../../includes/adaptersiebel-short-md.md)] surfaces metadata from the Siebel system that describes the message structure for communicating with a Siebel system using the adapter. The [!INCLUDE[adaptersiebel_short](../../includes/adaptersiebel-short-md.md)] supports two interfaces for retrieving metadata.  

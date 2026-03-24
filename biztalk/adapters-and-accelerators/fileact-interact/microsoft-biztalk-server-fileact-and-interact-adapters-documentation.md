@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: hub-page
 ---
 # Microsoft BizTalk Server FileAct and InterAct Adapters documentation
 The [!INCLUDE[swift_adapter](../../includes/swift-adapter-md.md)] includes information that can help you install and configure the FileAct and InterAct adapters, learn about these adapters, and understand the architecture.  

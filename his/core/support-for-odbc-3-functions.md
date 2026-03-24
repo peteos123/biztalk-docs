@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Support for ODBC 3 Functions
 The following table lists the ODBC 3.0 functions that are supported by the Microsoft ODBC Driver for DB2.  

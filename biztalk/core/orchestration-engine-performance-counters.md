@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Orchestration Engine Performance Counters
 The orchestration engine maintains several performance counters that you can examine with Performance Monitor to see how many orchestration instances and transactions are being processed by the engine over time.  

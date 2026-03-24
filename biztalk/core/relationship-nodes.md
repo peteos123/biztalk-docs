@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Relationship Nodes
 Relationship folders are used whenever an activity definition file contains more than one activity. The names of the folders match the name of the associated activity. You form the link by matching the name of the relationship folder to the activity ID of the related activity and by matching the values for the data items. You define each relationship using a separate node.  

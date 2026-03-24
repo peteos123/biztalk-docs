@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # EDI Override Context Properties
 The message context properties in the EdiOverride global property schema can be used to override the EDI envelope values at runtime. These message context properties are defined in edi-properties.xsd in the Microsoft.BizTalk.Edi.BaseArtifacts assembly. The namespace for the properties is `http://schemas.microsoft.com/BizTalk/2006/edi-properties`.  

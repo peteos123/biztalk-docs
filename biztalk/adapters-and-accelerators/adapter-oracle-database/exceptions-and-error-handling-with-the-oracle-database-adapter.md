@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Exceptions and error handling with the Oracle Database adapter
 This section lists the exceptions that the [!INCLUDE[adapteroracle](../../includes/adapteroracle-md.md)] throws. These can contain:  

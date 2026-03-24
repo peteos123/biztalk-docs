@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Business Process Management Solution
 The Business Process Management solution shows how to design a BizTalk application to manage a business process such as service order processing. The solution demonstrates how to construct a process manager and provides guidance about dividing a process into distinct stages. The solution also describes how to construct interruptible orchestrations as well as extensive, sophisticated exception handling.  

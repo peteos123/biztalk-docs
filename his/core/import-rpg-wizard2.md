@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Import RPG Wizard
 The **Import RPG Wizard** allows you to import the definitions from Report Program Generator (RPG) source code written for use by distributed program call (DPC) applications running on IBM i computers.  

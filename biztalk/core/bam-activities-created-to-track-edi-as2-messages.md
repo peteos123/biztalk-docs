@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # BAM Activities Created to Track EDI-AS2 Messages
 BizTalk Server includes BAM activities that have been created for EDI and AS2 status reporting. These activities determine the data that is displayed in the status reports. This topic describes the BAM activities and the fields that are defined in them, and describes the enumeration values that are defined for certain fields in the BAM activities.  

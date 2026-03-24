@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Document Validation in the XML Disassembler Pipeline Component
 By default, the XML Disassembler does not validate XML documents against a schema. However, you can configure the XML Disassembler to validate an XML document by setting the **Validate Document Structure** property.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # The ESB Exception API Members
 The **ESB.ExceptionHandling** assembly exposes public methods to create fault messages and to manage and retrieve them for processing, as described in the following table.  

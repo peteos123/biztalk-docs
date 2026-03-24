@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Session Integrator Programming Interfaces
 Session Integrator provides a COM and a .NET Framework interface to grant programmatic access to an SNA network using LU0 and LU2 protocols. The following tables describe the relationships between the COM and the .NET Framework interfaces.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Choice Group Nodes
 In BizTalk Editor, you can insert a **Choice Group** node to contain other nodes (or entire subtrees of nodes), only one of which can appear in an instance message. A given instance message, if valid, will have only one of the choices present. The contained nodes must be nodes that correspond to XML elements, but cannot be nodes that correspond to XML attributes.  

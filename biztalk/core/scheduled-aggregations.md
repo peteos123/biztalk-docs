@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Scheduled Aggregations
 BAM bases scheduled aggregations on dynamically generated OLAP cubes and Data Transformation Services (DTS) packages. The data in scheduled aggregations represents a snapshot of your business activities when you start your DTS package. To achieve this, the first step of the DTS package for analysis is a call to the stored procedure **bam_Metadata_BeginAnalysis** that will retrieve a snapshot consisting of:  

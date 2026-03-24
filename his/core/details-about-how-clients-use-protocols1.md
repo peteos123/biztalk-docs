@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Details about How Clients Use Protocols
 The following sections describe how each type of client works with [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)]. The clients are listed according to the protocol used: Microsoft Networking (Named Pipes) and TCP/IP.  

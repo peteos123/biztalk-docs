@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: install-set-up-deploy
 ---
 # A4SWIFT Accelerator
 When installing the [!INCLUDE[btaA4SWIFT2.3abbrevnonumber](../includes/btaa4swift2-3abbrevnonumber-md.md)] accelerator to use the Message Repair and Submission Request (MRSR) scenario, the following SharePoint versions can be used:

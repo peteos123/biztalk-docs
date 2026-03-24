@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: error-reference
 ---
 # X12 interchange Xml serialization failed due to invalid structure. Looking for TransactionSet or GE, but not found
 ## Details  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Exception Handling
 The **RuleEngine** class has the property **CompensationHandlerInfo**, which in turn has two properties: **CompensationHandler** and **UserData**. The **CompensationHandler** property is of type **RuleEngineCompensationHandler**, and the **UserData** property is of type **Object**. The definition for the **RuleEngineCompensationHandler** is as follows:  

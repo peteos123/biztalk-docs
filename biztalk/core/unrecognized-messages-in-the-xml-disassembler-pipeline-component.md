@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Unrecognized Messages in the XML Disassembler Pipeline Component
 The XML Disassembler component may handle a message as "unrecognized" in the following cases:  

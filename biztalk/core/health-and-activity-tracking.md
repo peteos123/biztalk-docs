@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Health and Activity Tracking
 The **Health and Activity Tracking (HAT)** tool was removed in [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] 2009.  The role of the HAT tool was to track and display information relating to live and historical message data stored in the BizTalk Tracking database.  The tool allowed debugging of the flow of an orchestration and the ability to view the flow of a message through a sequential display.  A Query Builder allowed standard and custom queries of the tracking data.  

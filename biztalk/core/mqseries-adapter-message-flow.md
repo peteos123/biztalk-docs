@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # MQSeries Adapter Message Flow
 A message originating from a [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] computer is first passed to an MQSeries Server running on Windows. MQSeries Server running on Windows can be on the same computer as the one that runs BizTalk Server. The message is routed through the MQSeries Server for Windows computer to an MQSeries Server host on an operating system such as UNIX. An application then retrieves the message from the MQSeries queue.  

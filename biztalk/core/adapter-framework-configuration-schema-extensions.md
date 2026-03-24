@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Adapter Framework Configuration Schema Extensions
 The BizTalk Adapter Framework supports the dynamic generation of user interfaces based on an XSD definition. The adapter supplies the required XSD and the Adapter Framework creates a property page that allows the user to enter values.  

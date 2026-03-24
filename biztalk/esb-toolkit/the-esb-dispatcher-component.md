@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # The ESB Dispatcher Component
 Messaging-based itinerary services are executed inside the ESB Dispatcher component. The Dispatcher component can also dynamically set endpoint location properties for outbound messages and dynamically transform messages.  

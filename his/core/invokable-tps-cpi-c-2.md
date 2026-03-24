@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Invokable TPs (CPI-C)
 An invokable transaction program (TP) is a TP that can be invoked by another TP. Invokable TPs are written or configured through registry or environment variables to supply their names to the SNA service as a notification that they are available for incoming requests. An SNA service invokable TP can be run on any computer running Host Integration Server or client.  

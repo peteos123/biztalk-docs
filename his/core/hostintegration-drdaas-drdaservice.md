@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # hostIntegration.drdaAs.drdaService
 The hostIntegration.drdaAs.drdaService is the main portion of the MsDrdaService.exe.config file and contains a services element.  

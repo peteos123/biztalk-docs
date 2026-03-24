@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # BAM and Tracking Assistance
 You can request assistance through the BAM portal by clicking the **Assistance** button on the Activity Status page.  

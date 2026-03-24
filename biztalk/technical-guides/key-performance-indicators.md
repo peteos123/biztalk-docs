@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Key Performance Indicators
 This topic provides test results that the BizTalk Server product group observed when using the following scale-out methods:  

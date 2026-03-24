@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Support for LUA Single Sign-On
 This section describes the logical unit application (LUA) support for Single Sign-On using 3270 display sessions that is available in Host Integration Server.  

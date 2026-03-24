@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Host File Designer Main Menu
 The main menu in Host File Designer presents the **Edit** tab, which contain the following commands:  

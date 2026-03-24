@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Key Messages and Fields
 This section briefly describes key messages and fields handled by the **OrderBroker** and **OrderManager** orchestrations. For a complete list of messages in the application, see [Message Reference for the Business Process Management Solution](../core/message-reference-for-the-business-process-management-solution.md).  

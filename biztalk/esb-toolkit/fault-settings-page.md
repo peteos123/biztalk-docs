@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: ui-reference
 ---
 # Fault Settings Page
 Figure 1 shows the Fault Settings page. This page displays a range of administrative settings that you can modify.

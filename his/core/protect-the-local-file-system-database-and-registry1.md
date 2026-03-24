@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # Protect the Local File System, Database, and Registry
 To prevent an attacker from spoofing their identity, accessing restricted data, or tampering with the data, you should do the following:  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # LU 6.2 Contention Winner Limit
 Transaction Integrator (TI) can use either LU 6.2 contention winner sessions or contention loser sessions. In order to avoid the high overhead of negotiating for a contention loser session, TI will use a contention winner session, if there are any available.  

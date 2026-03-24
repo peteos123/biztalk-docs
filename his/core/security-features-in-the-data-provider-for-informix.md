@@ -6,7 +6,7 @@ ms.date: "07/12/2023"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Security Features in the Data Provider for Informix
 You can use the OLE DB Provider for Informix (Data Provider) to connect Windows data consumer applications to remote IBM Informix relational database management servers. The Data Provider function as a distributed relational database architecture (DRDA) application requester client that supports the DRDA protocol and formats that are compatible with IBM Informix server products functioning as DRDA application servers.  

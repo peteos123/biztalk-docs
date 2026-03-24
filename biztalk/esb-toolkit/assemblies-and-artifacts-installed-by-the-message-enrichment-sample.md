@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Assemblies and Artifacts Installed by the Message Enrichment Sample
 The following table lists the assemblies and other artifacts installed for the Message Enrichment sample.  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: best-practice
 ---
 # SOAP Adapter Security Recommendations
 [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] uses the SOAP adapter to publish (receive) and consume (send) Web services. For more information about the SOAP adapter, see [SOAP Adapter](../core/soap-adapter.md). For more information about Web services, see [Using Web Services](../core/using-web-services.md). It is recommended you follow these guidelines for securing and deploying the SOAP adapter in your environment.

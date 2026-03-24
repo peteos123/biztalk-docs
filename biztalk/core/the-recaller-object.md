@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The Recaller Object
 The business process management solution provides for retrying, in a generic way, some failed object method calls. The solution does this through the **Recaller** object in the **ExceptionHandler** orchestration. The **ExceptionHandler** orchestration uses the object to retry object method calls. For more information, see [The ExceptionHandler Orchestration](../core/the-exceptionhandler-orchestration.md).  

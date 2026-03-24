@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Property Demotion in Assembler Pipeline Components
 You can use property demotion to copy a property value from the message context into the message content or to its header or trailer. You accomplish property demotion by using an XPath expression specified in the document or in the header and trailer schema.  

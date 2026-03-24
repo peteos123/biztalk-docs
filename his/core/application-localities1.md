@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Application Localities
 Applications such as 3270 emulators can enter dynamically into an SNA server system. The application, in conjunction with the Base, acts as a whole locality and communicates with the other localities in the system using a Dynamic Access Module (DMOD).  

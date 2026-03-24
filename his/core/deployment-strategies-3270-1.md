@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Deployment Strategies (3270)
 This section describes deployment strategies that can be applied if you are providing 3270 connectivity services including:  

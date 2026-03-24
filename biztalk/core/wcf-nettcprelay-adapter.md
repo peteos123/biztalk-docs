@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # WCF-NetTcpRelay Adapter
 Microsoft [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] uses the **WCF-NetTcpRelay** adapter to receive and send WCF service requests through the [NetTcpRelayBinding class](/dotnet/api/microsoft.servicebus.nettcprelaybinding).  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Messages
 Society for Worldwide Interbank Financial Telecommunication (SWIFT) is an industry-owned cooperative supplying secure messaging services and interface software to over 7,000 financial institutions in 200 countries/regions. SWIFT provides messaging services to banks, broker-dealers, and investment managers, as well as to market infrastructures in payments, treasury, securities, and trade. These services help their customers reduce costs, improve automation, and manage risk. SWIFT is also the main standards body for interbank communications.

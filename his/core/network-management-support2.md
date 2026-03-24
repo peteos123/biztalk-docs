@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Network Management Support
 The requirement to manage heterogeneous network environments containing mainframes, midrange systems, and personal computers is a big challenge. This section discusses two mainframe management tools, IBM NetView and Response Time Monitor, which are supported by [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] and can be used to manage your integrated network.  

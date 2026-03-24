@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Rule Engine
 This section describes several components, functionalities, and operations of the Business Rule engine. The rule engine provides the execution context for a rule set. The **RuleEngine** object uses the following plug–in components for implementation:  

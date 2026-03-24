@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Level of Security
 Application-level (or package-level) security and user-level security are the two preferred means of authentication because they integrate security on the mainframe with Windows security. The Transaction Integrator (TI) run-time environment obtains credentials from either the Windows identity of the COM+ application or from the identity of the client application that invoked the TI Automation server that contains the TI component.  

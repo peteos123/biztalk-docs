@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Interfaces for a Synchronous Request-Response Receive Adapter
 All receive adapters need to implement the following interfaces to work in request-response mode:  

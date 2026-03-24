@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # Session Integrator for LU2 Code Example
 The following code is from the 3270 application in the samples directory of the Host Integration Server SDK.  

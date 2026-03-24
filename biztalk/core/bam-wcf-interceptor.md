@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BAM WCF Interceptor
 The BAM WCF interceptor provides comprehensive support for tracking data within your WCF services.  

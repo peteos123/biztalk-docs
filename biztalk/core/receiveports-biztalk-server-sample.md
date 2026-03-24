@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # ReceivePorts (BizTalk Server Sample)
 The ReceivePorts sample demonstrates how to create a new receive port by using the **ExplorerOM** administrative classes.

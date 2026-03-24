@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Session Integrator COM Reference
 The following topics contain the COM reference material for the Session Integrator feature for Host Integration Server.  

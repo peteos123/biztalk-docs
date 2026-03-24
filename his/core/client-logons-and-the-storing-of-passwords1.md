@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Client Logons and the Storing of Passwords
 For security reasons, a user at a client computer may have to log on several times before obtaining access through [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)] to an IBM mainframe (z/OS) or a midrange (IBM i) server. Users may not always find this to be convenient. The logons are necessary because starting an SNA session requires several kinds of access: access to the Windows domain, access to a Host Integration Server computer, access to the mainframe or midrange server and, possibly, access to programs on the mainframe or IBM i environment. An example of such a program is an midrange RPG for IBM i program that uses conversation security when communicating with 5250 emulators. Each layer of access may require an additional logon depending on the operating system and the client/server protocol used on the client.  

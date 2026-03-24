@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Adapter Property Page Keyboard Shortcuts
 As in any standard Microsoft Windows application, you can use keyboard shortcuts in the adapter property pages to access commands that are otherwise available by using menus. The following table describes the available keyboard shortcuts.  

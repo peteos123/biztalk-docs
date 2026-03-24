@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Remotely Initiated Conversations
 Applications that want to receive remotely initiated conversations (incoming Attaches) issue a [RECEIVE_ALLOCATE](./receive-allocate1.md) verb. To accommodate Sync Point support, the **RECEIVE_ALLOCATE** verb is modified in a number of ways as follows:  

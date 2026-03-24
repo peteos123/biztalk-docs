@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # DistributionList (DistributionListCollection Node)
 The DistributionList node of a binding file contains specific information about a distribution list that is exported with the binding file. A distribution list is referred to as a send port group in the BizTalk Server Administrator.  

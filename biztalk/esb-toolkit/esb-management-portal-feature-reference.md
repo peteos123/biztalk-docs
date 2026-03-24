@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: feature-guide
 ---
 # ESB Management Portal Feature Reference
 The ESB Management Portal provides views of fault information that make it easy to monitor, manage, and debug ESB applications. It also provides features that you can use to manage alerts, publish UDDI information, and administer the portal. To open the portal, go to http://localhost/ESB.Portal/.  

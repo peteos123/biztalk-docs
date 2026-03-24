@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: language-reference
 ---
 # XLANG-s Language
 XLANG/s was designed to use Internet standards such as XML, XSD, and Web Services Description Language (WSDL), and has embedded support for working with .NET-based objects and messages. XLANG/s can be viewed as a messaging language with some of the expression capabilities of C#. However, code is not portable between XLANG/s and C#.  

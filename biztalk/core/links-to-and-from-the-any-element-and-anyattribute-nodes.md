@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Links To and From the Any Element and anyAttribute Nodes
 You must use the **Mass Copy** functoid to map elements containing **any** or **anyAttribute** nodes. BizTalk mapper does not support direct linking between **any** or **anyAttribute** nodes. The **any** and **anyAttribute** nodes, in combination with the **Mass Copy** functoid, are most commonly used to map sections of HTML documents.  

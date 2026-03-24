@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # PrimaryTransport (SendPort Node)
 The PrimaryTransport node of the SendPort node of a binding file provides specific information about the primary transport that is bound to a send port exported with the binding file.  

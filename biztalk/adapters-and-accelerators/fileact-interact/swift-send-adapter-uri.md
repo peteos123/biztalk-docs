@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SWIFT Send Adapter URI
 The URI for the send adapter is the constructed based responder name (SWIFT://\<Responder Name\>). Responder name is a distinguished name defined by SWIFT. It indicates to whom the message needs to be sent. SWIFT uses this value to route the message to the recipient.  

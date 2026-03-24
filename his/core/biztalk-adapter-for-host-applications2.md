@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # BizTalk Adapter for Host Applications
 The Microsoft BizTalk Adapter for Host Applications is based on technology in Transaction Integrator (TI) that enables enterprises to connect BizTalk Server solutions to existing IBM mainframe zSeries (CICS and IMS) or midrange iSeries (RPG) server programs. The adapter offers an intuitive Visual Studio designer, including host COBOL and RPG source code import wizards, with which to generate XSD schemas for use in BizTalk projects. The administration tools are integrated with the BizTalk Server port configuration and deployment tools. Using this adapter, IT professionals can efficiently extend existing business rules in host programs with new solutions based on BizTalk Server 2006.  

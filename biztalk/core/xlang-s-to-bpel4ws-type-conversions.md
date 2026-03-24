@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # XLANG-s to BPEL4WS Type Conversions
 The following tables detail the conversions between various XLANG/s constructs and BPEL4WS constructs.  

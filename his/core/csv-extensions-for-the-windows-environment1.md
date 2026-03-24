@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # CSV Extensions for the Windows Environment
 This section describes API extensions to the Windows® Common Service Verb (CSV) API. Windows CSV allows multithreaded Microsoft® Windows-based processes. Multithreading is the running of several processes in rapid sequence within a single program. A process contains one or more threads of execution. All references to threads in this document refer to actual threads in multithreaded Windows environments.  

@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Data
 **Data** messages carry both inbound and outbound data between the application and the local node on all connections. For a detailed description of outbound and inbound data flows, see [Data Flow](./data-flow1.md).  

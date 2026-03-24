@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Receiver Interfaces
 In addition to the standard adapter interfaces, receive adapters need to implement **IBTTransportConfig**. This is the interface on which the BizTalk Messaging Engine delivers receive location configuration to the adapter.  

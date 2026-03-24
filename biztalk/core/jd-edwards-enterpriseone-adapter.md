@@ -6,7 +6,7 @@ ms.date: "10/18/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: landing-page
 ---
 # JD Edwards EnterpriseOne Adapter
 Microsoft BizTalk Adapter for J.D. Edwards EnterpriseOne enables you to use JD Edwards EnterpriseOne business functions within BizTalk Server. The following sections discuss setting up the adapter to access JD Edwards EnterpriseOne-specific information.  

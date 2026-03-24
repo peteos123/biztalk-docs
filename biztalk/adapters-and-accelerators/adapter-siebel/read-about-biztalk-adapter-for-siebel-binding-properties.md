@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Read about BizTalk Adapter for Siebel Binding Properties
 The [!INCLUDE[adaptersiebel_md](../../includes/adaptersiebel-md.md)] surfaces several binding properties that enable you to control some of its run-time and design-time behavior. This section describes these binding properties and provides links to topics that explain how you can set them.  

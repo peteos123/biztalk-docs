@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Requirements for Using the BAM Add-In for Excel
 Business analysts use the BAM Add-In for Excel to define the events and data to be tracked, along with the logical groupings and aggregations of the tracked data views that users are able to access.  

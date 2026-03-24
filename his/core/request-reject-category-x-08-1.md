@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Request Reject (Category X&#39;08&#39;)
 This category indicates that the request was delivered to the intended half session, and was understood and supported, but not executed. The following codes are in this category.  

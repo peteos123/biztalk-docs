@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # The ESB Fault Processor Pipeline
 The [!INCLUDE[esbToolkit](../includes/esbtoolkit-md.md)] installs a send port named ALL.Exceptions that uses the ESBFaultProcessor send pipeline. Figure 1 shows the properties of the ALL.Exceptions send port.  

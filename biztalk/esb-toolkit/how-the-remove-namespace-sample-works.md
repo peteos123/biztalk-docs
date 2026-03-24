@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # How the Remove Namespace Sample Works
 The second and third tests use the **Remove Namespace** component located in the **NamespaceSampleSendPipeline** pipeline. It takes as input a document with a namespace on the root node, such as the following:  

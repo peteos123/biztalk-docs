@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Patterns in the Service Oriented Solution
 This section looks at the basic programming patterns making up the Service Oriented solution. It begins by considering the enterprise patterns involved in the solution, develops those patterns into BizTalk patterns. The final section catalogs the patterns in the solution, whether those are enterprise patterns, BizTalk patterns, or other general programming patterns.  

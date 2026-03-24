@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Limitations When Querying and Retrieving Lists
 The JD Edwards OneWorld communication architecture is a single-message, single-reply architecture. You cannot return a list of messages or an array. The underlying code is C++, which calls with a pointer to a single structure, makes changes in the structure, and then exits.  

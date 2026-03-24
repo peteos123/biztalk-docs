@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # SNA Session Support
 This section lists and explains the types and numbers of SNA sessions supported by [!INCLUDE[hisHostIntServNoVersion](../includes/hishostintservnoversion-md.md)].  

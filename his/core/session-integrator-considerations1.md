@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Session Integrator Considerations
 Session Integrator is designed to communicate between a Windows-based enterprise and an IBM network. Therefore, you should be familiar with the following concepts and technologies before attempting to use Session Integrator:  

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Configure the Maximum Connection Limit to the SAP Server
 The Data Provider for SAP enables adapter clients to control the maximum number of connections that can be opened by the provider internally. You can control this by setting the environment variable, CPIC_MAX_CONV.  

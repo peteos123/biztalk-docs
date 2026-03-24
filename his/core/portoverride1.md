@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # PortOverride
 When using a TCP/IP transport, PortOverride contains the TCP/IP port number that the Transaction Integrator runtime will use instead of the predefined port in the Remote Environment definition  

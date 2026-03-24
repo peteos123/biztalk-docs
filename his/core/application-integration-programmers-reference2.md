@@ -6,7 +6,7 @@ ms.date: "01/31/2024"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Application Integration Programmer Reference
 This section of the Microsoft Host Integration Server Programmer 's Reference describes the objects, methods, properties, controls, and other interfaces that enable you to integrate Host Integration Server technologies into your application.  

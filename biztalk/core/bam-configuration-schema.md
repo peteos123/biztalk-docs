@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BAM Configuration Schema
 The BAM configuration schema defines an XML document that contains information about your infrastructure that the BAM Manager Utility uses for deployment. You can deploy your databases to multiple servers for scalability. To support this scalability, ensure that the BAM configuration XML document contains the different server names and configuration settings for the following databases:  

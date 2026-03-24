@@ -6,7 +6,7 @@ ms.date: "11/30/2017"
 ms.service: host-integration-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # Status-Acknowledge
 **Status-Acknowledge** messages flow between the application and the local node as part of the outbound and inbound data acknowledgment protocols. For a detailed description of outbound and inbound acknowledgment protocols, see [Data Flow](./data-flow1.md).  

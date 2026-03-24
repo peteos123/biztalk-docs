@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: concept-article
 ---
 # BizTalk Server Roles and Responsibilities
 The development, maintenance, and administration of a [!INCLUDE[btsBizTalkServerNoVersion](../includes/btsbiztalkservernoversion-md.md)] environment encompass several different roles with distinct responsibilities. This topic describes these roles, the responsibilities associated with the roles, and tools that can be used to complete the tasks associated with each role. This topic also provides links to Operational Readiness checklist tasks associated with each role.

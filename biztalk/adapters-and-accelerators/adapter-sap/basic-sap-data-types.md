@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Basic SAP Data Types
 The parameter types that the [!INCLUDE[adaptersap](../../includes/adaptersap-md.md)] supports are governed by the:  

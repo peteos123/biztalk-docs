@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: how-to
 ---
 # Alerts by Application or Service
 This option displays an aggregate view of all the alerts generated for a specified set of applications over a specified time. Selecting a specific service displays a report that lists the alerts for that specific service. You can export the list of alerts as a Microsoft Excel spreadsheet.  

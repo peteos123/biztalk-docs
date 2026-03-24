@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: reference
 ---
 # Dynamic Adapter DisplayUI Method
 This method on the **IDynamicAdapterConfig** interface displays the custom user interface for the custom adapter. This enables the user to view, select, and import the related supporting files based upon the selected services into their BizTalk project.  
