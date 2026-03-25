@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: sample
 ---
 # MSCIT: Using Microsoft Azure BizTalk Services for Supply Chain Orders
 **Microsoft Devices & Studios: Using Microsoft Azure BizTalk Services for Supply Chain Orders**

@@ -6,7 +6,7 @@ ms.date: "06/08/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: release-notes
 ---
 # BizTalk Server 2013 Monitoring Management Pack Guide
 ## Document Version  
