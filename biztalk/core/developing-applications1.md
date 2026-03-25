@@ -6,7 +6,7 @@ ms.date: "10/24/2017"
 ms.service: biztalk-server
 ms.reviewer: ""
 ms.suite: ""
-ms.topic: "article"
+ms.topic: overview
 ---
 # Create your TIBCO Rendezvous application artifacts
 
